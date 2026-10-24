@@ -1,0 +1,12 @@
+{
+  "01_ecg_lead_masking.py": {
+    "hash": "98f11c74cd7f841276e1db38919f0411443583d77e9c3738e7779f13b3f7d1dc",
+    "index_entry": {
+      "id": "01_ecg_lead_masking",
+      "title": "ECG classification when leads go missing",
+      "path": "traces/01_ecg_lead_masking.json",
+      "step_count": 43,
+      "built_at": "2026-10-24T18:19:35.439849+00:00"
+    }
+  }
+}

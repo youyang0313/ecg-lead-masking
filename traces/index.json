@@ -1,0 +1,12 @@
+{
+  "version": "2",
+  "traces": [
+    {
+      "id": "01_ecg_lead_masking",
+      "title": "ECG classification when leads go missing",
+      "path": "traces/01_ecg_lead_masking.json",
+      "step_count": 43,
+      "built_at": "2026-10-24T18:19:35.439849+00:00"
+    }
+  ]
+}
