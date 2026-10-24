@@ -1,0 +1,16 @@
+{
+  "status":"v2 proposed evaluation definitions; no experiment executed",
+  "source_url":"https://moody-challenge.physionet.org/2021/",
+  "source_paper":"reyna2022issues, Table 3, PDF page 7",
+  "canonical_names_for_this_document":["I","II","III","aVR","aVL","aVF","V1","V2","V3","V4","V5","V6"],
+  "channel_order_warning":"A document convention, not a verified waveform channel order. Resolve actual lead names from headers during later implementation.",
+  "configurations":[
+    {"id":"S12","role":"complete-input reference","available":["I","II","III","aVR","aVL","aVF","V1","V2","V3","V4","V5","V6"]},
+    {"id":"S6","role":"partial-input evaluation","available":["I","II","III","aVR","aVL","aVF"]},
+    {"id":"S4","role":"partial-input evaluation","available":["I","II","III","V2"]},
+    {"id":"S3","role":"partial-input evaluation","available":["I","II","V2"]},
+    {"id":"S2","role":"partial-input evaluation","available":["I","II"]}
+  ],
+  "partial_summary_weights":{"S6":0.25,"S4":0.25,"S3":0.25,"S2":0.25},
+  "limitations":["Not a device-feasibility or electrode-failure model.","S6 to S4 changes lead identity as well as count; configurations are not a purely nested count sequence.","Task and score differ from the original challenge; this is not a challenge replication."]
+}

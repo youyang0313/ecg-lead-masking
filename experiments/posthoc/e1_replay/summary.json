@@ -1,0 +1,137 @@
+{
+  "completed": "2026-10-23T15:22:02.734711+00:00",
+  "status": "complete",
+  "results": [
+    {
+      "seed": 17,
+      "arm": "A",
+      "protocol": {
+        "epoch": 3,
+        "score": 0.8104273059069579,
+        "state_sha256": "732901b05137c10e83cd74907419db9f3f80e30d81881407fe9f0e64db752e5e"
+      },
+      "s12": {
+        "epoch": 11,
+        "score": 0.9318494052653715,
+        "state_sha256": "37292f15cbe59fad3142a9b88663d4ec8b944212a6cd5f3be04d78f3513dc946"
+      },
+      "protocol_checkpoint_reproduces_archive": true
+    },
+    {
+      "seed": 17,
+      "arm": "B",
+      "protocol": {
+        "epoch": 25,
+        "score": 0.9097908533038396,
+        "state_sha256": "83bac81f922ad39ae60f8f1d98f6978ad64f86f2293c33651659d6e8f1eb16b9"
+      },
+      "s12": {
+        "epoch": 17,
+        "score": 0.933707302244269,
+        "state_sha256": "cd349a1f7592a26dc6329298f3cf39f8bab51d011d7caa7b5f379238e2741aab"
+      },
+      "protocol_checkpoint_reproduces_archive": true
+    },
+    {
+      "seed": 29,
+      "arm": "A",
+      "protocol": {
+        "epoch": 7,
+        "score": 0.7873333554919603,
+        "state_sha256": "c147e960b95693916ab0fdb9c9b85d20fd55af5204c72320f1d683750854ceac"
+      },
+      "s12": {
+        "epoch": 11,
+        "score": 0.9327852406204278,
+        "state_sha256": "179020e4dc93003186bfc44ca6592ab2f8de3af973690816a2ae33d0ea687b78"
+      },
+      "protocol_checkpoint_reproduces_archive": true
+    },
+    {
+      "seed": 29,
+      "arm": "B",
+      "protocol": {
+        "epoch": 23,
+        "score": 0.9124497762167558,
+        "state_sha256": "64f34fbd867b72ad3015a2cb70f5a7cf90334f00ee1d4c5f9017fadfdf4674cd"
+      },
+      "s12": {
+        "epoch": 14,
+        "score": 0.9330114061603618,
+        "state_sha256": "93cb4fc0726d49f7d9bdc398e018731ca77e4109c92373bd19e8748642d256f7"
+      },
+      "protocol_checkpoint_reproduces_archive": true
+    },
+    {
+      "seed": 43,
+      "arm": "A",
+      "protocol": {
+        "epoch": 5,
+        "score": 0.8188734443975343,
+        "state_sha256": "9ec0ef64d1e562d28ca16666b73d49df449f66d71e7180cf04deb31b955ab3e9"
+      },
+      "s12": {
+        "epoch": 10,
+        "score": 0.9329907482066119,
+        "state_sha256": "e27d586ec866d31556c926de63d5fd058700c1f90bbc4df78b308c3da1087e68"
+      },
+      "protocol_checkpoint_reproduces_archive": true
+    },
+    {
+      "seed": 43,
+      "arm": "B",
+      "protocol": {
+        "epoch": 23,
+        "score": 0.9127772378722875,
+        "state_sha256": "0956eed7abc82c959b93a061191b33c453495521744d9c42086a26fbf7b261f3"
+      },
+      "s12": {
+        "epoch": 23,
+        "score": 0.9348700328407237,
+        "state_sha256": "0956eed7abc82c959b93a061191b33c453495521744d9c42086a26fbf7b261f3"
+      },
+      "protocol_checkpoint_reproduces_archive": true
+    }
+  ],
+  "environment": {
+    "recorded_on": "2026-10-23T15:22:02.734711+00:00",
+    "python": "3.9.22 | packaged by conda-forge | (main, Apr 14 2025, 23:26:18) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "D:\\py\\Anaconda3\\envs\\fl_pytorch\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.6.0",
+    "numpy": "2.0.2",
+    "cuda_build": "12.6",
+    "cudnn": 90800,
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_total_bytes": 8585216000,
+    "deterministic_algorithms": true,
+    "cudnn_benchmark": false,
+    "tf32": false,
+    "training_precision": "float16 CUDA autocast + dynamic GradScaler; float32 parameters",
+    "evaluation_precision": "float32, autocast disabled",
+    "batch_size": 64,
+    "input_and_protocol_sha256": {
+      "protocol_v1.json": "ef961ae2972f81c918a2404bed64eff8e8da15156538dd11d358c943ff422911",
+      "lead_configurations.json": "cdb93506b1e9b152ee843394da93fd191b81db791205ef8c0ca8034fa945fca8",
+      "prepared_READY.json": "6126ef731c0a88fcb083227d2e3ac510e76af55e0892f63cc54b9fe453071215"
+    },
+    "source_sha256": {
+      "analyze_test.py": "91c53b1bee95eed59fed1bbbb86f04ad8a6c7468ad212b0658d78181ead1f3bc",
+      "checks.py": "2b75671f668c08125d04efa3acf4ea2e2846efad03ee990e9af75db725e6a3a9",
+      "evaluate_test.py": "c1858ecf34991e039564fbcc9ae7826399e4588dd64fc1e9eaa0a29a1796361f",
+      "experiment.py": "10d05a8bf0be5e56c84040d53c53e6dff150e9689b38454c56af69a10610822c",
+      "metrics.py": "0cd4d48f6fe1afc56e7f33396b35f3495624d4fcbffa555e089f1f8b3d724ce2",
+      "model.py": "9322ffbcf2ed2c425d0c6d57656b3b632434fae590706a581a769093881ec599",
+      "plot_test_results.py": "1b50f3bc93caccdc346fe77cabc1767d3508a3f3a6d17bc9ad324582a5c25d86",
+      "recover_main.py": "7ff5e077ada893f4f2b3d3d69a4cb809fccb5d539923dd72e0f75763f8290650",
+      "runtime.py": "82af9482f5244322bb76c682a2670c146911a0c914cd70776fe6879fed990b71",
+      "test_statistics.py": "ca97a8f555b2279935fb54a401886ba321767a9c8cf70c06753fd5613e57a370",
+      "verify_engineering.py": "d028038a978fa5e7686d56a20f786b71fb490b78163831075ea1086d1a0c40eb",
+      "verify_main.py": "42c3a8713b85c4d652068efdcb114948393e9312d51a1f7abae882a6fbcca7d3",
+      "verify_metrics_reference.py": "8144685bc2fb95d8b180cc7f0999f52ff75f790605f3e0b3cffd46a602e22ace",
+      "verify_test.py": "10abd62639772adad1bbff64bb66f12dab440fdd50ac3efa76773a2a2e0bcd6b"
+    },
+    "test_waveforms_used": false,
+    "test_annotations_parsed": false
+  }
+}

@@ -1,0 +1,40 @@
+{"stage": "model_done", "model": "A_protocol_17"}
+{"stage": "model_done", "model": "A_s12_17"}
+{"stage": "model_done", "model": "B_protocol_17"}
+{"stage": "model_done", "model": "B_s12_17"}
+{"stage": "model_done", "model": "A_protocol_29"}
+{"stage": "model_done", "model": "A_s12_29"}
+{"stage": "model_done", "model": "B_protocol_29"}
+{"stage": "model_done", "model": "B_s12_29"}
+{"stage": "model_done", "model": "A_protocol_43"}
+{"stage": "model_done", "model": "A_s12_43"}
+{"stage": "model_done", "model": "B_protocol_43"}
+{"stage": "model_done", "model": "B_s12_43"}
+B(protocol) zero - A(protocol) zero                  +0.1974 [+0.1882, +0.2067] seeds [0.18, 0.242, 0.17]
+B(protocol) zero - A(protocol) derived               +0.0969 [+0.0881, +0.1059] seeds [0.092, 0.109, 0.089]
+B(protocol) zero - A(protocol) bn_recal              +0.0547 [+0.0492, +0.0601] seeds [0.056, 0.072, 0.036]
+B(protocol) zero - A(protocol) derived+bn_recal      +0.0304 [+0.0242, +0.0366] seeds [0.032, 0.025, 0.034]
+B(protocol) derived+bn_recal - A(protocol) derived+bn_recal +0.0309 [+0.0253, +0.0364] seeds [0.033, 0.023, 0.037]
+A(protocol) derived+bn_recal - A(protocol) derived   +0.0665 [+0.0590, +0.0741] seeds [0.06, 0.084, 0.055]
+B(s12) zero - A(s12) zero                            +0.2210 [+0.2120, +0.2303] seeds [0.239, 0.238, 0.186]
+B(s12) zero - A(s12) derived                         +0.1042 [+0.0949, +0.1134] seeds [0.129, 0.096, 0.087]
+B(s12) zero - A(s12) bn_recal                        +0.0473 [+0.0419, +0.0528] seeds [0.056, 0.057, 0.028]
+B(s12) zero - A(s12) derived+bn_recal                +0.0171 [+0.0114, +0.0230] seeds [0.015, 0.016, 0.02]
+B(s12) derived+bn_recal - A(s12) derived+bn_recal    +0.0239 [+0.0193, +0.0286] seeds [0.024, 0.025, 0.022]
+A(s12) derived+bn_recal - A(s12) derived             +0.0871 [+0.0789, +0.0955] seeds [0.114, 0.08, 0.068]
+A_protocol_zero            {'S6': 0.762, 'S4': 0.727, 'S3': 0.702, 'S2': 0.572} partial 0.6908
+A_protocol_derived         {'S6': 0.762, 'S4': 0.82, 'S3': 0.82, 'S2': 0.762} partial 0.7913
+A_protocol_bn_recal        {'S6': 0.838, 'S4': 0.855, 'S3': 0.852, 'S2': 0.79} partial 0.8335
+A_protocol_derived_bn_recal {'S6': 0.838, 'S4': 0.878, 'S3': 0.878, 'S2': 0.838} partial 0.8578
+A_s12_zero                 {'S6': 0.745, 'S4': 0.709, 'S3': 0.684, 'S2': 0.517} partial 0.6637
+A_s12_derived              {'S6': 0.745, 'S4': 0.816, 'S3': 0.816, 'S2': 0.745} partial 0.7805
+A_s12_bn_recal             {'S6': 0.846, 'S4': 0.859, 'S3': 0.862, 'S2': 0.783} partial 0.8375
+A_s12_derived_bn_recal     {'S6': 0.846, 'S4': 0.889, 'S3': 0.889, 'S2': 0.846} partial 0.8677
+B_protocol_zero            {'S6': 0.881, 'S4': 0.902, 'S3': 0.896, 'S2': 0.874} partial 0.8882
+B_protocol_derived         {'S6': 0.881, 'S4': 0.904, 'S3': 0.904, 'S2': 0.881} partial 0.8924
+B_protocol_bn_recal        {'S6': 0.874, 'S4': 0.903, 'S3': 0.899, 'S2': 0.866} partial 0.8855
+B_protocol_derived_bn_recal {'S6': 0.874, 'S4': 0.903, 'S3': 0.903, 'S2': 0.874} partial 0.8887
+B_s12_zero                 {'S6': 0.88, 'S4': 0.899, 'S3': 0.891, 'S2': 0.868} partial 0.8847
+B_s12_derived              {'S6': 0.88, 'S4': 0.903, 'S3': 0.903, 'S2': 0.88} partial 0.8917
+B_s12_bn_recal             {'S6': 0.879, 'S4': 0.904, 'S3': 0.899, 'S2': 0.871} partial 0.8880
+B_s12_derived_bn_recal     {'S6': 0.879, 'S4': 0.904, 'S3': 0.904, 'S2': 0.879} partial 0.8915

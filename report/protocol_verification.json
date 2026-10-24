@@ -1,0 +1,22 @@
+{
+  "checked_on": "2026-10-23",
+  "protocol_id": "ecg-lead-robustness-v1",
+  "selection_weights_sum": 1.0,
+  "paired_seeds": [
+    17,
+    29,
+    43
+  ],
+  "planned_training_runs": 6,
+  "schedule_endpoints": [
+    0.001,
+    1e-05
+  ],
+  "combined_sections": 4,
+  "citation_keys_resolved": true,
+  "source_values_match_protocol": true,
+  "models_instantiated_or_trained_in_this_work": false,
+  "test_predictions_or_diagnostic_labels_used": false,
+  "latex_compiled": false,
+  "errors": []
+}

@@ -1,0 +1,5222 @@
+{
+  "completed": "2026-10-23T15:30:27.738026+00:00",
+  "models": [
+    {
+      "key": "A_protocol_17",
+      "arm": "A",
+      "seed": 17,
+      "rule": "protocol",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_17_A\\best.pt",
+      "state_sha256": "732901b05137c10e83cd74907419db9f3f80e30d81881407fe9f0e64db752e5e",
+      "epoch": 3
+    },
+    {
+      "key": "B_protocol_17",
+      "arm": "B",
+      "seed": 17,
+      "rule": "protocol",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_17_B\\best.pt",
+      "state_sha256": "83bac81f922ad39ae60f8f1d98f6978ad64f86f2293c33651659d6e8f1eb16b9",
+      "epoch": 25
+    },
+    {
+      "key": "A_protocol_29",
+      "arm": "A",
+      "seed": 29,
+      "rule": "protocol",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_29_A\\best.pt",
+      "state_sha256": "c147e960b95693916ab0fdb9c9b85d20fd55af5204c72320f1d683750854ceac",
+      "epoch": 7
+    },
+    {
+      "key": "B_protocol_29",
+      "arm": "B",
+      "seed": 29,
+      "rule": "protocol",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_29_B\\best.pt",
+      "state_sha256": "64f34fbd867b72ad3015a2cb70f5a7cf90334f00ee1d4c5f9017fadfdf4674cd",
+      "epoch": 23
+    },
+    {
+      "key": "A_protocol_43",
+      "arm": "A",
+      "seed": 43,
+      "rule": "protocol",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_43_A_retry\\best.pt",
+      "state_sha256": "9ec0ef64d1e562d28ca16666b73d49df449f66d71e7180cf04deb31b955ab3e9",
+      "epoch": 5
+    },
+    {
+      "key": "B_protocol_43",
+      "arm": "B",
+      "seed": 43,
+      "rule": "protocol",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_43_B\\best.pt",
+      "state_sha256": "0956eed7abc82c959b93a061191b33c453495521744d9c42086a26fbf7b261f3",
+      "epoch": 23
+    },
+    {
+      "key": "A_s12_17",
+      "arm": "A",
+      "seed": 17,
+      "rule": "s12",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_17_A\\s12.pt",
+      "state_sha256": "37292f15cbe59fad3142a9b88663d4ec8b944212a6cd5f3be04d78f3513dc946",
+      "epoch": 11
+    },
+    {
+      "key": "B_s12_17",
+      "arm": "B",
+      "seed": 17,
+      "rule": "s12",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_17_B\\s12.pt",
+      "state_sha256": "cd349a1f7592a26dc6329298f3cf39f8bab51d011d7caa7b5f379238e2741aab",
+      "epoch": 17
+    },
+    {
+      "key": "A_s12_29",
+      "arm": "A",
+      "seed": 29,
+      "rule": "s12",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_29_A\\s12.pt",
+      "state_sha256": "179020e4dc93003186bfc44ca6592ab2f8de3af973690816a2ae33d0ea687b78",
+      "epoch": 11
+    },
+    {
+      "key": "B_s12_29",
+      "arm": "B",
+      "seed": 29,
+      "rule": "s12",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_29_B\\s12.pt",
+      "state_sha256": "93cb4fc0726d49f7d9bdc398e018731ca77e4109c92373bd19e8748642d256f7",
+      "epoch": 14
+    },
+    {
+      "key": "A_s12_43",
+      "arm": "A",
+      "seed": 43,
+      "rule": "s12",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_43_A\\s12.pt",
+      "state_sha256": "e27d586ec866d31556c926de63d5fd058700c1f90bbc4df78b308c3da1087e68",
+      "epoch": 10
+    },
+    {
+      "key": "B_s12_43",
+      "arm": "B",
+      "seed": 43,
+      "rule": "s12",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_43_B\\s12.pt",
+      "state_sha256": "0956eed7abc82c959b93a061191b33c453495521744d9c42086a26fbf7b261f3",
+      "epoch": 23
+    }
+  ],
+  "configurations": {
+    "S12": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "S6": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF"
+    ],
+    "S4": [
+      "I",
+      "II",
+      "III",
+      "V2"
+    ],
+    "S3": [
+      "I",
+      "II",
+      "V2"
+    ],
+    "S2": [
+      "I",
+      "II"
+    ],
+    "drop_I": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_II": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_III": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_aVR": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_aVL": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_aVF": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_V1": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_V2": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_V3": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "drop_V4": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "drop_V5": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "drop_V6": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "keep_I": [
+      "I"
+    ],
+    "keep_II": [
+      "II"
+    ],
+    "keep_III": [
+      "III"
+    ],
+    "keep_aVR": [
+      "aVR"
+    ],
+    "keep_aVL": [
+      "aVL"
+    ],
+    "keep_aVF": [
+      "aVF"
+    ],
+    "keep_V1": [
+      "V1"
+    ],
+    "keep_V2": [
+      "V2"
+    ],
+    "keep_V3": [
+      "V3"
+    ],
+    "keep_V4": [
+      "V4"
+    ],
+    "keep_V5": [
+      "V5"
+    ],
+    "keep_V6": [
+      "V6"
+    ],
+    "rand_k01_00": [
+      "I"
+    ],
+    "rand_k01_01": [
+      "II"
+    ],
+    "rand_k01_02": [
+      "III"
+    ],
+    "rand_k01_03": [
+      "aVR"
+    ],
+    "rand_k01_04": [
+      "aVL"
+    ],
+    "rand_k01_05": [
+      "aVF"
+    ],
+    "rand_k01_06": [
+      "V1"
+    ],
+    "rand_k01_07": [
+      "V2"
+    ],
+    "rand_k01_08": [
+      "V3"
+    ],
+    "rand_k01_09": [
+      "V4"
+    ],
+    "rand_k01_10": [
+      "V5"
+    ],
+    "rand_k01_11": [
+      "V6"
+    ],
+    "rand_k02_00": [
+      "I",
+      "aVL"
+    ],
+    "rand_k02_01": [
+      "I",
+      "aVF"
+    ],
+    "rand_k02_02": [
+      "II",
+      "aVL"
+    ],
+    "rand_k02_03": [
+      "II",
+      "aVF"
+    ],
+    "rand_k02_04": [
+      "II",
+      "V4"
+    ],
+    "rand_k02_05": [
+      "II",
+      "V6"
+    ],
+    "rand_k02_06": [
+      "III",
+      "aVF"
+    ],
+    "rand_k02_07": [
+      "III",
+      "V6"
+    ],
+    "rand_k02_08": [
+      "aVR",
+      "aVL"
+    ],
+    "rand_k02_09": [
+      "aVR",
+      "V6"
+    ],
+    "rand_k02_10": [
+      "aVL",
+      "V2"
+    ],
+    "rand_k02_11": [
+      "aVL",
+      "V4"
+    ],
+    "rand_k02_12": [
+      "aVL",
+      "V5"
+    ],
+    "rand_k02_13": [
+      "aVL",
+      "V6"
+    ],
+    "rand_k02_14": [
+      "aVF",
+      "V1"
+    ],
+    "rand_k02_15": [
+      "V2",
+      "V3"
+    ],
+    "rand_k02_16": [
+      "V2",
+      "V5"
+    ],
+    "rand_k02_17": [
+      "V3",
+      "V6"
+    ],
+    "rand_k02_18": [
+      "V4",
+      "V6"
+    ],
+    "rand_k02_19": [
+      "V5",
+      "V6"
+    ],
+    "rand_k03_00": [
+      "I",
+      "II",
+      "V1"
+    ],
+    "rand_k03_01": [
+      "I",
+      "II",
+      "V2"
+    ],
+    "rand_k03_02": [
+      "I",
+      "aVF",
+      "V4"
+    ],
+    "rand_k03_03": [
+      "I",
+      "aVF",
+      "V6"
+    ],
+    "rand_k03_04": [
+      "II",
+      "III",
+      "V2"
+    ],
+    "rand_k03_05": [
+      "II",
+      "III",
+      "V3"
+    ],
+    "rand_k03_06": [
+      "II",
+      "III",
+      "V5"
+    ],
+    "rand_k03_07": [
+      "II",
+      "V4",
+      "V6"
+    ],
+    "rand_k03_08": [
+      "III",
+      "aVR",
+      "aVF"
+    ],
+    "rand_k03_09": [
+      "III",
+      "aVL",
+      "V1"
+    ],
+    "rand_k03_10": [
+      "III",
+      "aVF",
+      "V1"
+    ],
+    "rand_k03_11": [
+      "III",
+      "V2",
+      "V4"
+    ],
+    "rand_k03_12": [
+      "aVR",
+      "aVL",
+      "V3"
+    ],
+    "rand_k03_13": [
+      "aVR",
+      "aVL",
+      "V6"
+    ],
+    "rand_k03_14": [
+      "aVR",
+      "V1",
+      "V3"
+    ],
+    "rand_k03_15": [
+      "aVR",
+      "V2",
+      "V3"
+    ],
+    "rand_k03_16": [
+      "aVL",
+      "aVF",
+      "V1"
+    ],
+    "rand_k03_17": [
+      "aVF",
+      "V3",
+      "V6"
+    ],
+    "rand_k03_18": [
+      "V1",
+      "V3",
+      "V5"
+    ],
+    "rand_k03_19": [
+      "V2",
+      "V4",
+      "V5"
+    ],
+    "rand_k04_00": [
+      "I",
+      "II",
+      "III",
+      "V6"
+    ],
+    "rand_k04_01": [
+      "I",
+      "aVR",
+      "aVL",
+      "V6"
+    ],
+    "rand_k04_02": [
+      "II",
+      "III",
+      "aVR",
+      "V2"
+    ],
+    "rand_k04_03": [
+      "II",
+      "III",
+      "aVF",
+      "V1"
+    ],
+    "rand_k04_04": [
+      "II",
+      "III",
+      "V1",
+      "V6"
+    ],
+    "rand_k04_05": [
+      "II",
+      "aVR",
+      "aVF",
+      "V5"
+    ],
+    "rand_k04_06": [
+      "II",
+      "aVR",
+      "V2",
+      "V3"
+    ],
+    "rand_k04_07": [
+      "II",
+      "aVL",
+      "V1",
+      "V2"
+    ],
+    "rand_k04_08": [
+      "II",
+      "V1",
+      "V2",
+      "V4"
+    ],
+    "rand_k04_09": [
+      "II",
+      "V1",
+      "V2",
+      "V5"
+    ],
+    "rand_k04_10": [
+      "III",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k04_11": [
+      "aVR",
+      "aVL",
+      "aVF",
+      "V3"
+    ],
+    "rand_k04_12": [
+      "aVR",
+      "aVL",
+      "V3",
+      "V5"
+    ],
+    "rand_k04_13": [
+      "aVL",
+      "aVF",
+      "V1",
+      "V2"
+    ],
+    "rand_k04_14": [
+      "aVL",
+      "aVF",
+      "V4",
+      "V6"
+    ],
+    "rand_k04_15": [
+      "aVL",
+      "V1",
+      "V2",
+      "V3"
+    ],
+    "rand_k04_16": [
+      "aVL",
+      "V1",
+      "V4",
+      "V6"
+    ],
+    "rand_k04_17": [
+      "aVL",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k04_18": [
+      "aVF",
+      "V2",
+      "V4",
+      "V5"
+    ],
+    "rand_k04_19": [
+      "V1",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k05_00": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "V2"
+    ],
+    "rand_k05_01": [
+      "I",
+      "II",
+      "aVR",
+      "V1",
+      "V3"
+    ],
+    "rand_k05_02": [
+      "I",
+      "II",
+      "aVL",
+      "V1",
+      "V2"
+    ],
+    "rand_k05_03": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "V1"
+    ],
+    "rand_k05_04": [
+      "I",
+      "aVR",
+      "aVL",
+      "V2",
+      "V5"
+    ],
+    "rand_k05_05": [
+      "I",
+      "aVR",
+      "aVF",
+      "V2",
+      "V5"
+    ],
+    "rand_k05_06": [
+      "I",
+      "aVR",
+      "V2",
+      "V5",
+      "V6"
+    ],
+    "rand_k05_07": [
+      "I",
+      "aVL",
+      "V1",
+      "V3",
+      "V4"
+    ],
+    "rand_k05_08": [
+      "I",
+      "V1",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k05_09": [
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V3"
+    ],
+    "rand_k05_10": [
+      "II",
+      "aVF",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k05_11": [
+      "II",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k05_12": [
+      "II",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k05_13": [
+      "III",
+      "aVR",
+      "aVL",
+      "V4",
+      "V5"
+    ],
+    "rand_k05_14": [
+      "III",
+      "aVL",
+      "V2",
+      "V3",
+      "V4"
+    ],
+    "rand_k05_15": [
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V4"
+    ],
+    "rand_k05_16": [
+      "aVR",
+      "aVL",
+      "V1",
+      "V3",
+      "V6"
+    ],
+    "rand_k05_17": [
+      "aVR",
+      "aVL",
+      "V2",
+      "V3",
+      "V6"
+    ],
+    "rand_k05_18": [
+      "aVL",
+      "V1",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k05_19": [
+      "aVF",
+      "V1",
+      "V2",
+      "V5",
+      "V6"
+    ],
+    "rand_k06_00": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "V2",
+      "V5"
+    ],
+    "rand_k06_01": [
+      "I",
+      "II",
+      "aVR",
+      "V1",
+      "V2",
+      "V4"
+    ],
+    "rand_k06_02": [
+      "I",
+      "II",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3"
+    ],
+    "rand_k06_03": [
+      "I",
+      "II",
+      "aVL",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k06_04": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2"
+    ],
+    "rand_k06_05": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "V3",
+      "V4"
+    ],
+    "rand_k06_06": [
+      "I",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V5",
+      "V6"
+    ],
+    "rand_k06_07": [
+      "I",
+      "aVR",
+      "aVL",
+      "V2",
+      "V4",
+      "V6"
+    ],
+    "rand_k06_08": [
+      "I",
+      "aVL",
+      "aVF",
+      "V2",
+      "V4",
+      "V6"
+    ],
+    "rand_k06_09": [
+      "I",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k06_10": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V4",
+      "V5"
+    ],
+    "rand_k06_11": [
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V3",
+      "V5"
+    ],
+    "rand_k06_12": [
+      "II",
+      "III",
+      "aVF",
+      "V1",
+      "V3",
+      "V4"
+    ],
+    "rand_k06_13": [
+      "II",
+      "III",
+      "aVF",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k06_14": [
+      "II",
+      "aVF",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k06_15": [
+      "III",
+      "aVR",
+      "aVL",
+      "V2",
+      "V3",
+      "V4"
+    ],
+    "rand_k06_16": [
+      "III",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V5"
+    ],
+    "rand_k06_17": [
+      "III",
+      "aVL",
+      "V1",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k06_18": [
+      "III",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V5"
+    ],
+    "rand_k06_19": [
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V6"
+    ],
+    "rand_k07_00": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V2",
+      "V5"
+    ],
+    "rand_k07_01": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "V2",
+      "V4",
+      "V6"
+    ],
+    "rand_k07_02": [
+      "I",
+      "II",
+      "III",
+      "aVF",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k07_03": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3"
+    ],
+    "rand_k07_04": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V5"
+    ],
+    "rand_k07_05": [
+      "I",
+      "II",
+      "aVR",
+      "V1",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k07_06": [
+      "I",
+      "II",
+      "aVF",
+      "V1",
+      "V2",
+      "V4",
+      "V6"
+    ],
+    "rand_k07_07": [
+      "I",
+      "II",
+      "aVF",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k07_08": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V3",
+      "V6"
+    ],
+    "rand_k07_09": [
+      "I",
+      "III",
+      "aVL",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k07_10": [
+      "I",
+      "III",
+      "aVL",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k07_11": [
+      "I",
+      "III",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4"
+    ],
+    "rand_k07_12": [
+      "I",
+      "III",
+      "V1",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k07_13": [
+      "I",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k07_14": [
+      "I",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V6"
+    ],
+    "rand_k07_15": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V4",
+      "V6"
+    ],
+    "rand_k07_16": [
+      "II",
+      "III",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k07_17": [
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k07_18": [
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V4",
+      "V5"
+    ],
+    "rand_k07_19": [
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_00": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V5"
+    ],
+    "rand_k08_01": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V6"
+    ],
+    "rand_k08_02": [
+      "I",
+      "II",
+      "III",
+      "V1",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_03": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V6"
+    ],
+    "rand_k08_04": [
+      "I",
+      "II",
+      "aVR",
+      "aVF",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_05": [
+      "I",
+      "II",
+      "aVL",
+      "aVF",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_06": [
+      "I",
+      "II",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_07": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3"
+    ],
+    "rand_k08_08": [
+      "I",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V6"
+    ],
+    "rand_k08_09": [
+      "I",
+      "III",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_10": [
+      "I",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_11": [
+      "I",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_12": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V3",
+      "V4"
+    ],
+    "rand_k08_13": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k08_14": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_15": [
+      "II",
+      "III",
+      "aVR",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k08_16": [
+      "II",
+      "III",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_17": [
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k08_18": [
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k08_19": [
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_00": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V5"
+    ],
+    "rand_k09_01": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V4",
+      "V5"
+    ],
+    "rand_k09_02": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_03": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V5"
+    ],
+    "rand_k09_04": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_05": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k09_06": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "V1",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_07": [
+      "I",
+      "II",
+      "III",
+      "aVF",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_08": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V4",
+      "V6"
+    ],
+    "rand_k09_09": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k09_10": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_11": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k09_12": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_13": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_14": [
+      "I",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_15": [
+      "I",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_16": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V6"
+    ],
+    "rand_k09_17": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k09_18": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k09_19": [
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k10_00": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4"
+    ],
+    "rand_k10_01": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V5"
+    ],
+    "rand_k10_02": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V4",
+      "V6"
+    ],
+    "rand_k10_03": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k10_04": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k10_05": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k10_06": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k10_07": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k10_08": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k10_09": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k10_10": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k10_11": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k10_12": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k10_13": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k10_14": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "aVF",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k10_15": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k10_16": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k10_17": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k10_18": [
+      "I",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k10_19": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_00": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5"
+    ],
+    "rand_k11_01": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V6"
+    ],
+    "rand_k11_02": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_03": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_04": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_05": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_06": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_07": [
+      "I",
+      "II",
+      "III",
+      "aVR",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_08": [
+      "I",
+      "II",
+      "III",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_09": [
+      "I",
+      "II",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_10": [
+      "I",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ],
+    "rand_k11_11": [
+      "II",
+      "III",
+      "aVR",
+      "aVL",
+      "aVF",
+      "V1",
+      "V2",
+      "V3",
+      "V4",
+      "V5",
+      "V6"
+    ]
+  },
+  "recalibration_training_records": 4096,
+  "recalibration_record_seed": 20261025,
+  "subset_seed": 20261024,
+  "weights_updated": false,
+  "bn_input_shift": [
+    {
+      "model": "A_protocol_17",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0011278230958429215
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.026157677647156638
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.030888978288488435
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.030581042911295
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.032754398592833626
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.027296976338091063
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.03484410005554848
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.03946952101940908
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.030050355001381278
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.055138594708826344
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09236438104311331
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.05258962252535551
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_17",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0009853076258498478
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.14943129029139252
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.14390416326446018
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.1688419054878722
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.18326093546016287
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.15747217042552336
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.19680929427292806
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.27735204733171925
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.19305494229025189
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.3014033222448623
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.36189600179035736
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.2700144444292744
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_17",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0013436429324672151
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.19054090670347607
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.16394005555102284
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.21732560631796158
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.23604455734581486
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.21251842744278243
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.2370755153870201
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.31784266232968794
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.2346792330328344
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.35183403227928256
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3819697392153656
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.32152583582577243
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_17",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012283263609815082
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.20790786446173642
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.19098965720708616
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.23634573997774197
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.2607660641815209
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.22666230495960948
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.25703969244339114
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3400066155222693
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.26136672611976625
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.36446584673667826
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3631867460213615
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.31000876199535
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_17",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012235104249820627
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.23426154622036535
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2193232145268792
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.2536386097914961
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.28570000051078737
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.23901812556571206
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.2882993759852284
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.40278214983972593
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.3018832697757225
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.4489743654432236
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3694546469976294
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.37213544567115436
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_17",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0037858040899730896
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.10181454778993224
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.12465389563466456
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.08005457261631252
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.06675729158396554
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.06155838026877891
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.04760600761933977
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.04684584295985185
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.05460309060657011
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.04327138951604101
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.11378510691415047
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.05159657727051306
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_17",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.003032861077433909
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.08828114855450465
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.08518395615958504
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.12388251795571638
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.10528452990483962
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.12226957822272419
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.08350998103740445
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.08939688950578539
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.09332129803069605
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.07984426831968973
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.11202338415917733
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.10780834375544734
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_17",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.002446766108976435
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.15215851476009812
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.21115279546755508
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.14569532320557865
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.1167714107177879
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.1378428518604609
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.11915172398392915
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.11626070293323179
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11444229983977419
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06726682121319391
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09391063430225215
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.08281432602589411
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_17",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.002405762015717353
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1675973528675616
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.23860027390763516
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.15709200828736603
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.12608287428900034
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.14170773113785168
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.12490132697350316
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.11890839966636019
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11699666140587613
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.079715325304969
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.12165360908673106
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.09038317076469657
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_17",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0024100999289560707
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.20533180581281568
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2607575438480093
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.185808840985364
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.16728395644232708
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.1596926288203287
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.15168019498833157
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.1442534947750208
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.15179883767750912
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.10330951274921868
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.18395573521866582
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.13857481171038005
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_29",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0029372668421444063
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.03128276645520337
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.03393928339349417
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.04052897731857774
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.03599535884923499
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.04249225743138711
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.03341574323513956
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.027769562708847846
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.037170134781787524
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.03846472914918668
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.06307423583240364
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.03401040373595032
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_29",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0024178221895947427
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1312312742263856
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.16790531444700363
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.15481523476418688
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.20336369000641077
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.14885210802036963
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.21688197976791898
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3197670491441801
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.1990802477268114
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.36788116423652667
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3375123159487978
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.33733373248404686
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_29",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0015301238194689558
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.18543413505337142
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2152588519370982
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.2310535699437915
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.28024500590297663
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.20115522598045166
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.25103915201066107
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3700252542325184
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.25653502009196716
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.42615358448969376
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.343113976983028
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.3799812789455306
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_29",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0014863379749038947
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.2063426283291821
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2184512739814536
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.24437672250811415
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.2994151610290977
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.21304949088246378
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.2547065618860711
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.37722680914384393
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.27171039067331176
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.4246305819519403
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.33422376560164013
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.38147151291769743
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_29",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0014885599620058456
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.244666901595634
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.24431138301107538
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.2622330788623714
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.3415138507450507
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.2371419009943846
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.3056659137377755
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.4641851981946855
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.31605987043040296
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.5282075820520922
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.2898755142669079
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.4267084747088946
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_29",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.004418439969596252
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.09623129672831085
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.12105730230934822
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.08240579436777377
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.09843003860140144
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.07126739427828227
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.051002039309736645
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.0478627629782353
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.059816359974666694
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.04597488201211645
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.10169125206008425
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.04470442501886146
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_29",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0037796312062584538
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.09111680559343305
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.13248340652120813
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.11941644813888501
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.09811696634867956
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.10609165827522249
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.07293839130632548
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.07300066886925156
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.09097208885008898
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.09068483875486573
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.11555763128975999
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.10797319644747883
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_29",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0036953470819348065
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1402470105564283
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2254231091922085
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.1334048860970527
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.12941926006580734
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.13157958302911915
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.12729684063723465
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.10505619263610329
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.1189045589182919
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.0777314473605949
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09484618090874694
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.08672951660465289
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_29",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0035944754119027933
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1588554835007961
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.23662159595919058
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.13270037715617736
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.14360493293046883
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.1329416757238125
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.12139992932231948
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.10400268429979914
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11473683361495074
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.0723483136259016
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.0939321270422897
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.08772996691434581
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_29",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0035958700167093424
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.19923000365008295
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.26755058639369605
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.17807654625080835
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.20540370350484688
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.15879351508441003
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.13310843940751083
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.12322337677365179
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.13210410942512232
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.11394514474475746
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.12032296274595511
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.14553706656457727
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_43",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0017500318228832606
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.026616272799606246
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.02761987622554288
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.03159137445009116
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.030417287853328187
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.031429188106813444
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.03017991948552824
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.030254859197508775
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.029630066605584572
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.04186429636543625
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.07660672857306211
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.04512478856838558
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_43",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0014186838818241228
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.13006515720101502
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.1484835725860221
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.1324758510278006
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.2183107110975853
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.14797979357353733
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.17185031254686156
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.29486144074875686
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.18871095830869444
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.29307394368389883
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.30045154323349077
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.2641482767700367
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_43",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.001290463616218866
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.18762967086199173
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2030044944984003
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.17545550308422952
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.28365540734451067
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.20172313345849063
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.22090790557746104
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3665182018883763
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.23982751094704502
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.36856717733741584
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.38430635555270787
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.35543425875744267
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_43",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012482644483921249
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.20917637422403437
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2238032143449487
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.1951573453973429
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.30194851769078845
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.21799842428419108
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.23540813434543548
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.38243366203040224
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.260307642067931
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.3809912987182672
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.38580552296582094
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.347098581484796
+        }
+      ]
+    },
+    {
+      "model": "A_protocol_43",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012456620332951542
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.23828328732883758
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.24027614413144505
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.21148222947531237
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.3349095606980147
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.22440069463395684
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.2758544757443158
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.4485092328796755
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.28576156866217944
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.44268528446892463
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.4275290710350533
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.41927740409373354
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_43",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.001940330555552772
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.07818924923238306
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.10677003559757997
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.0791718304811186
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.08831691313262106
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.062315168866925785
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.049677778012842164
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.04876391484693428
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.05787278249090678
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.03966816373229934
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09411819483780363
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07025563782052828
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_43",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0016188458686125116
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.08302804325360538
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.07380094692125234
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.11000794421483946
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.0990719315219003
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.09337296184892824
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.05206224861899505
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.05926682745945084
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.06826491446040714
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.060379035375774055
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.10702284589206748
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.06777824007634368
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_43",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012586104797568298
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1451551201613186
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.20495678467863293
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.13883214250679143
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.16822305557055506
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.11898499802082321
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.10282231071991613
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.12056695993948548
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11418241995131304
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06838846358311537
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.10345790415392209
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07875308106903262
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_43",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012980797975229788
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.16234728667904297
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.233230875220175
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.15144425932168912
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.17120356053061764
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.13314067197526058
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.11392061872781081
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.11091912569795909
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.1291838386493931
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06865462981373233
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09726499736875963
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07378212512910638
+        }
+      ]
+    },
+    {
+      "model": "B_protocol_43",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0013014310663329175
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.19014219756766704
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.24666394397093436
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.18403011320688184
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.19073189599547402
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.1646533308473078
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.13940680098830754
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.1303907415976837
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.16048984273890088
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.09023297489192406
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.13288783685597522
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.10805873067266714
+        }
+      ]
+    },
+    {
+      "model": "A_s12_17",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0030753292629093496
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.021110688152064544
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.029675381942655517
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.02321417046934108
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.01784040966085019
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.0244070497891396
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.021480476401557116
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.024056638185109072
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.017567287796556044
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.02431723374239734
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.03909812692089894
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.025338574871911018
+        }
+      ]
+    },
+    {
+      "model": "A_s12_17",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0036688628665598366
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.17613481391458546
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.18766368363977445
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.1798267861165514
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.22218713088903014
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.15520953024661405
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.20430066974369235
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.28556605229877374
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.21074771285334848
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.3242781264842456
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.40415075182121535
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.3347003278174894
+        }
+      ]
+    },
+    {
+      "model": "A_s12_17",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0039584554018940715
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.22692167318492906
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2152349011761848
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.22395984259653473
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.28465978653827195
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.2042184788947344
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.2181548572146556
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3151286671791418
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.23996272575794841
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.365066528074072
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3996275818369442
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.3817009530206233
+        }
+      ]
+    },
+    {
+      "model": "A_s12_17",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.003953937330095321
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.2552556763538919
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.23416474868044412
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.24442946750704223
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.31566019061431005
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.2148354854093688
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.23755875264232823
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.33802716574390734
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.27201985481198826
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.3681230798239983
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.4039438019126844
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.3647796793610738
+        }
+      ]
+    },
+    {
+      "model": "A_s12_17",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.003944575902518715
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.29787068057524857
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.26762523630554547
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.2748229479525365
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.3555539269761677
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.23293505076629717
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.28274437428546295
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.41661016637029
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.3250886763034406
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.45033405497680784
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.420972381055199
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.4144671418751614
+        }
+      ]
+    },
+    {
+      "model": "B_s12_17",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.005236134125013438
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.07695363711200719
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.09850158367707149
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.07205360079940994
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.060396777785520994
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.052981357955983535
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.053622785792157
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.04920269932116082
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.062076056514279374
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.04706050965817754
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.08374927371578811
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.039618956060166306
+        }
+      ]
+    },
+    {
+      "model": "B_s12_17",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.004326791353105101
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.09632634592408351
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.08168572816023796
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.12765555740598117
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.11608750486287098
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.12906759231890008
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.08730491637250565
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.09600592729309941
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.09907379768080958
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.09595229320311907
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.1837356303181969
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.11370159785153804
+        }
+      ]
+    },
+    {
+      "model": "B_s12_17",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.003649349475434888
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1610620073266593
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.20922626632457084
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.14872112000770096
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.13109823684869815
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.15027400505577543
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.12015445202297712
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.11579413329819968
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.12013937518608668
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06151394267790363
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.12561939399682115
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07152362548825617
+        }
+      ]
+    },
+    {
+      "model": "B_s12_17",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0036036454151736844
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.17558333452451486
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.232371725021158
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.15888314923052232
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.13739420773028793
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.15541280403894325
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.12032759492599017
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.11348897197966351
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11904440951141781
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06547420207854854
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.13117541072097508
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.0758234982882046
+        }
+      ]
+    },
+    {
+      "model": "B_s12_17",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0036068282987426637
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.21095628394617416
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2522490144637911
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.18907936844726447
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.17656190179043804
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.17147959224910497
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.1511269558987865
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.14369538029733991
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.15820023938373956
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.0917939631906628
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.17542132360003912
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.12501707711258842
+        }
+      ]
+    },
+    {
+      "model": "A_s12_29",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.003121288283116922
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.021988935310243665
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.03194557376701824
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.02482908736297347
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.023267530493035284
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.03713757467263026
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.03304829383029012
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.02970907854194082
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.029462228277026874
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.03664838614419964
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.04747633271437522
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.04280706246020398
+        }
+      ]
+    },
+    {
+      "model": "A_s12_29",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.002899264041386984
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1475712551335826
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.14668005444245116
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.16859269341877015
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.21617798341759537
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.16004190838127136
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.20104977205724342
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3252964880917278
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.2155224155005026
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.32262465550464675
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3348903082744219
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.32859606650429096
+        }
+      ]
+    },
+    {
+      "model": "A_s12_29",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.002562939062302358
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.21000460062399745
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.21498810650696176
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.23908572968049085
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.2939045505389875
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.2093569095099548
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.24833680774027922
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3749544096084757
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.2737923491258969
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.3805035253572574
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.38408640415065604
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.39131230032270237
+        }
+      ]
+    },
+    {
+      "model": "A_s12_29",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.002605897697005184
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.22888993106320998
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.22444836965951792
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.25033201577753905
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.3123874301843931
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.22506741436103275
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.25966730016637424
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.38634380669241397
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.29034821140871514
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.3758748486478356
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3855052823162691
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.3875270775461344
+        }
+      ]
+    },
+    {
+      "model": "A_s12_29",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0026092577902948003
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.2704674263758817
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.24550366862206663
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.27060232593380507
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.3605864527514272
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.25758220747815386
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.3120458768676236
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.4951354699131445
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.34059871150636195
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.4585780508460352
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3699494723721277
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.43723472336730806
+        }
+      ]
+    },
+    {
+      "model": "B_s12_29",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.003003265818345105
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1116399964738903
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.1257216694465255
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.09682088654662742
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.10726855995494602
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.0872511202578829
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.06564939312314672
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.07703258319206999
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.07134227385938961
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.05744625942105297
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.07003971357636118
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.06638137627720173
+        }
+      ]
+    },
+    {
+      "model": "B_s12_29",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0020478118132321835
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.09250626624607962
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.12091057870266203
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.10435077091376053
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.09150220993459547
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.10317802233695501
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.08570269999228285
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.07236344203455494
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.09927234074797289
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.11720866139553693
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.19941293277797045
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.14238385457223315
+        }
+      ]
+    },
+    {
+      "model": "B_s12_29",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0015774328654625368
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.13474768101850668
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.19891775935349615
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.15143616231336932
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.13201015009883363
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.13328112553559002
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.11129343892839305
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.0972904771392771
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11262388992255967
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06754725132023538
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.08825027839999418
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07037614676115742
+        }
+      ]
+    },
+    {
+      "model": "B_s12_29",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0015849686969142062
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.15518488905709166
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.20701418477892408
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.1555097396261252
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.14334925700736656
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.1398917296360232
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.1087499077933193
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.09372896588729408
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11116969587092745
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.05980902352473809
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09534500728307156
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.06318786840302426
+        }
+      ]
+    },
+    {
+      "model": "B_s12_29",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0015781311693485649
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.19735573834539863
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.23212959688808715
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.1947205719582648
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.196312446033426
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.17200958511892708
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.11948925643582245
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.12162540655014535
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.13680521954707286
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.08811514799715221
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.13217971435938236
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.09835806708662573
+        }
+      ]
+    },
+    {
+      "model": "A_s12_43",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.005253267613948483
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.02258165643480651
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.027701728575270045
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.0380044801407526
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.0441143728520595
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.02998472128047032
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.031239882373854087
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.0275824722264127
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.03428823635064833
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.045038529553779905
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.08445732620429978
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.04387801846110096
+        }
+      ]
+    },
+    {
+      "model": "A_s12_43",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.005052598428561562
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.14750558372807882
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.16932867161469287
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.136124400885988
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.24387987952513832
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.1362775400477424
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.1871499470109448
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.30901014792708825
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.20075171825199578
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.2931602981075847
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.2739077546164971
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.30504937194066306
+        }
+      ]
+    },
+    {
+      "model": "A_s12_43",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.00406720839441801
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.21391688531021902
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.22462357407579814
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.18016538611334504
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.31165910122205165
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.19384792398881137
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.22188251663876074
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3565745758699702
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.23691880810407495
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.35146116828888635
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.3086316148016272
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.3445767560565104
+        }
+      ]
+    },
+    {
+      "model": "A_s12_43",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.004059595723839513
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.23560891189326272
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2374059241786052
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.19454688442189538
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.3258191974758966
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.2073757493836958
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.23408138148145735
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.3711795563940494
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.25262470009596305
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.36596634386612104
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.313366349598688
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.3526548446433413
+        }
+      ]
+    },
+    {
+      "model": "A_s12_43",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.004062583245500582
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.27406678034451226
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.2594046269920153
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.21238319100407732
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.382102714091616
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.21734818671224998
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.280083476455358
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.4536076484244347
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.2881381998400173
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.4325309505968522
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.35925151766209196
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.4612604919530479
+        }
+      ]
+    },
+    {
+      "model": "B_s12_43",
+      "configuration": "S12",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.001940330555552772
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.07818924923238306
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.10677003559757997
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.0791718304811186
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.08831691313262106
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.062315168866925785
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.049677778012842164
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.04876391484693428
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.05787278249090678
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.03966816373229934
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09411819483780363
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07025563782052828
+        }
+      ]
+    },
+    {
+      "model": "B_s12_43",
+      "configuration": "S6",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0016188458686125116
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.08302804325360538
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.07380094692125234
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.11000794421483946
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.0990719315219003
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.09337296184892824
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.05206224861899505
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.05926682745945084
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.06826491446040714
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.060379035375774055
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.10702284589206748
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.06777824007634368
+        }
+      ]
+    },
+    {
+      "model": "B_s12_43",
+      "configuration": "S4",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012586104797568298
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.1451551201613186
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.20495678467863293
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.13883214250679143
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.16822305557055506
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.11898499802082321
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.10282231071991613
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.12056695993948548
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.11418241995131304
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06838846358311537
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.10345790415392209
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07875308106903262
+        }
+      ]
+    },
+    {
+      "model": "B_s12_43",
+      "configuration": "S3",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0012980797975229788
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.16234728667904297
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.233230875220175
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.15144425932168912
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.17120356053061764
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.13314067197526058
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.11392061872781081
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.11091912569795909
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.1291838386493931
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.06865462981373233
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.09726499736875963
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.07378212512910638
+        }
+      ]
+    },
+    {
+      "model": "B_s12_43",
+      "configuration": "S2",
+      "layers": [
+        {
+          "layer": "stem.1",
+          "mean_standardized_shift": 0.0013014310663329175
+        },
+        {
+          "layer": "blocks.0.main.1",
+          "mean_standardized_shift": 0.19014219756766704
+        },
+        {
+          "layer": "blocks.0.main.4",
+          "mean_standardized_shift": 0.24666394397093436
+        },
+        {
+          "layer": "blocks.1.main.1",
+          "mean_standardized_shift": 0.18403011320688184
+        },
+        {
+          "layer": "blocks.1.main.4",
+          "mean_standardized_shift": 0.19073189599547402
+        },
+        {
+          "layer": "blocks.1.shortcut.1",
+          "mean_standardized_shift": 0.1646533308473078
+        },
+        {
+          "layer": "blocks.2.main.1",
+          "mean_standardized_shift": 0.13940680098830754
+        },
+        {
+          "layer": "blocks.2.main.4",
+          "mean_standardized_shift": 0.1303907415976837
+        },
+        {
+          "layer": "blocks.2.shortcut.1",
+          "mean_standardized_shift": 0.16048984273890088
+        },
+        {
+          "layer": "blocks.3.main.1",
+          "mean_standardized_shift": 0.09023297489192406
+        },
+        {
+          "layer": "blocks.3.main.4",
+          "mean_standardized_shift": 0.13288783685597522
+        },
+        {
+          "layer": "blocks.3.shortcut.1",
+          "mean_standardized_shift": 0.10805873067266714
+        }
+      ]
+    }
+  ]
+}

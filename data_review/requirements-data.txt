@@ -1,0 +1,10 @@
+# Versions used for this model-free preprocessing run, Python 3.9.7.
+# WFDB is installed privately under ECGProject/.runtime/data-site-packages;
+# the other packages were already available in D:/py/Anaconda3/python.exe.
+wfdb==4.1.2
+numpy==1.26.4
+pandas==1.3.4
+scipy==1.13.1
+matplotlib==3.4.3
+requests==2.26.0
+soundfile==0.12.1

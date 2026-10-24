@@ -1,0 +1,16 @@
+{
+  "checked_on": "2026-10-22T18:22:04.260655+00:00",
+  "status": "passed",
+  "reference": "scikit-learn",
+  "reference_version": "0.24.2",
+  "numpy_version": "1.26.4",
+  "binary_cases": 300,
+  "multilabel_cases": 20,
+  "ties_included": true,
+  "largest_absolute_error": 2.220446049250313e-16,
+  "implementation_sha256": "0cd4d48f6fe1afc56e7f33396b35f3495624d4fcbffa555e089f1f8b3d724ce2",
+  "source_urls": [
+    "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_auc_score.html",
+    "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.average_precision_score.html"
+  ]
+}

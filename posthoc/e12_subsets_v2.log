@@ -1,0 +1,50 @@
+{"stage": "model_done", "model": "A_s12_17", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "A_s12_29", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "A_s12_43", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "A_protocol_17", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "A_protocol_29", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "A_protocol_43", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "B_s12_17", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "B_s12_29", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "B_s12_43", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "B_protocol_17", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "B_protocol_29", "recomputed_subsets": 94}
+{"stage": "model_done", "model": "B_protocol_43", "recomputed_subsets": 94}
+A_s12_zero           {'all': 0.7777, 'limb_only': 0.5351, 'with_precordial': 0.7966, 'two_or_more_limb': 0.8169, 'fewer_than_two_limb': 0.6444, 'has_I_and_II': 0.8668, 'two_or_more_limb_without_I_II': 0.7818, 'single_lead': 0.5101}
+A_s12_repaired       {'all': 0.8743, 'limb_only': 0.7827, 'with_precordial': 0.8814, 'two_or_more_limb': 0.9026, 'fewer_than_two_limb': 0.7779, 'has_I_and_II': 0.9107, 'two_or_more_limb_without_I_II': 0.8969, 'single_lead': 0.685}
+A_protocol_zero      {'all': 0.7821, 'limb_only': 0.5558, 'with_precordial': 0.7998, 'two_or_more_limb': 0.8203, 'fewer_than_two_limb': 0.6521, 'has_I_and_II': 0.8667, 'two_or_more_limb_without_I_II': 0.7876, 'single_lead': 0.5169}
+A_protocol_repaired  {'all': 0.8718, 'limb_only': 0.7833, 'with_precordial': 0.8787, 'two_or_more_limb': 0.8968, 'fewer_than_two_limb': 0.7866, 'has_I_and_II': 0.9049, 'two_or_more_limb_without_I_II': 0.8911, 'single_lead': 0.6964}
+B_s12_zero           {'all': 0.8919, 'limb_only': 0.8264, 'with_precordial': 0.897, 'two_or_more_limb': 0.9044, 'fewer_than_two_limb': 0.8493, 'has_I_and_II': 0.9151, 'two_or_more_limb_without_I_II': 0.8969, 'single_lead': 0.7948}
+B_s12_repaired       {'all': 0.8963, 'limb_only': 0.8301, 'with_precordial': 0.9014, 'two_or_more_limb': 0.9134, 'fewer_than_two_limb': 0.838, 'has_I_and_II': 0.9178, 'two_or_more_limb_without_I_II': 0.9102, 'single_lead': 0.7617}
+B_protocol_zero      {'all': 0.8936, 'limb_only': 0.8317, 'with_precordial': 0.8985, 'two_or_more_limb': 0.9056, 'fewer_than_two_limb': 0.8529, 'has_I_and_II': 0.9158, 'two_or_more_limb_without_I_II': 0.8985, 'single_lead': 0.8008}
+B_s12_zero - A_s12_repaired          all                            n=207 +0.0176 [+0.0145, +0.0207]
+B_s12_zero - A_s12_repaired          limb_only                      n= 15 +0.0437 [+0.0370, +0.0506]
+B_s12_zero - A_s12_repaired          with_precordial                n=192 +0.0156 [+0.0125, +0.0185]
+B_s12_zero - A_s12_repaired          two_or_more_limb               n=160 +0.0018 [-0.0015, +0.0050]
+B_s12_zero - A_s12_repaired          fewer_than_two_limb            n= 47 +0.0714 [+0.0670, +0.0760]
+B_s12_zero - A_s12_repaired          has_I_and_II                   n= 66 +0.0044 [+0.0016, +0.0072]
+B_s12_zero - A_s12_repaired          two_or_more_limb_without_I_II  n= 94 +0.0000 [-0.0037, +0.0037]
+B_protocol_zero - A_protocol_repaired all                            n=207 +0.0219 [+0.0187, +0.0252]
+B_protocol_zero - A_protocol_repaired limb_only                      n= 15 +0.0484 [+0.0419, +0.0552]
+B_protocol_zero - A_protocol_repaired with_precordial                n=192 +0.0198 [+0.0167, +0.0230]
+B_protocol_zero - A_protocol_repaired two_or_more_limb               n=160 +0.0088 [+0.0052, +0.0125]
+B_protocol_zero - A_protocol_repaired fewer_than_two_limb            n= 47 +0.0663 [+0.0625, +0.0701]
+B_protocol_zero - A_protocol_repaired has_I_and_II                   n= 66 +0.0109 [+0.0078, +0.0142]
+B_protocol_zero - A_protocol_repaired two_or_more_limb_without_I_II  n= 94 +0.0074 [+0.0035, +0.0115]
+B_s12_repaired - A_s12_repaired      all                            n=207 +0.0220 [+0.0195, +0.0245]
+B_s12_repaired - A_s12_repaired      limb_only                      n= 15 +0.0474 [+0.0432, +0.0519]
+B_s12_repaired - A_s12_repaired      with_precordial                n=192 +0.0200 [+0.0175, +0.0225]
+B_s12_repaired - A_s12_repaired      two_or_more_limb               n=160 +0.0108 [+0.0080, +0.0136]
+B_s12_repaired - A_s12_repaired      fewer_than_two_limb            n= 47 +0.0601 [+0.0569, +0.0633]
+B_s12_repaired - A_s12_repaired      has_I_and_II                   n= 66 +0.0072 [+0.0047, +0.0097]
+B_s12_repaired - A_s12_repaired      two_or_more_limb_without_I_II  n= 94 +0.0133 [+0.0103, +0.0163]
+A_s12_repaired - A_s12_zero          all                            n=207 +0.0966 [+0.0921, +0.1012]
+A_s12_repaired - A_s12_zero          limb_only                      n= 15 +0.2475 [+0.2353, +0.2607]
+A_s12_repaired - A_s12_zero          with_precordial                n=192 +0.0848 [+0.0806, +0.0890]
+A_s12_repaired - A_s12_zero          two_or_more_limb               n=160 +0.0857 [+0.0813, +0.0903]
+A_s12_repaired - A_s12_zero          fewer_than_two_limb            n= 47 +0.1335 [+0.1264, +0.1406]
+A_s12_repaired - A_s12_zero          has_I_and_II                   n= 66 +0.0439 [+0.0407, +0.0472]
+A_s12_repaired - A_s12_zero          two_or_more_limb_without_I_II  n= 94 +0.1151 [+0.1095, +0.1209]
+B_s12_zero - A_s12_repaired          single_lead                    n= 12 +0.1098 [+0.1035, +0.1164]
+gap by k and limb count {"two_or_more_limb": {"2": {"n": 7, "gap": -0.001574112841048903}, "3": {"n": 13, "gap": 0.00021558022078617436}, "4": {"n": 13, "gap": 0.006171807352362369}, "5": {"n": 15, "gap": -0.002365288052965902}, "6": {"n": 20, "gap": 0.003826729995177919}, "7": {"n": 20, "gap": 0.002959693081360885}, "8": {"n": 20, "gap": 0.0013286965598857837}, "9": {"n": 20, "gap": 0.0015867911086852573}, "10": {"n": 20, "gap": 0.002416142374694728}, "11": {"n": 12, "gap": 0.0009295143555803847}}, "fewer_than_two_limb": {"1": {"n": 12, "gap": 0.10982267926378363}, "2": {"n": 14, "gap": 0.08134196785539755}, "3": {"n": 7, "gap": 0.05128934113049087}, "4": {"n": 8, "gap": 0.04847350877517073}, "5": {"n": 5, "gap": 0.023550588385772064}, "6": {"n": 1, "gap": 0.03324481093407713}}}
+binomial-weighted gap 0.0077

@@ -1,0 +1,34 @@
+{
+  "checked_on": "2026-10-22T18:22:07.767226+00:00",
+  "status": "passed",
+  "parameter_count": 359749,
+  "checks": [
+    "identical paired initialization",
+    "mask count/mixture and nonempty input",
+    "independent masking RNG and recording order",
+    "whole-lead masking and retained-value preservation",
+    "real-data shape, finite loss and gradients",
+    "deterministic frozen-state evaluation",
+    "checkpoint ties, invalid scores and fixed selection weights",
+    "fixed LR endpoints"
+  ],
+  "mask_test_records": 24000,
+  "retained_lead_count_histogram": {
+    "1": 1118,
+    "2": 1052,
+    "3": 1024,
+    "4": 1039,
+    "5": 1055,
+    "6": 1086,
+    "7": 1085,
+    "8": 1097,
+    "9": 1075,
+    "10": 1062,
+    "11": 1100,
+    "12": 12207
+  },
+  "gpu": "cuda:0",
+  "finite_fp32_gradient_check_loss": 0.8549652099609375,
+  "formal_experiment": false,
+  "test_data_used": false
+}

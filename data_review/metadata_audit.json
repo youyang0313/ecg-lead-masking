@@ -1,0 +1,197 @@
+{
+  "review_date": "2026-10-23",
+  "dataset": "PTB-XL",
+  "version": "1.0.3",
+  "scope": "Public label metadata feasibility review; no waveform loading or model training",
+  "test_policy": "Fold 10 identifier counts and split membership only; its scp_codes never parsed by this script",
+  "label_rule": "Official example's code-presence aggregation into diagnostic_class; retain zero-likelihood entries as present statements, not as soft targets",
+  "records_total": 21799,
+  "patients_total": 18869,
+  "statement_code_count": 71,
+  "statement_category_counts": {
+    "diagnostic": 44,
+    "form": 19,
+    "rhythm": 12
+  },
+  "diagnostic_superclasses": [
+    "NORM",
+    "MI",
+    "STTC",
+    "CD",
+    "HYP"
+  ],
+  "diagnostic_subclass_count": 23,
+  "afib_codebook_entry": {
+    "description": "atrial fibrillation",
+    "diagnostic": "",
+    "form": "",
+    "rhythm": "1.0",
+    "diagnostic_class": ""
+  },
+  "raw_split_counts": {
+    "train": {
+      "records": 17418,
+      "patients": 15023
+    },
+    "validation": {
+      "records": 2183,
+      "patients": 1942
+    },
+    "test": {
+      "records": 2198,
+      "patients": 1904
+    }
+  },
+  "fold_counts": {
+    "1": {
+      "records": 2175,
+      "patients": 1878
+    },
+    "2": {
+      "records": 2181,
+      "patients": 1849
+    },
+    "3": {
+      "records": 2192,
+      "patients": 1887
+    },
+    "4": {
+      "records": 2174,
+      "patients": 1883
+    },
+    "5": {
+      "records": 2174,
+      "patients": 1890
+    },
+    "6": {
+      "records": 2173,
+      "patients": 1884
+    },
+    "7": {
+      "records": 2176,
+      "patients": 1871
+    },
+    "8": {
+      "records": 2173,
+      "patients": 1881
+    },
+    "9": {
+      "records": 2183,
+      "patients": 1942
+    },
+    "10": {
+      "records": 2198,
+      "patients": 1904
+    }
+  },
+  "development_label_summary": {
+    "train": {
+      "eligible_records": 17084,
+      "eligible_patients": 14823,
+      "unmapped_diagnostic_records": 334,
+      "label_positives": {
+        "NORM": 7596,
+        "MI": 4379,
+        "STTC": 4186,
+        "CD": 3907,
+        "HYP": 2119
+      },
+      "label_patterns": {
+        "CD": 1353,
+        "CD+HYP": 235,
+        "CD+HYP+MI": 99,
+        "CD+HYP+MI+NORM": 1,
+        "CD+HYP+MI+STTC": 122,
+        "CD+HYP+STTC": 168,
+        "CD+MI": 1035,
+        "CD+MI+STTC": 177,
+        "CD+NORM": 327,
+        "CD+NORM+STTC": 4,
+        "CD+STTC": 386,
+        "HYP": 415,
+        "HYP+MI": 146,
+        "HYP+MI+STTC": 282,
+        "HYP+NORM": 1,
+        "HYP+STTC": 650,
+        "MI": 2043,
+        "MI+STTC": 474,
+        "NORM": 7243,
+        "NORM+STTC": 20,
+        "STTC": 1903
+      },
+      "zero_likelihood_code_occurrences": 23207,
+      "zero_likelihood_diagnostic_occurrences": 169,
+      "label_prevalence": {
+        "NORM": 0.444627,
+        "MI": 0.256322,
+        "STTC": 0.245025,
+        "CD": 0.228694,
+        "HYP": 0.124034
+      },
+      "multi_label_records": 4127,
+      "norm_with_other_superclass_records": 353
+    },
+    "validation": {
+      "eligible_records": 2146,
+      "eligible_patients": 1917,
+      "unmapped_diagnostic_records": 37,
+      "label_positives": {
+        "NORM": 955,
+        "MI": 540,
+        "STTC": 528,
+        "CD": 495,
+        "HYP": 268
+      },
+      "label_patterns": {
+        "CD": 171,
+        "CD+HYP": 38,
+        "CD+HYP+MI": 13,
+        "CD+HYP+MI+STTC": 18,
+        "CD+HYP+STTC": 18,
+        "CD+MI": 129,
+        "CD+MI+STTC": 25,
+        "CD+NORM": 35,
+        "CD+NORM+STTC": 1,
+        "CD+STTC": 47,
+        "HYP": 64,
+        "HYP+MI": 20,
+        "HYP+MI+STTC": 38,
+        "HYP+NORM": 1,
+        "HYP+STTC": 58,
+        "MI": 233,
+        "MI+STTC": 64,
+        "NORM": 914,
+        "NORM+STTC": 4,
+        "STTC": 255
+      },
+      "zero_likelihood_code_occurrences": 2889,
+      "zero_likelihood_diagnostic_occurrences": 19,
+      "label_prevalence": {
+        "NORM": 0.445014,
+        "MI": 0.251631,
+        "STTC": 0.246039,
+        "CD": 0.230662,
+        "HYP": 0.124884
+      },
+      "multi_label_records": 509,
+      "norm_with_other_superclass_records": 41
+    }
+  },
+  "patient_overlap_between_splits": {
+    "train_vs_validation": 0,
+    "train_vs_test": 0,
+    "validation_vs_test": 0
+  },
+  "unknown_development_codes": {},
+  "input_sha256": {
+    "ptbxl_database.csv": "7600de9c1b27d181d850b3c6038a35d7c3ddb6bb33b702e3a20252a6859d216b",
+    "scp_statements.csv": "ad05b0b1fcae83bb1230755ad9cfc7c96f303feddc08a4a9ad5bdc9ca63bac8f",
+    "example_physionet.py": "8de8392559989810d368053904e442eff162d1dadb8e76788e197e24c98fe81d"
+  },
+  "limits": [
+    "Counts describe available annotations, not independently confirmed clinical disease.",
+    "No waveform/header inspection; no verification of actual lead quality or input ordering.",
+    "No held-out test label support counts or performance were used to choose tasks.",
+    "Category flags can overlap; diagnostic/form/rhythm counts need not sum to total statements."
+  ]
+}

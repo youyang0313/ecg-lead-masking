@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "D:\AAAurora\NTUDL\ECGProject\training\experiment.py", line 255, in execute
+    result, history = run_arm(arm, seed, epochs, indices, data,
+  File "D:\AAAurora\NTUDL\ECGProject\training\experiment.py", line 162, in run_arm
+    write_json(destination/"history.json", history)
+  File "D:\AAAurora\NTUDL\ECGProject\training\runtime.py", line 47, in write_json
+    temp.replace(path)
+  File "D:\py\Anaconda3\envs\fl_pytorch\lib\pathlib.py", line 1395, in replace
+    self._accessor.replace(self, target)
+PermissionError: [WinError 5] 拒绝访问。: 'D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_43_A\\history.json.tmp' -> 'D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_43_A\\history.json'

@@ -1,0 +1,15 @@
+{
+  "ecg_id": 12065,
+  "source_stem": "records100/12000/12065_lr",
+  "fold": 4,
+  "record_choice": "first metadata-selected pilot record, chosen before waveform inspection",
+  "physical_unit": "mV",
+  "normalization": "pilot-only statistics for mask illustration, not main experiment parameters",
+  "kind": "real-data input illustrations; no experimental performance results",
+  "files": [
+    "training_ecg_example.png",
+    "training_ecg_example.svg",
+    "input_mask_example.png",
+    "input_mask_example.svg"
+  ]
+}

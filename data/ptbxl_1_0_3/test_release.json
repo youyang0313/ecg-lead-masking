@@ -1,0 +1,9 @@
+{
+  "released_on": "2026-10-22T20:20:07.747843+00:00",
+  "selected_models_sha256": "f692298eaa03ddb7c7b8b0c269971cf194218a96d1d290071896047d89f4e7ee",
+  "selection_fixed_on": "2026-10-22T18:55:28.917537+00:00",
+  "analysis_protocol_sha256": "ef961ae2972f81c918a2404bed64eff8e8da15156538dd11d358c943ff422911",
+  "reason": "User authorized independent test after main training and model selection.",
+  "changes_to_scientific_design": [],
+  "test_predictions_exist": false
+}

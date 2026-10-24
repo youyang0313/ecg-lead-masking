@@ -1,0 +1,196 @@
+{
+  "protocol_id": "ecg-lead-robustness-v1",
+  "written_on": "2026-10-23",
+  "status": "prospective written design; implementation and training remain on hold",
+  "registration_status": "local versioned plan; not an externally registered preregistration",
+  "dataset": {
+    "name": "PTB-XL",
+    "version": "1.0.3",
+    "sampling_hz": 100,
+    "duration_seconds": 10,
+    "expected_samples": 1000,
+    "train_folds": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "validation_folds": [
+      9
+    ],
+    "test_folds": [
+      10
+    ],
+    "classes": [
+      "NORM",
+      "MI",
+      "STTC",
+      "CD",
+      "HYP"
+    ],
+    "label_rule": "diagnostic-code presence mapped to diagnostic_class, retain present zero-likelihood entries, exclude empty diagnostic label sets",
+    "norm_is_complement": false,
+    "test_annotation_policy": "do not parse diagnostic annotations or evaluate predictions until design and development decisions are complete"
+  },
+  "preprocessing": {
+    "lead_order_from": "lead_configurations.json; later match actual WFDB header names",
+    "waveform_unit": "mV after checking header scaling",
+    "record_exclusions": [
+      "unreadable waveform",
+      "not 12 expected uniquely named leads",
+      "not the declared 100-Hz 1000-sample recording",
+      "any non-finite waveform value"
+    ],
+    "quality_metadata_only_exclusion": false,
+    "filtering": "no additional filter or denoising in the primary comparison",
+    "normalization": "per-lead training-record/sample mean and population standard deviation, fitted once on eligible complete training signals",
+    "std_floor_mV": 1e-06,
+    "mask_after_normalization": true,
+    "missing_fill": 0.0,
+    "post_mask_renormalization": false,
+    "inverse_keep_rescaling": false,
+    "shared_eligibility_across_arms_and_configurations": true
+  },
+  "architecture": {
+    "status": "architecture specification only; not instantiated",
+    "family": "compact 1D residual CNN trained from scratch",
+    "input_channels": 12,
+    "stem": {
+      "out_channels": 32,
+      "kernel": 7,
+      "stride": 1,
+      "padding": 3,
+      "conv_bias": false,
+      "normalization": "BatchNorm1d",
+      "activation": "ReLU"
+    },
+    "blocks": [
+      {
+        "out_channels": 32,
+        "first_conv_stride": 1
+      },
+      {
+        "out_channels": 64,
+        "first_conv_stride": 2
+      },
+      {
+        "out_channels": 128,
+        "first_conv_stride": 2
+      },
+      {
+        "out_channels": 128,
+        "first_conv_stride": 2
+      }
+    ],
+    "block_definition": "two bias-free kernel-5 padding-2 convolutions, each followed by BatchNorm1d; ReLU after first normalization and after residual addition; second convolution stride 1; kernel-1 projection plus BatchNorm when width or stride changes",
+    "head": "global temporal average pooling, linear 128-to-5 logits",
+    "extra_dropout": false,
+    "shared_across_arms": true,
+    "evaluation": "frozen parameters and BatchNorm running statistics"
+  },
+  "training": {
+    "arms": {
+      "A": {
+        "name": "complete-input training",
+        "complete_input_probability": 1.0
+      },
+      "B": {
+        "name": "complete plus random lead-masked training",
+        "complete_input_probability": 0.5,
+        "partial_input_probability": 0.5,
+        "retained_lead_count": "uniform integer from 1 through 11 inclusive",
+        "retained_subset": "uniform subset conditional on retained count",
+        "sample_mask_per": "record presentation, sampled afresh",
+        "mask_uses_labels": false,
+        "mask_held_constant_over_time": true,
+        "empty_input_allowed": false,
+        "restricted_to_evaluation_presets": false
+      }
+    },
+    "paired_seeds": [
+      17,
+      29,
+      43
+    ],
+    "optimizer": "AdamW",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "decay_groups": "all trainable parameters",
+    "betas": [
+      0.9,
+      0.999
+    ],
+    "epsilon": 1e-08,
+    "batch_size": 64,
+    "epoch_budget": 40,
+    "early_stopping": false,
+    "scheduler": "cosine decay over the common epoch budget",
+    "minimum_learning_rate": 1e-05,
+    "loss": "unweighted mean binary cross-entropy with logits across records and five labels",
+    "other_input_augmentations": [],
+    "initialization_pairing": "same initial parameter state within each seed's A/B pair",
+    "record_order_pairing": "same shuffled record order within each seed's A/B pair",
+    "rng_isolation": "separate random streams for initialization, data order and masking",
+    "engineering_fallback": "if pre-main-run memory checks require batch size 32, amend the protocol before main runs and apply the same value to both arms and every seed; do not vary per arm",
+    "amp": "planned float16 CUDA autocast with dynamic gradient scaling, applied to both arms; exact runtime settings recorded before main training",
+    "performance_search_grid": false,
+    "scheduler_step_unit": "epoch",
+    "epoch_learning_rate_formula": "lr(e) = min_lr + 0.5*(initial_lr-min_lr)*(1+cos(pi*e/(epoch_budget-1))), e=0,...,epoch_budget-1"
+  },
+  "selection": {
+    "validation_frequency": "each completed epoch",
+    "weights": {
+      "S12": 0.5,
+      "S6": 0.125,
+      "S4": 0.125,
+      "S3": 0.125,
+      "S2": 0.125
+    },
+    "score": "weighted sum of separate per-configuration five-label macro-AUROCs",
+    "optimization": "maximize",
+    "tie_break": "earliest epoch when stored scores are equal",
+    "same_rule_for_both_arms": true,
+    "configuration_specific_checkpoint": false,
+    "patient_predictions_pooled_across_configurations": false,
+    "threshold_tuning_for_primary_metric": false,
+    "non_finite_score_policy": "invalid checkpoint; record the cause; no test-based repair"
+  },
+  "evaluation": {
+    "configurations_file": "lead_configurations.json",
+    "primary_effect": "for each seed, mean B-minus-A macro-AUROC over S6/S4/S3/S2; report arithmetic mean of these three paired-seed effects",
+    "complete_effect": "B-minus-A macro-AUROC on S12, summarized over paired seeds separately",
+    "seed_prediction_ensemble": false,
+    "secondary": [
+      "per-configuration macro-AUROC",
+      "per-label AUROC",
+      "per-label and macro average precision",
+      "within-model change from complete input",
+      "training-seed variability",
+      "parameter count and training/inference cost after implementation"
+    ],
+    "threshold_metrics": "not part of the primary protocol; any addition must specify a validation-only rule before test evaluation",
+    "confidence_interval": {
+      "resampling_unit": "patient",
+      "attempted_resamples": 2000,
+      "level": 0.95,
+      "method": "percentile",
+      "seed": 20261023,
+      "paired_across": "arms, configurations and all trained seeds",
+      "statistic": "mean of per-seed paired effects; not AUC of seed-averaged predictions",
+      "invalid_draw": "exclude a draw if any target lacks a positive or negative; report attempted, valid and invalid draws; never insert a numeric AUC",
+      "interpretation": "conditional on the trained seed set; complements rather than replaces seed variability"
+    },
+    "significance": "no multiple per-label significance claims; secondary intervals and patterns are descriptive",
+    "equivalence_margin": null,
+    "clinical_safety_threshold": null,
+    "success_interpretation": "positive primary estimate and its interval support an improvement under declared conditions; report complete-input change even if negative; no clinical-preservation claim from non-significance",
+    "undefined_target_policy": "If the final cohort lacks a positive or negative for any target, report that target and the fixed-five-label primary macro effect as undefined; do not silently drop a target.",
+    "primary_claim_rule": "A lower 95% patient-bootstrap endpoint above zero supports positive mean partial-input gain conditional on the trained seed set; otherwise describe uncertainty or lack of support. Report every seed and the complete-input change regardless."
+  },
+  "amendment_policy": "record change, reason and timing; performance-motivated changes after viewing test outcomes require exploratory labeling or a new untouched evaluation set",
+  "result_status": "no trained model, predictions, metric values or experimental figures exist"
+}

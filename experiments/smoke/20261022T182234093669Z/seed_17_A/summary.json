@@ -1,0 +1,22 @@
+{
+  "arm": "A",
+  "seed": 17,
+  "mode": "smoke",
+  "formal_experiment": false,
+  "completed_epochs": 2,
+  "planned_main_epochs": 40,
+  "training_records": 1024,
+  "validation_records": 2146,
+  "parameter_count": 359749,
+  "initial_state_sha256": "714b9110a1acb2b77bdcd6c4c98a8c41c083c7ba9f8c2f6546d93f93e88f2caa",
+  "trained_state_sha256": "8f7053475cb978d9167814baa3df504de2bd4b333b6e9eaecd42a0f06864e507",
+  "parameters_updated": true,
+  "selected_epoch": 1,
+  "selected_validation_score": 0.7721641107674273,
+  "checkpoint_readback_predictions_exact": true,
+  "checkpoint_sha256": "cbd866f8ae42c8d8ed19dc3e412570af02dbed5c3e893528799ad1ac4095499c",
+  "train_validation_peak_allocated_bytes": 165306368,
+  "train_validation_peak_reserved_bytes": 180355072,
+  "history_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\smoke\\20261022T182234093669Z\\seed_17_A\\history.json",
+  "checkpoint_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\smoke\\20261022T182234093669Z\\seed_17_A\\best.pt"
+}

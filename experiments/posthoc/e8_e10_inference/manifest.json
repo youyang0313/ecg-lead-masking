@@ -1,0 +1,122 @@
+{
+  "completed": "2026-10-23T16:19:34.258722+00:00",
+  "models": [
+    {
+      "key": "A_s12_17",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_17_A\\s12.pt",
+      "state_sha256": "37292f15cbe59fad3142a9b88663d4ec8b944212a6cd5f3be04d78f3513dc946"
+    },
+    {
+      "key": "B_s12_17",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_17_B\\s12.pt",
+      "state_sha256": "cd349a1f7592a26dc6329298f3cf39f8bab51d011d7caa7b5f379238e2741aab"
+    },
+    {
+      "key": "B_protocol_17",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_17_B\\best.pt",
+      "state_sha256": "83bac81f922ad39ae60f8f1d98f6978ad64f86f2293c33651659d6e8f1eb16b9"
+    },
+    {
+      "key": "GN_A_17",
+      "variant": "GN_A",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\GN_A_17\\s12.pt",
+      "state_sha256": "dda5797c6babf9a42bdfe77234b498dc385abd7e9761f815e417bb6982bf145c"
+    },
+    {
+      "key": "GN_B_17",
+      "variant": "GN_B",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\GN_B_17\\s12.pt",
+      "state_sha256": "5796467ff2ba47e1d194177928fa6a35b095073c9a81a5585be0501734063040"
+    },
+    {
+      "key": "HO_B_17",
+      "variant": "HO_B",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\HO_B_17\\s12.pt",
+      "state_sha256": "1ce551b7c65ba9934cf5338abe0a89f29b2353128110a62e066461eecc804f0b"
+    },
+    {
+      "key": "A_s12_29",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_29_A\\s12.pt",
+      "state_sha256": "179020e4dc93003186bfc44ca6592ab2f8de3af973690816a2ae33d0ea687b78"
+    },
+    {
+      "key": "B_s12_29",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_29_B\\s12.pt",
+      "state_sha256": "93cb4fc0726d49f7d9bdc398e018731ca77e4109c92373bd19e8748642d256f7"
+    },
+    {
+      "key": "B_protocol_29",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_29_B\\best.pt",
+      "state_sha256": "64f34fbd867b72ad3015a2cb70f5a7cf90334f00ee1d4c5f9017fadfdf4674cd"
+    },
+    {
+      "key": "GN_A_29",
+      "variant": "GN_A",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\GN_A_29\\s12.pt",
+      "state_sha256": "c9a2464120657b7c2df288f3d4d11343f38cb4db9338ec5b36fdb02512cc67dd"
+    },
+    {
+      "key": "GN_B_29",
+      "variant": "GN_B",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\GN_B_29\\s12.pt",
+      "state_sha256": "cc8a298d1b93b8caf8a5f7128fdb64b236ee52b9f5b46a18ada253028f94f22e"
+    },
+    {
+      "key": "HO_B_29",
+      "variant": "HO_B",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\HO_B_29\\s12.pt",
+      "state_sha256": "e52bd929a9686271d5300e108d0ba77b760e53caeab1bf444a01370e80182a60"
+    },
+    {
+      "key": "A_s12_43",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_43_A\\s12.pt",
+      "state_sha256": "e27d586ec866d31556c926de63d5fd058700c1f90bbc4df78b308c3da1087e68"
+    },
+    {
+      "key": "B_s12_43",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e1_replay\\seed_43_B\\s12.pt",
+      "state_sha256": "0956eed7abc82c959b93a061191b33c453495521744d9c42086a26fbf7b261f3"
+    },
+    {
+      "key": "B_protocol_43",
+      "variant": "BN",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_43_B\\best.pt",
+      "state_sha256": "0956eed7abc82c959b93a061191b33c453495521744d9c42086a26fbf7b261f3"
+    },
+    {
+      "key": "GN_A_43",
+      "variant": "GN_A",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\GN_A_43\\s12.pt",
+      "state_sha256": "4a7364dcb85e153e37fef6dd2203fc9fce99ee42897779c5dad25461fa6bd66e"
+    },
+    {
+      "key": "GN_B_43",
+      "variant": "GN_B",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\GN_B_43\\s12.pt",
+      "state_sha256": "b174001e7adb6be292a74e9f7ed63426c80fe5c1c0c123c1d43746d78bdfbbff"
+    },
+    {
+      "key": "HO_B_43",
+      "variant": "HO_B",
+      "path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\posthoc\\e8_e9_training\\HO_B_43\\s12.pt",
+      "state_sha256": "dd795023c7bc9f1020d9d54407d93ccb2c2a5efdcb5e02676fe410ee41a11a0e"
+    }
+  ],
+  "fills": [
+    "noise_0.1",
+    "noise_1.0",
+    "baseline_wander",
+    "other_record"
+  ],
+  "donor_seed": 20261026,
+  "weights_updated": false,
+  "fill_units": "standardized training units (1.0 = training SD of that lead)"
+}

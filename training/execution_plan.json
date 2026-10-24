@@ -1,0 +1,62 @@
+{
+  "updated_on": "2026-10-23",
+  "scope": "six trained models and independent fold-10 test with paired patient bootstrap completed and verified",
+  "adopted_protocol": "../report/protocol_v1.json",
+  "original_protocol_status_note": "The original JSON preserves its historical writing-stage status; this file and run manifests describe current execution.",
+  "scientific_design_amendments": [],
+  "common_batch_size": 64,
+  "training_precision": "float16 CUDA autocast with torch.amp.GradScaler; float32 parameters",
+  "validation_precision": "float32 with autocast disabled",
+  "deterministic_algorithms": true,
+  "tf32": false,
+  "cudnn_benchmark": false,
+  "cpu_threads": 4,
+  "cpu_interop_threads": 1,
+  "initialization_seed": "torch.manual_seed(seed), identical before constructing each paired model",
+  "epoch_order_seed": "NumPy PCG64 SeedSequence([seed, zero_based_epoch, 20261023])",
+  "mask_rng": "independent CPU torch.Generator seeded seed + 1000003",
+  "scheduler": "protocol 40-epoch cosine schedule; engineering run executes only its first two epochs",
+  "engineering_run": {
+    "seed": 17,
+    "training_records": 1024,
+    "epochs_per_arm": 2,
+    "validation_records": 2146,
+    "configurations_per_validation": 5,
+    "selection": "fixed training-only random sample supplemented with constant-V5 ECG 12722 and largest-amplitude ECG 9048",
+    "formal_experiment": false,
+    "latest_manifest_pointer": "latest_smoke.json"
+  },
+  "main_experiment": {
+    "status": "complete_verified",
+    "active_directory": "../experiments/train/20261022T183345197538Z",
+    "io_recovery": "Four completed runs retained; seed-43 A was rerun from fresh initialization after epoch-40 JSON save failure and reproduced its original selected predictions. Seed-43 B also completed. No scientific setting changed.",
+    "completed_selected_epochs": 240,
+    "actual_epochs_including_discarded_attempt": 280,
+    "verification_pointer": "latest_main_verification.json",
+    "paired_seeds": [
+      17,
+      29,
+      43
+    ],
+    "arms": [
+      "A",
+      "B"
+    ],
+    "epochs_per_run": 40,
+    "training_records": 17084,
+    "warm_start_from_smoke": false,
+    "explicit_command_required": "run_gpu.ps1 train"
+  },
+  "test_waveforms_used": true,
+  "test_annotations_parsed": true,
+  "independent_test": {
+    "status": "complete_verified",
+    "directory": "../experiments/test/20261022T202402963049Z",
+    "records": 2158,
+    "patients": 1877,
+    "bootstrap_attempted": 2000,
+    "bootstrap_valid": 2000,
+    "scientific_design_amendments": [],
+    "checkpoint_refitting": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "status": "passed",
+  "explicit_pair_auroc_comparisons": 1080,
+  "max_absolute_error": 0.0,
+  "patient_cluster_multiplicity_checked": true,
+  "equal_scores_and_zero_weights_checked": true,
+  "undefined_target_checked": true
+}

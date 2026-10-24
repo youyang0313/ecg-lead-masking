@@ -1,0 +1,20 @@
+{
+  "checked_on": "2026-10-22T20:25:22.724906+00:00",
+  "status": "passed",
+  "sklearn_version": "0.24.2",
+  "full_test_auc_and_ap_comparisons": 300,
+  "max_auroc_error": 3.3306690738754696e-16,
+  "max_ap_error": 2.220446049250313e-16,
+  "explicit_patient_resample_attempts_checked": [
+    0,
+    1000,
+    1999
+  ],
+  "explicit_resample_auroc_comparisons": 450,
+  "max_bootstrap_auroc_error": 2.220446049250313e-16,
+  "all_2000_draw_validity_decisions_replayed": true,
+  "primary_and_complete_percentile_intervals_recomputed": true,
+  "fixed_checkpoint_hashes_verified": 6,
+  "primary_estimate": 0.1974456244429706,
+  "audit_source_sha256": "10abd62639772adad1bbff64bb66f12dab440fdd50ac3efa76773a2a2e0bcd6b"
+}

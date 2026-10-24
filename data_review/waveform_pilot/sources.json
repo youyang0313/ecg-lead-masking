@@ -1,0 +1,2008 @@
+{
+  "dataset": "PTB-XL",
+  "version": "1.0.3",
+  "official_project_url": "https://physionet.org/content/ptb-xl/1.0.3/",
+  "scope": "Training-only waveform/header pilot; public S3 bucket is listed on official project page",
+  "files": [
+    {
+      "ecg_id": 366,
+      "relative_path": "originals\\records100\\00000\\00366_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00366_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "89025db062ff1c2671e6cb3832d75c293ebbe13b4e3521a337e3397bc60338d8"
+    },
+    {
+      "ecg_id": 366,
+      "relative_path": "originals\\records100\\00000\\00366_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00366_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "7afa752013d815d9446e4e3c667223678075c9547ce361d878830f9db1814eaa"
+    },
+    {
+      "ecg_id": 551,
+      "relative_path": "originals\\records100\\00000\\00551_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00551_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "6c33ffe91ee33156594642c514caefb1d737aaf9234dc741cab108c30ca24de5"
+    },
+    {
+      "ecg_id": 551,
+      "relative_path": "originals\\records100\\00000\\00551_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00551_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 605,
+      "sha256": "519915585032bc3d8eec305eca96b8aa7d756ae044577e8ec44351214bf5d23b"
+    },
+    {
+      "ecg_id": 642,
+      "relative_path": "originals\\records100\\00000\\00642_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00642_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "139fdf94cd71c87c500b806a3c47f0b9a5cbbb2cd594824ad9d6d99658ab60da"
+    },
+    {
+      "ecg_id": 642,
+      "relative_path": "originals\\records100\\00000\\00642_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00642_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 596,
+      "sha256": "231fc13145417b22848d9159095e148214618608875ea709e8e287bc91556da5"
+    },
+    {
+      "ecg_id": 804,
+      "relative_path": "originals\\records100\\00000\\00804_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00804_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "ab8af2035c9c60b6de4018039b7c873ca234acf5dd80f36441068a849396938e"
+    },
+    {
+      "ecg_id": 804,
+      "relative_path": "originals\\records100\\00000\\00804_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00804_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 610,
+      "sha256": "b8bc158b2c34ac7bc4adfd158ab48709862ae8f13f010153b57eb6d58a34eb57"
+    },
+    {
+      "ecg_id": 852,
+      "relative_path": "originals\\records100\\00000\\00852_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00852_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "66d0c48d4fae450d6677f3a420d46d69cd14cefdb887de3bb35adf0d6684d166"
+    },
+    {
+      "ecg_id": 852,
+      "relative_path": "originals\\records100\\00000\\00852_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/00000/00852_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 617,
+      "sha256": "bc3e18e488899a7f1a84692fcffc5ac94cd28bfa001430e114688fb8b58ccf98"
+    },
+    {
+      "ecg_id": 1032,
+      "relative_path": "originals\\records100\\01000\\01032_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01032_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "23a6172c4ef79d495acf22c799f3941ea50d9f41fcc3fca13379c7ac2dd44701"
+    },
+    {
+      "ecg_id": 1032,
+      "relative_path": "originals\\records100\\01000\\01032_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01032_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 608,
+      "sha256": "217468671e7d44545c1e24b02b8787310fc101ac4329ca82bdde2ef302ce71a4"
+    },
+    {
+      "ecg_id": 1076,
+      "relative_path": "originals\\records100\\01000\\01076_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01076_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "80e3b80b841d898e5304001b53661d015cb06f9005f2571c52a6cddeaf2c8de2"
+    },
+    {
+      "ecg_id": 1076,
+      "relative_path": "originals\\records100\\01000\\01076_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01076_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 608,
+      "sha256": "13c789f15f4db06d3ca62e242461e79ee2db2f44cff2813a8c5884d738368db6"
+    },
+    {
+      "ecg_id": 1211,
+      "relative_path": "originals\\records100\\01000\\01211_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01211_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "974c875292ab4279ba96140f2126b0eaf356fd10143440958e4388a8359e2621"
+    },
+    {
+      "ecg_id": 1211,
+      "relative_path": "originals\\records100\\01000\\01211_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01211_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "17c7eaef6c507e1d34cff8d41bbd220ff438816dc248e9091979ffa7afce0e37"
+    },
+    {
+      "ecg_id": 1581,
+      "relative_path": "originals\\records100\\01000\\01581_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01581_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "15c5631413f1f7c52cb74a7deed0da7840260e834889b0db8d9a6f88657db293"
+    },
+    {
+      "ecg_id": 1581,
+      "relative_path": "originals\\records100\\01000\\01581_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01581_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "24fdc1c73cfb808464e1425a625c1653c2844d2403117a52201c535b136c3ca0"
+    },
+    {
+      "ecg_id": 1696,
+      "relative_path": "originals\\records100\\01000\\01696_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01696_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "5877364989e9a437fdf94a079afaaf421b8ff82ca31f02c509485e7863d00ece"
+    },
+    {
+      "ecg_id": 1696,
+      "relative_path": "originals\\records100\\01000\\01696_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/01000/01696_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 606,
+      "sha256": "64c8e5feaf4139f3868f5e57fc03e9dcc8ef356a54c30c6c265c295ee8705890"
+    },
+    {
+      "ecg_id": 2006,
+      "relative_path": "originals\\records100\\02000\\02006_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02006_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "0383fde7221d724b2da7c52f15b03640ccfdeec8505758826a42e71d48efadbe"
+    },
+    {
+      "ecg_id": 2006,
+      "relative_path": "originals\\records100\\02000\\02006_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02006_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 605,
+      "sha256": "031fada5942ecb1bc38a8dbae7d9e8ad21fa0e5fe0d7fc1ec2b67ded29bfd5df"
+    },
+    {
+      "ecg_id": 2236,
+      "relative_path": "originals\\records100\\02000\\02236_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02236_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "d0b4191a9cee171c049c3b8ebb5b1188ab68b10c530481db38519cb9e4f3e2b6"
+    },
+    {
+      "ecg_id": 2236,
+      "relative_path": "originals\\records100\\02000\\02236_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02236_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 605,
+      "sha256": "3c603321616c7e7ecc6850edd41e5a57cd0d0b6e6432c7452d5968b01b09678f"
+    },
+    {
+      "ecg_id": 2479,
+      "relative_path": "originals\\records100\\02000\\02479_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02479_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "5867560b494d3ae6bb22c728bbfc4ca971889b38fafe3022a0737acef446495b"
+    },
+    {
+      "ecg_id": 2479,
+      "relative_path": "originals\\records100\\02000\\02479_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02479_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 603,
+      "sha256": "0bfb3abcccd7602f1d0fc6ea5bcd52c27c2a0376b4be5ef35171d51c9fb37fc5"
+    },
+    {
+      "ecg_id": 2529,
+      "relative_path": "originals\\records100\\02000\\02529_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02529_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "a2271a4e65dc55adac6f153e4b1883f4e3b661610860a597c9ecd3d850f20900"
+    },
+    {
+      "ecg_id": 2529,
+      "relative_path": "originals\\records100\\02000\\02529_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02529_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "fe8646f4b3853cd10250481fb210b6e401e968d2b9b66bbe4747aa45a68baaa0"
+    },
+    {
+      "ecg_id": 2668,
+      "relative_path": "originals\\records100\\02000\\02668_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02668_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "e1d84ed86bf9dff2a47d8d2e4c33d3dee791049142aeb6ab5a040638d781e4d8"
+    },
+    {
+      "ecg_id": 2668,
+      "relative_path": "originals\\records100\\02000\\02668_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02668_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "c1bf1ecb0f43413cf69ec67eb84748dcca3bc7554c23924a7b1af058f6079fcf"
+    },
+    {
+      "ecg_id": 2829,
+      "relative_path": "originals\\records100\\02000\\02829_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02829_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "f73ba97d307ceed393727d6477197c5c335901eb464ad978b279d038461ca0dc"
+    },
+    {
+      "ecg_id": 2829,
+      "relative_path": "originals\\records100\\02000\\02829_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/02000/02829_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 603,
+      "sha256": "b926be7888585d97c36f558f3680c9678ae9f7e03e524645c22cff719857399c"
+    },
+    {
+      "ecg_id": 3087,
+      "relative_path": "originals\\records100\\03000\\03087_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03087_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "33d3982c18c7c9b98f40a9fd8af3c43f18d4c54469579af720a6e11ebbe81efd"
+    },
+    {
+      "ecg_id": 3087,
+      "relative_path": "originals\\records100\\03000\\03087_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03087_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 599,
+      "sha256": "f65e6e1ca6f04400da4ecfa317f93423113cb63c257f3168a6a67f6749080697"
+    },
+    {
+      "ecg_id": 3139,
+      "relative_path": "originals\\records100\\03000\\03139_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03139_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "65ec87d69e7571edeba2d7fa0bcfa450b809e39dae252e6dcc4040dde83efa79"
+    },
+    {
+      "ecg_id": 3139,
+      "relative_path": "originals\\records100\\03000\\03139_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03139_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 615,
+      "sha256": "4626c62952e7778a268c1d271cebfb6bb97a2bbe1e6935b271bb38fac766efe4"
+    },
+    {
+      "ecg_id": 3175,
+      "relative_path": "originals\\records100\\03000\\03175_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03175_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "352d573c66d44565e108badac913ae47cbd0b1fa3f7f3082b6aa243dd4cb6f1e"
+    },
+    {
+      "ecg_id": 3175,
+      "relative_path": "originals\\records100\\03000\\03175_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03175_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "b7a5cfa6f2984941b39b07f3817fb178f88a11e08c86da63bd43549286b19df9"
+    },
+    {
+      "ecg_id": 3351,
+      "relative_path": "originals\\records100\\03000\\03351_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03351_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "2613d6d5b348e0f8827ef622d21ba614d00dd6854f496e741cbf568f9d4d1fc0"
+    },
+    {
+      "ecg_id": 3351,
+      "relative_path": "originals\\records100\\03000\\03351_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03351_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 603,
+      "sha256": "3bb9e09864969406f353443877f21858adced879b8b005806ecbe957c23ade85"
+    },
+    {
+      "ecg_id": 3354,
+      "relative_path": "originals\\records100\\03000\\03354_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03354_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "e3ad722404128b8332be65e2c374486a81ecb268afb39a8080df9fbf0430ca96"
+    },
+    {
+      "ecg_id": 3354,
+      "relative_path": "originals\\records100\\03000\\03354_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/03000/03354_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 595,
+      "sha256": "87cffaed885f44090ecfb9e0dd9a80f3fe1e571e2e5730bcf66cc2ef030c80b5"
+    },
+    {
+      "ecg_id": 4046,
+      "relative_path": "originals\\records100\\04000\\04046_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04046_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "d063d7b6e78a246d052d93d6096dd8da1686d430119bad9cd5cc9b33b9e4231f"
+    },
+    {
+      "ecg_id": 4046,
+      "relative_path": "originals\\records100\\04000\\04046_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04046_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 595,
+      "sha256": "c17ac7f17cc85ce895c337c2d37e69960299b24af01d3675d1c9b50f0625de62"
+    },
+    {
+      "ecg_id": 4111,
+      "relative_path": "originals\\records100\\04000\\04111_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04111_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "b92e06e0ac9b857424deb67359a1d4c26194c9a4dfacde7f82b7978cf55b90d0"
+    },
+    {
+      "ecg_id": 4111,
+      "relative_path": "originals\\records100\\04000\\04111_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04111_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "09a8777d9906411c53d87b3c88eadd00f64f0a2c7388cf89793038c92a42847b"
+    },
+    {
+      "ecg_id": 4193,
+      "relative_path": "originals\\records100\\04000\\04193_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04193_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "3cb27ee89e06cc4fbcdfb5fff9cd867d913a94441e2fdb00b612e7e215ce96c4"
+    },
+    {
+      "ecg_id": 4193,
+      "relative_path": "originals\\records100\\04000\\04193_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04193_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 606,
+      "sha256": "b5dec24882fcab8ed8f2223ce2a599502c76251f024c9df9d5dc85344ae00275"
+    },
+    {
+      "ecg_id": 4340,
+      "relative_path": "originals\\records100\\04000\\04340_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04340_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "3d22353cec7af9dd4d4afef5e6db67772e936ef7de76a735c829503ee119f07b"
+    },
+    {
+      "ecg_id": 4340,
+      "relative_path": "originals\\records100\\04000\\04340_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04340_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "5ef57ba2c7c3f961432ebe0ba4a6e439b5aa57c894ef9ea15ece1d97cb28715c"
+    },
+    {
+      "ecg_id": 4605,
+      "relative_path": "originals\\records100\\04000\\04605_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04605_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "03e135c16d1d9f77c9cbaf425b7300f2fa21c92503637b8695c0ae83712c94ca"
+    },
+    {
+      "ecg_id": 4605,
+      "relative_path": "originals\\records100\\04000\\04605_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04605_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "41508c64a497bb90786aafe5ed72b535d397e33bb1836867b29dd2949a0b94c9"
+    },
+    {
+      "ecg_id": 4939,
+      "relative_path": "originals\\records100\\04000\\04939_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04939_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "7381abfe4454223ad8f1d229b1c81bf5d285548eb761a3bcdecda71e5d5bfd2f"
+    },
+    {
+      "ecg_id": 4939,
+      "relative_path": "originals\\records100\\04000\\04939_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/04000/04939_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "3f842f110488bdc8b03a9973723f66f4ce3927b9717054914f4e64ea6efcda81"
+    },
+    {
+      "ecg_id": 5179,
+      "relative_path": "originals\\records100\\05000\\05179_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/05000/05179_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "2c3c408e3d57f3861a3798eae944ac25edc2c1eb30b272255ee1fee8c4766df7"
+    },
+    {
+      "ecg_id": 5179,
+      "relative_path": "originals\\records100\\05000\\05179_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/05000/05179_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 594,
+      "sha256": "cc4a08062d24bcf2e93e3ba5d76562784b251c31d1bc0885b17e4ece5eee70a2"
+    },
+    {
+      "ecg_id": 5259,
+      "relative_path": "originals\\records100\\05000\\05259_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/05000/05259_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "6a625c4b6c91dea96bf0cea62b924f4e3876cea66b828e8c2e50002b61f16470"
+    },
+    {
+      "ecg_id": 5259,
+      "relative_path": "originals\\records100\\05000\\05259_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/05000/05259_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 600,
+      "sha256": "f66a1da0a7bdcbcfa15db7fa8d28d4bcb180182a75dd9918673570c44477914a"
+    },
+    {
+      "ecg_id": 5748,
+      "relative_path": "originals\\records100\\05000\\05748_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/05000/05748_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "9cd5b8c989e34c30b1497242a264af009c855a337dcf32307dcaccccc2e83a67"
+    },
+    {
+      "ecg_id": 5748,
+      "relative_path": "originals\\records100\\05000\\05748_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/05000/05748_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "42da4fc0297bab5016edb32b45f940d4b3cb5d0fdad8d8fed6607ad877e1f02d"
+    },
+    {
+      "ecg_id": 6258,
+      "relative_path": "originals\\records100\\06000\\06258_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/06000/06258_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "3e6e5d678e2db3afa643d0f0976c9e90cde6cd6c12112ca4e648fc15e721ba8d"
+    },
+    {
+      "ecg_id": 6258,
+      "relative_path": "originals\\records100\\06000\\06258_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/06000/06258_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 613,
+      "sha256": "f197d12b13b9d6756b2a56873b9e82d85facbfcff5d0abbcac5603e11567e10c"
+    },
+    {
+      "ecg_id": 6391,
+      "relative_path": "originals\\records100\\06000\\06391_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/06000/06391_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "4f11ead5c96334bcd6ae36861c3cc3e977719806c1ab614d83a08866e427a8c8"
+    },
+    {
+      "ecg_id": 6391,
+      "relative_path": "originals\\records100\\06000\\06391_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/06000/06391_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 620,
+      "sha256": "6a53e0a77e2373c704c60fb9e334f449ce0cfacf8531fdd6b96331a40c4c99e6"
+    },
+    {
+      "ecg_id": 7028,
+      "relative_path": "originals\\records100\\07000\\07028_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07028_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "c5576e84fd093dde8a05e45005812a2b6419d5e8d8be63079b9ca082ec397d25"
+    },
+    {
+      "ecg_id": 7028,
+      "relative_path": "originals\\records100\\07000\\07028_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07028_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "bb9dd0076c336868931de751c1e39f26ccaa22d485fc3ebdf3f24df598d3da5d"
+    },
+    {
+      "ecg_id": 7115,
+      "relative_path": "originals\\records100\\07000\\07115_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07115_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "5e7444eaff1d49af62408b3a65cdc7dd3b93c4021848e34c464b62d528e07790"
+    },
+    {
+      "ecg_id": 7115,
+      "relative_path": "originals\\records100\\07000\\07115_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07115_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 600,
+      "sha256": "c450369d653b0f068d81a4120ecfeddc95bb813b75f9e443ef1df32dec51c898"
+    },
+    {
+      "ecg_id": 7673,
+      "relative_path": "originals\\records100\\07000\\07673_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07673_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "91f214a178efb44a2d6184980f482d9ede4af149fff4ef005ba9dd9ab612c047"
+    },
+    {
+      "ecg_id": 7673,
+      "relative_path": "originals\\records100\\07000\\07673_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07673_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 609,
+      "sha256": "89d90724f8cab5c1d69005c5093f27f60cea8fc3689b5496643889571083a167"
+    },
+    {
+      "ecg_id": 7799,
+      "relative_path": "originals\\records100\\07000\\07799_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07799_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "114f4f41e5a6f815cbb0b6cbfb19d1997b1651794cda7bd2aba1b76911111324"
+    },
+    {
+      "ecg_id": 7799,
+      "relative_path": "originals\\records100\\07000\\07799_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07799_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "e2d2c778eac785345dc683c7b7119800b706ab795fcd038a6353e8483f9fbd60"
+    },
+    {
+      "ecg_id": 7934,
+      "relative_path": "originals\\records100\\07000\\07934_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07934_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "5c1edd0be66a449f43d1b965108a5116ce43f35b75537e33013652fba75408a3"
+    },
+    {
+      "ecg_id": 7934,
+      "relative_path": "originals\\records100\\07000\\07934_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07934_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 603,
+      "sha256": "fa682b9de32e6c14d2420e17600563b04646829320f975395c40fb1d461d6d3c"
+    },
+    {
+      "ecg_id": 7981,
+      "relative_path": "originals\\records100\\07000\\07981_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07981_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "ed03a8114535b3c1132820dfbeb632bc310203eae4c5dc64deccd0ab03ec65f8"
+    },
+    {
+      "ecg_id": 7981,
+      "relative_path": "originals\\records100\\07000\\07981_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/07000/07981_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 613,
+      "sha256": "5b931d9cf83205e66fc548f3c0942ff775b031301ab2711ceb3fcb5a8a99a5dd"
+    },
+    {
+      "ecg_id": 8396,
+      "relative_path": "originals\\records100\\08000\\08396_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08396_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "c091bf12972e01aa16eea8044d3c50cd036792bc6dd84fe2d9a56d4f5c3abf0d"
+    },
+    {
+      "ecg_id": 8396,
+      "relative_path": "originals\\records100\\08000\\08396_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08396_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 608,
+      "sha256": "14e05c71cafe7fbc6b40243ae74806892e2f34f2f8deca67ba2d79f8ceb82ea3"
+    },
+    {
+      "ecg_id": 8465,
+      "relative_path": "originals\\records100\\08000\\08465_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08465_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "922f1296eb99f5f9396442e2b2b7cc7c580bd4d685ef3436f02b7c6e8a149af6"
+    },
+    {
+      "ecg_id": 8465,
+      "relative_path": "originals\\records100\\08000\\08465_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08465_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 618,
+      "sha256": "e2d21728dfeb3838993c3701725831d4fb98d910b4c707fb4c5000721a93ef96"
+    },
+    {
+      "ecg_id": 8580,
+      "relative_path": "originals\\records100\\08000\\08580_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08580_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "bf7bd8881fe914a17fc193c95c8765c13a88df4820df395df1c6898715dee3b7"
+    },
+    {
+      "ecg_id": 8580,
+      "relative_path": "originals\\records100\\08000\\08580_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08580_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "e15ffdb0ed7cb15065a8e4f10aa9755d51c6b87e9999700cdc46b1bf403b46bd"
+    },
+    {
+      "ecg_id": 8611,
+      "relative_path": "originals\\records100\\08000\\08611_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08611_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "556f7afb46c878f13357feb9c59fe43adca765deba1d98acdeb7ac95a570eada"
+    },
+    {
+      "ecg_id": 8611,
+      "relative_path": "originals\\records100\\08000\\08611_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08611_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 608,
+      "sha256": "7e258c07f6427dbb01737d7e2abf310ebec5f44b5bb80e4629939369ae3cfaaf"
+    },
+    {
+      "ecg_id": 8693,
+      "relative_path": "originals\\records100\\08000\\08693_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08693_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "a9fc9764cfec0b7cc928f8ff3fe812184ae937d79835e65f545e70ad2c1b6423"
+    },
+    {
+      "ecg_id": 8693,
+      "relative_path": "originals\\records100\\08000\\08693_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/08000/08693_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 610,
+      "sha256": "3d6a59425c36c5cc315e6dc7a210ec2866963e77ffac5184776bd41ea259c8f0"
+    },
+    {
+      "ecg_id": 9972,
+      "relative_path": "originals\\records100\\09000\\09972_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/09000/09972_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "7c763d50e372341dda11a9667016185f7e63d109cd66d25c43cc1288aff9cbe1"
+    },
+    {
+      "ecg_id": 9972,
+      "relative_path": "originals\\records100\\09000\\09972_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/09000/09972_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "411589934114ddda6eb61397803e8ce49722aea987360819eae16215affdae44"
+    },
+    {
+      "ecg_id": 10109,
+      "relative_path": "originals\\records100\\10000\\10109_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/10000/10109_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "e95552deac404178693a16671d4589596cd377a96911f3025f58d1326c133523"
+    },
+    {
+      "ecg_id": 10109,
+      "relative_path": "originals\\records100\\10000\\10109_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/10000/10109_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 600,
+      "sha256": "f0ef11fc3915ad86da45ee386c32a972cdb896657766e0edaec0d9bc6551f6e8"
+    },
+    {
+      "ecg_id": 10683,
+      "relative_path": "originals\\records100\\10000\\10683_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/10000/10683_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "b60b5c3f19683be36ea2832ec6290efa9e13cba6fea57d35a5c32d017e296ec2"
+    },
+    {
+      "ecg_id": 10683,
+      "relative_path": "originals\\records100\\10000\\10683_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/10000/10683_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "e3a5a031d0bddc6c53064291c28ee0bc4782e927efa2def4d32d22076c9179fd"
+    },
+    {
+      "ecg_id": 10937,
+      "relative_path": "originals\\records100\\10000\\10937_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/10000/10937_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "44e75581a66abac6b129f260402c8e23a022a5f1e3858dc7694824192fa60bb8"
+    },
+    {
+      "ecg_id": 10937,
+      "relative_path": "originals\\records100\\10000\\10937_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/10000/10937_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 609,
+      "sha256": "02720c79077627c8e2c9b2b6fc822d0454d48d9a86b5e2f14fe090a7994b8d4d"
+    },
+    {
+      "ecg_id": 11251,
+      "relative_path": "originals\\records100\\11000\\11251_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/11000/11251_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "833400f2ef6eaaea86c465e3f9b378178c19ff9acf0b9c387d47d5510b4a2997"
+    },
+    {
+      "ecg_id": 11251,
+      "relative_path": "originals\\records100\\11000\\11251_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/11000/11251_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 614,
+      "sha256": "b77ced8dc6bf86b0c9578216997302001a46e85445a24102f08bc0125bc827b8"
+    },
+    {
+      "ecg_id": 11365,
+      "relative_path": "originals\\records100\\11000\\11365_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/11000/11365_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "c5b876611825cf7dd12c8f0fed41dffc45b33dd0140a1f16636806544afe8a7f"
+    },
+    {
+      "ecg_id": 11365,
+      "relative_path": "originals\\records100\\11000\\11365_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/11000/11365_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "54c0d2cbf4b5d6350693b94245a61433dbdc048d3d0d80700a91b38dbd732f45"
+    },
+    {
+      "ecg_id": 11549,
+      "relative_path": "originals\\records100\\11000\\11549_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/11000/11549_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "622b6a9c86cc43a37146ef4ea65d0f4fb59da6ec1623984f49871c37ded9d70a"
+    },
+    {
+      "ecg_id": 11549,
+      "relative_path": "originals\\records100\\11000\\11549_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/11000/11549_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "188a0801c332a6ad2ed585b05b0f34a1d63182afc918969e90263f518fbfaa17"
+    },
+    {
+      "ecg_id": 12065,
+      "relative_path": "originals\\records100\\12000\\12065_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12065_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "79e0886885c7d058efa5326bebf848641e19216f52238e8103f7560738b8663f"
+    },
+    {
+      "ecg_id": 12065,
+      "relative_path": "originals\\records100\\12000\\12065_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12065_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "1e16bf70ca778f5f0eef379cac5810c4be5c1bea119b77b582c8907066207ce8"
+    },
+    {
+      "ecg_id": 12343,
+      "relative_path": "originals\\records100\\12000\\12343_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12343_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "2d89e877df11319ad463dbc79b76fad98b2372db68361a53b9357632475d2563"
+    },
+    {
+      "ecg_id": 12343,
+      "relative_path": "originals\\records100\\12000\\12343_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12343_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "cb1621f7aaf02215d6086c518514f44e75009767c135eb5dcea165a90ada1d2d"
+    },
+    {
+      "ecg_id": 12497,
+      "relative_path": "originals\\records100\\12000\\12497_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12497_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "7c3dd674dec56cb712522f455c044314e8c7c829a610b1d767aa49e87d1ffa57"
+    },
+    {
+      "ecg_id": 12497,
+      "relative_path": "originals\\records100\\12000\\12497_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12497_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 600,
+      "sha256": "e726978fcafca8d86313c87a5955dff410d37b5b23d56093c46457dd77c8c1e7"
+    },
+    {
+      "ecg_id": 12611,
+      "relative_path": "originals\\records100\\12000\\12611_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12611_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "077f18f772a16877247f82d6b5cb51d87d53d9e7ae51641f4cd90139cec1d8b8"
+    },
+    {
+      "ecg_id": 12611,
+      "relative_path": "originals\\records100\\12000\\12611_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12611_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "f233853b7c6544fa88b00485137262b8317cdefb16378c31772a3c4ea1c4725c"
+    },
+    {
+      "ecg_id": 12773,
+      "relative_path": "originals\\records100\\12000\\12773_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12773_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "736014c863fe7c7610767aae052809dab57461e7230224444ed1675a2623d468"
+    },
+    {
+      "ecg_id": 12773,
+      "relative_path": "originals\\records100\\12000\\12773_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12773_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 599,
+      "sha256": "8bff8173841b5bf764f6b56279a33137e35b5cff79e2af526d962566512553c2"
+    },
+    {
+      "ecg_id": 12887,
+      "relative_path": "originals\\records100\\12000\\12887_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12887_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "94caa62d75fa0038f0acaadf1fd7479397a1879571b3da32b1a69baa4bbf7ebf"
+    },
+    {
+      "ecg_id": 12887,
+      "relative_path": "originals\\records100\\12000\\12887_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12887_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "6da89bb6309355aec17ab0ccab5b3615d2cc91529b8a87c240a2043220f4e5ef"
+    },
+    {
+      "ecg_id": 12983,
+      "relative_path": "originals\\records100\\12000\\12983_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12983_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "64694f1ff892471883a4b43d27568adb4681614400bcdb2c2b3e2a49ef3c1cb0"
+    },
+    {
+      "ecg_id": 12983,
+      "relative_path": "originals\\records100\\12000\\12983_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/12000/12983_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 603,
+      "sha256": "51be29235868028f9a223e2e84baf25915053b699af1cc3b38cc25f3785464c7"
+    },
+    {
+      "ecg_id": 13286,
+      "relative_path": "originals\\records100\\13000\\13286_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13286_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "08a801dfc975e3bed5099a7b17bad5b1d0eff4aad3aeee555b2228e3ab73b9f4"
+    },
+    {
+      "ecg_id": 13286,
+      "relative_path": "originals\\records100\\13000\\13286_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13286_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 611,
+      "sha256": "bf582893f577dd0d3de869b18a74bd6e6c2524d9f8421a04afcb69722b51968c"
+    },
+    {
+      "ecg_id": 13430,
+      "relative_path": "originals\\records100\\13000\\13430_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13430_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "5144ce2822075a343dd3af3cd1601bca71b9d125d6bae2e0855367549bedf669"
+    },
+    {
+      "ecg_id": 13430,
+      "relative_path": "originals\\records100\\13000\\13430_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13430_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "43223ece300347c3bdf18a4eef47af4747e12c7d44f9b1cbb2a6b53f76660ee0"
+    },
+    {
+      "ecg_id": 13885,
+      "relative_path": "originals\\records100\\13000\\13885_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13885_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "c6736d79207b9baeef0758cb2fc411f6485dd9f2bc43449d644e7476620c96d5"
+    },
+    {
+      "ecg_id": 13885,
+      "relative_path": "originals\\records100\\13000\\13885_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13885_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 603,
+      "sha256": "b8dea45c30da35be7c4dae1f399bd266a9a7013a47202ba851c3d1999203d6a3"
+    },
+    {
+      "ecg_id": 13961,
+      "relative_path": "originals\\records100\\13000\\13961_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13961_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "9708e2813a43b5ffc9aa82df46ba359a5d99b1471a6edaca704979c75378f983"
+    },
+    {
+      "ecg_id": 13961,
+      "relative_path": "originals\\records100\\13000\\13961_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/13000/13961_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "9854730a3b1ee636e187a88e14a060d95a4b077813d27473274addfc9a97af03"
+    },
+    {
+      "ecg_id": 14120,
+      "relative_path": "originals\\records100\\14000\\14120_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/14000/14120_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "909089f0fa8c6ab6fa35d2f4ce7838234d5d040734fe5f554762a8ba493fa0ee"
+    },
+    {
+      "ecg_id": 14120,
+      "relative_path": "originals\\records100\\14000\\14120_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/14000/14120_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 600,
+      "sha256": "eb81896d9516634242e98c0466317a00599ca2c7c4e0edb5357e015269fcb705"
+    },
+    {
+      "ecg_id": 14521,
+      "relative_path": "originals\\records100\\14000\\14521_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/14000/14521_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "7ec74894716c5b664f0035483df64b312ed3e5f9db370819040bd86faabad0f5"
+    },
+    {
+      "ecg_id": 14521,
+      "relative_path": "originals\\records100\\14000\\14521_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/14000/14521_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 605,
+      "sha256": "9a54443832a6bbe56d3ee05351acd53f72b4df2bf86c7a6eda4655e3bf3c8f75"
+    },
+    {
+      "ecg_id": 14895,
+      "relative_path": "originals\\records100\\14000\\14895_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/14000/14895_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "4cc5c0ec6be6a973a8bf8509942c25fb271965265b88e54e7505b68ec7d66b87"
+    },
+    {
+      "ecg_id": 14895,
+      "relative_path": "originals\\records100\\14000\\14895_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/14000/14895_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "c66beb82c6de22e7c924818531520b889531c7aad8d0dc2c21330a5de8aa8bd9"
+    },
+    {
+      "ecg_id": 15068,
+      "relative_path": "originals\\records100\\15000\\15068_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15068_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "f0b0661914d923860d8ffbdc55a0b44c02dc5bc8756b55b1b3ac6c58c1001bde"
+    },
+    {
+      "ecg_id": 15068,
+      "relative_path": "originals\\records100\\15000\\15068_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15068_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 600,
+      "sha256": "41ea2600142bb41219d3ef3301d8f46166b3d0c38af3e526ecce77cd4339be5f"
+    },
+    {
+      "ecg_id": 15280,
+      "relative_path": "originals\\records100\\15000\\15280_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15280_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "88461b04d056ae81b9183a57fbb718ecc1014ae616b32d1736d1de1a8eaf08df"
+    },
+    {
+      "ecg_id": 15280,
+      "relative_path": "originals\\records100\\15000\\15280_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15280_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "74d05d330f8d8e0ee5e6a706972c54056fbb3f49209def21bb3f09799323a447"
+    },
+    {
+      "ecg_id": 15435,
+      "relative_path": "originals\\records100\\15000\\15435_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15435_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "0dc2498551f0952318eff800ebed7e947305d707a44ce65ce519ea6819c03f0e"
+    },
+    {
+      "ecg_id": 15435,
+      "relative_path": "originals\\records100\\15000\\15435_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15435_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 609,
+      "sha256": "a797d4769f8ff448c11d88aa4a91a12b8b1d958a645708497d0e345f21a0339b"
+    },
+    {
+      "ecg_id": 15445,
+      "relative_path": "originals\\records100\\15000\\15445_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15445_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "50be4824213bd35121d46acc7ef684bb1abf3d96dc423dd9177b54b93f1205c0"
+    },
+    {
+      "ecg_id": 15445,
+      "relative_path": "originals\\records100\\15000\\15445_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15445_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "cc08509e480e04a0536f94314a9a221b48cb6db5807d87f554da4ad1f358cfd0"
+    },
+    {
+      "ecg_id": 15446,
+      "relative_path": "originals\\records100\\15000\\15446_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15446_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "c77a7ad8e762f42aa8c5a39e08b8912984a140d10ee29287422cad9c70b6e235"
+    },
+    {
+      "ecg_id": 15446,
+      "relative_path": "originals\\records100\\15000\\15446_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15446_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 600,
+      "sha256": "bdcb6e54c361c200b703abc355804261678dadc53c387790ada3ec370147090a"
+    },
+    {
+      "ecg_id": 15604,
+      "relative_path": "originals\\records100\\15000\\15604_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15604_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "e25fc7f57e99d77daf258c669c7d0e39098227264e5adf911dfb9089d45dd140"
+    },
+    {
+      "ecg_id": 15604,
+      "relative_path": "originals\\records100\\15000\\15604_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15604_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 606,
+      "sha256": "7a3c6e97f6101273f5549b6f52d007695887a0f60d30140c8a63f6c5fe57d067"
+    },
+    {
+      "ecg_id": 15612,
+      "relative_path": "originals\\records100\\15000\\15612_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15612_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "77f55765f4505ee33595629f7e4e48dd3be2ee0481d266100078576c791f4884"
+    },
+    {
+      "ecg_id": 15612,
+      "relative_path": "originals\\records100\\15000\\15612_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15612_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 611,
+      "sha256": "dd85bb666c49ebf585f8846b66260dadc94b4fc313686dbea04116c654210188"
+    },
+    {
+      "ecg_id": 15676,
+      "relative_path": "originals\\records100\\15000\\15676_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15676_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "50759fcc781480c93096f46818c59a2b7ff20cf0f99a3b972b3388862e9b810c"
+    },
+    {
+      "ecg_id": 15676,
+      "relative_path": "originals\\records100\\15000\\15676_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15676_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "d2c87061972a62e2e9ae0d3938adba3a7ac25913649a5d3fca81e332fa6e4e22"
+    },
+    {
+      "ecg_id": 15781,
+      "relative_path": "originals\\records100\\15000\\15781_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15781_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "a7f1e461b6eab11d9540607cfac4e730aabba77da69af8ed65bd7a79563831c7"
+    },
+    {
+      "ecg_id": 15781,
+      "relative_path": "originals\\records100\\15000\\15781_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15781_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 606,
+      "sha256": "3ca22d5c75234ebb35ccc464fb74b09e57ecfd1e9dde34841ea3fecbb286e801"
+    },
+    {
+      "ecg_id": 15790,
+      "relative_path": "originals\\records100\\15000\\15790_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15790_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "a1e56fae606f15b058ee29786202ba219a0b7032403abac4907b8f70fc903987"
+    },
+    {
+      "ecg_id": 15790,
+      "relative_path": "originals\\records100\\15000\\15790_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15790_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 594,
+      "sha256": "8f87805021b96103d570d050224519ed3644392047bee1de7001258b8b9cc54b"
+    },
+    {
+      "ecg_id": 15999,
+      "relative_path": "originals\\records100\\15000\\15999_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15999_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "30224e7747558036fc6334805c37a588666bb46da4e53af38ffd564d5a8ff540"
+    },
+    {
+      "ecg_id": 15999,
+      "relative_path": "originals\\records100\\15000\\15999_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/15000/15999_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 606,
+      "sha256": "5732df39a37faff8b743107cb81f66370f3ad949b09989c77b9df1c3223c94d1"
+    },
+    {
+      "ecg_id": 16018,
+      "relative_path": "originals\\records100\\16000\\16018_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16018_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "ad9c2728dc37fda2d2d919e7e198a5a0f84c7b0a320a466dcba91c85692974bf"
+    },
+    {
+      "ecg_id": 16018,
+      "relative_path": "originals\\records100\\16000\\16018_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16018_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "005c2a49a3e55b08c865e21eeef149ad61aa63cdcf9c00e9147ccc61661e4bc9"
+    },
+    {
+      "ecg_id": 16258,
+      "relative_path": "originals\\records100\\16000\\16258_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16258_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "e08cb677156356898b3442bb36e56c488ac2f1dd546a250108017d0dd52be295"
+    },
+    {
+      "ecg_id": 16258,
+      "relative_path": "originals\\records100\\16000\\16258_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16258_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "eef6eb19e18221bcb2ffa6f1dce41c3397e35dd2e83de27b9f5662d04c450bd6"
+    },
+    {
+      "ecg_id": 16305,
+      "relative_path": "originals\\records100\\16000\\16305_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16305_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "a700b0350321ebcadfb0b51efb096c1f2924b430ea987ef97c1bc91f87c43083"
+    },
+    {
+      "ecg_id": 16305,
+      "relative_path": "originals\\records100\\16000\\16305_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16305_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "9d848356144081a33d854a456feef5972855bdaa79aaf225c87f6f5d2fc49650"
+    },
+    {
+      "ecg_id": 16345,
+      "relative_path": "originals\\records100\\16000\\16345_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16345_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "2620fb5bca01763cc8f8f9532fe004ec1ae726776508c8c6c1d2d677abeafede"
+    },
+    {
+      "ecg_id": 16345,
+      "relative_path": "originals\\records100\\16000\\16345_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16345_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 593,
+      "sha256": "4efaec6b0a7b71e8117473cfa47a94eb1ee35477cfc4bd0151ab7058cbae3f56"
+    },
+    {
+      "ecg_id": 16486,
+      "relative_path": "originals\\records100\\16000\\16486_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16486_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "1b62e27e7a435fb2e0f51f78edc30aa04a83f7173b8740d536f56139e29360d0"
+    },
+    {
+      "ecg_id": 16486,
+      "relative_path": "originals\\records100\\16000\\16486_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16486_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 605,
+      "sha256": "89982d96cd9e3c6b26abfa504cc467ecda41463166becf2a0f7db63bf62158cb"
+    },
+    {
+      "ecg_id": 16751,
+      "relative_path": "originals\\records100\\16000\\16751_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16751_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "ef9e0b7ff283e857977adc4f3ab52ecdc6bca4fea41c2cfaff82c3d519b58c5f"
+    },
+    {
+      "ecg_id": 16751,
+      "relative_path": "originals\\records100\\16000\\16751_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16751_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 597,
+      "sha256": "c3205a24e91d04a449bcf53fb02070fa3f2f71a354138be84561a6d433d2e12a"
+    },
+    {
+      "ecg_id": 16756,
+      "relative_path": "originals\\records100\\16000\\16756_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16756_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "f6bb77ddee77f08efa617b004857110c1047c4db10f3f68749a47157920e29ca"
+    },
+    {
+      "ecg_id": 16756,
+      "relative_path": "originals\\records100\\16000\\16756_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/16000/16756_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 598,
+      "sha256": "6dd08443a60dab1690283103592b23bd56504ac5fccea452cf8040615da48faf"
+    },
+    {
+      "ecg_id": 17831,
+      "relative_path": "originals\\records100\\17000\\17831_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/17000/17831_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "9ac5c2f48f319e0162bf5583dc500684b8afdfe12d9372a8294ec4011308b74e"
+    },
+    {
+      "ecg_id": 17831,
+      "relative_path": "originals\\records100\\17000\\17831_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/17000/17831_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 606,
+      "sha256": "2f898394ef24459c90484ad3a791660dd56efc9b9f4a3524dc41fa6faecba53c"
+    },
+    {
+      "ecg_id": 17900,
+      "relative_path": "originals\\records100\\17000\\17900_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/17000/17900_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "b03213d07edc176d90fe4b28154e9c99508d56d3c35377bb59a98b24ba34470c"
+    },
+    {
+      "ecg_id": 17900,
+      "relative_path": "originals\\records100\\17000\\17900_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/17000/17900_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 598,
+      "sha256": "89d74d64cb259c7c52ea23c7a3346c4bef263f79caf93211130ba5e8a8761e93"
+    },
+    {
+      "ecg_id": 18414,
+      "relative_path": "originals\\records100\\18000\\18414_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18414_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "1c77818afbf7c98197948406a5cbb451c4f97067d2bb86b39bd6f101f1143ffd"
+    },
+    {
+      "ecg_id": 18414,
+      "relative_path": "originals\\records100\\18000\\18414_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18414_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 606,
+      "sha256": "45bb39343cd3a1c12495e4bc2e9972857c9a38acbbad19def4de644bb89fc8fa"
+    },
+    {
+      "ecg_id": 18579,
+      "relative_path": "originals\\records100\\18000\\18579_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18579_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "6f78a5b8c609058b9540b7eb5c27cf587afa7d0f658b2fd19ac6befed69940b9"
+    },
+    {
+      "ecg_id": 18579,
+      "relative_path": "originals\\records100\\18000\\18579_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18579_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "a43a60aaf43f0d9a6bb21ba593b8e8f089f17a7a2c22c4312d2755875413144e"
+    },
+    {
+      "ecg_id": 18828,
+      "relative_path": "originals\\records100\\18000\\18828_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18828_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "ecfac8c406623432f33704b44fd1174fe126a8f8ba4727ab84e312b365766af0"
+    },
+    {
+      "ecg_id": 18828,
+      "relative_path": "originals\\records100\\18000\\18828_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18828_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 596,
+      "sha256": "40ef3e1f50e741f1cf1ae4476dee0f6107c8f16f9de190e4815cba1d89f733e7"
+    },
+    {
+      "ecg_id": 18842,
+      "relative_path": "originals\\records100\\18000\\18842_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18842_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "f7f5453a0890241431db6410a79790d2095e361d0edf6925766675f8c87c1421"
+    },
+    {
+      "ecg_id": 18842,
+      "relative_path": "originals\\records100\\18000\\18842_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/18000/18842_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "36c70e4a35c7f6008420354b8ce5d62f16363d9b6975ba2adf669e71f3995eed"
+    },
+    {
+      "ecg_id": 19830,
+      "relative_path": "originals\\records100\\19000\\19830_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/19000/19830_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "9bd0333b383e34212c22a6da49ee5fd87ee5d03f480cad92c3ddf9d4f3666d77"
+    },
+    {
+      "ecg_id": 19830,
+      "relative_path": "originals\\records100\\19000\\19830_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/19000/19830_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "cfb39bb204c7f50776c3afa329e7f30f224df4bae085932604a83dbdab8894ae"
+    },
+    {
+      "ecg_id": 20205,
+      "relative_path": "originals\\records100\\20000\\20205_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20205_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "68f35339b7bd3fab2301b1c8875f43bed7e5df9796765b2de3350a999d0333f9"
+    },
+    {
+      "ecg_id": 20205,
+      "relative_path": "originals\\records100\\20000\\20205_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20205_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 608,
+      "sha256": "4e8a1792823a8d5d026e660d0fafadd888232d902be70f57e269493a540661db"
+    },
+    {
+      "ecg_id": 20261,
+      "relative_path": "originals\\records100\\20000\\20261_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20261_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "4016a177acd1e6f3cd77f66e812bd557d9c7cb1479d82a50f2e8540bc9666e1f"
+    },
+    {
+      "ecg_id": 20261,
+      "relative_path": "originals\\records100\\20000\\20261_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20261_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 599,
+      "sha256": "adbade91063397f40f66a712d33eac20471955d93412fd3274be51b62b5b2496"
+    },
+    {
+      "ecg_id": 20350,
+      "relative_path": "originals\\records100\\20000\\20350_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20350_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "c7f753fdb691f9336151c31b67b2884b749b981c330bb635989fdb8467182822"
+    },
+    {
+      "ecg_id": 20350,
+      "relative_path": "originals\\records100\\20000\\20350_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20350_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 602,
+      "sha256": "ff6d3480d8a9e9894556f5369be1018a288d19f8a72b4b7c4f43c19ef9c73804"
+    },
+    {
+      "ecg_id": 20485,
+      "relative_path": "originals\\records100\\20000\\20485_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20485_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "d4cf97fe4e22a8bc75e5fc6eb726f99e90b7c971cddee746b1a63ff8fe938ff7"
+    },
+    {
+      "ecg_id": 20485,
+      "relative_path": "originals\\records100\\20000\\20485_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20485_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "c3f9ffcb16fe015a6bc4e9c8a4395e8a058d0b9eb14a58d596369d2190179a2e"
+    },
+    {
+      "ecg_id": 20556,
+      "relative_path": "originals\\records100\\20000\\20556_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20556_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "6dd9b824e22994c52317e66a419502cab29bc8daf0cc7c57a62f579b11e4c442"
+    },
+    {
+      "ecg_id": 20556,
+      "relative_path": "originals\\records100\\20000\\20556_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20556_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "e14df42a56561ea2db88619196dd5a4e9ba7258d0d3e16cef0b90406e1b10027"
+    },
+    {
+      "ecg_id": 20790,
+      "relative_path": "originals\\records100\\20000\\20790_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20790_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "611d8e3cade0fb08dff6272b1babb4939debd43181e091da5e7e6013fa634b30"
+    },
+    {
+      "ecg_id": 20790,
+      "relative_path": "originals\\records100\\20000\\20790_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/20000/20790_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 601,
+      "sha256": "4ae113756a911000dbb6ed2e32a281f1c7728e17e294fa42bc7fa4041acda68e"
+    },
+    {
+      "ecg_id": 21038,
+      "relative_path": "originals\\records100\\21000\\21038_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21038_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "0d866825292c39ca12064e6ad1d1816cd7ec2964ec8fe4af898c9f4d3140df6b"
+    },
+    {
+      "ecg_id": 21038,
+      "relative_path": "originals\\records100\\21000\\21038_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21038_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "b632ad2a7c3ed9e5063777bcd0fa8ea4087860f7f9d8697001d6827a758209f7"
+    },
+    {
+      "ecg_id": 21529,
+      "relative_path": "originals\\records100\\21000\\21529_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21529_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "8ad3424c8bbb4dae1ecfd087118ae9824e2808d22e6712eff5e1a2beb8b75541"
+    },
+    {
+      "ecg_id": 21529,
+      "relative_path": "originals\\records100\\21000\\21529_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21529_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 607,
+      "sha256": "ddb19058a169658f2be5b4df32fa0fb5067afe62c7cb1ef46cab25918a31ec49"
+    },
+    {
+      "ecg_id": 21599,
+      "relative_path": "originals\\records100\\21000\\21599_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21599_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "971ac17ea8ba89767a334f9c835ccfa99674a966dc5a1164c9e0d526ec851dbf"
+    },
+    {
+      "ecg_id": 21599,
+      "relative_path": "originals\\records100\\21000\\21599_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21599_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 612,
+      "sha256": "cd6b6c3c1f740a1d3749f16e6fc1489cf786a405f7bacfc0982ad7309cc72c7f"
+    },
+    {
+      "ecg_id": 21712,
+      "relative_path": "originals\\records100\\21000\\21712_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21712_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "7fd081eee9fe382c2dad4738420e28a436fdd624938d6ff84fe7f0d689bd57f3"
+    },
+    {
+      "ecg_id": 21712,
+      "relative_path": "originals\\records100\\21000\\21712_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21712_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 604,
+      "sha256": "fb1c9140924677dc82434d8916d29ae486b3c24cd638163afa51987f9afd1995"
+    },
+    {
+      "ecg_id": 21731,
+      "relative_path": "originals\\records100\\21000\\21731_lr.dat",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21731_lr.dat",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 24000,
+      "sha256": "bce2b17976f03649af7adacc2305dc304c5bbd2aba1e851f6a18d982ab9ad498"
+    },
+    {
+      "ecg_id": 21731,
+      "relative_path": "originals\\records100\\21000\\21731_lr.hea",
+      "source_url": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/records100/21000/21731_lr.hea",
+      "version": "1.0.3",
+      "retrieved_on": "2026-10-23",
+      "status": "archived",
+      "bytes": 605,
+      "sha256": "5bed11c63ddebe02a59c5bc9de41ba8a410e155475ecca2dce2d2a62042ec2f6"
+    }
+  ]
+}

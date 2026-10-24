@@ -1,0 +1,6 @@
+{
+  "directory": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z",
+  "verification": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\analysis\\training_verification.json",
+  "validation_summary": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\analysis\\validation_summary.json",
+  "status": "passed"
+}

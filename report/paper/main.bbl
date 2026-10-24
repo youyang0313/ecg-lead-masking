@@ -1,0 +1,312 @@
+\begin{thebibliography}{37}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Azram et~al.(2021)Azram, Ahmed, Leese, Brigham, Bowes, Wheatcroft,
+  Ngantcha, Stegemann, Crowther, and Tayebjee]{azram2021evalecg}
+M.~Azram, N.~Ahmed, L.~Leese, M.~Brigham, R.~Bowes, S.~B. Wheatcroft,
+  M.~Ngantcha, B.~Stegemann, G.~Crowther, and M.~H. Tayebjee.
+\newblock {Clinical validation and evaluation of a novel six-lead handheld
+  electrocardiogram recorder compared to the 12-lead electrocardiogram in
+  unselected cardiology patients (EVALECG Cardio)}.
+\newblock \emph{European Heart Journal - Digital Health}, 2\penalty0
+  (4):\penalty0 643--648, 2021.
+\newblock \doi{10.1093/ehjdh/ztab083}.
+
+\bibitem[Che et~al.(2018)Che, Purushotham, Cho, Sontag, and Liu]{che2018grud}
+Z.~Che, S.~Purushotham, K.~Cho, D.~Sontag, and Y.~Liu.
+\newblock {Recurrent Neural Networks for Multivariate Time Series with Missing
+  Values}.
+\newblock \emph{Scientific Reports}, 8\penalty0 (1), 2018.
+\newblock \doi{10.1038/s41598-018-24271-9}.
+
+\bibitem[Diamant et~al.(2022)Diamant, Reinertsen, Song, Aguirre, Stultz, and
+  Batra]{diamant2022pclr}
+N.~Diamant, E.~Reinertsen, S.~Song, A.~D. Aguirre, C.~M. Stultz, and P.~Batra.
+\newblock {Patient contrastive learning: A performant, expressive, and
+  practical approach to electrocardiogram modeling}.
+\newblock \emph{PLOS Computational Biology}, 18\penalty0 (2):\penalty0
+  e1009862, 2022.
+\newblock \doi{10.1371/journal.pcbi.1009862}.
+
+\bibitem[Gopal et~al.(2021)Gopal, Han, Raghupathi, Ng, Tison, and
+  Rajpurkar]{gopal2021threeKG}
+B.~Gopal, R.~Han, G.~Raghupathi, A.~Ng, G.~Tison, and P.~Rajpurkar.
+\newblock {3KG: Contrastive Learning of 12-Lead Electrocardiograms using
+  Physiologically-Inspired Augmentations}.
+\newblock In \emph{Machine Learning for Health}, volume 158, pages 156--167.
+  PMLR, 2021.
+\newblock URL \url{https://proceedings.mlr.press/v158/gopal21a.html}.
+
+\bibitem[Guo et~al.(2017)Guo, Pleiss, Sun, and Weinberger]{guo2017calibration}
+C.~Guo, G.~Pleiss, Y.~Sun, and K.~Q. Weinberger.
+\newblock {On Calibration of Modern Neural Networks}.
+\newblock In \emph{International Conference on Machine Learning}, volume~70,
+  pages 1321--1330. PMLR, 2017.
+\newblock URL \url{https://proceedings.mlr.press/v70/guo17a.html}.
+
+\bibitem[Harutyunyan et~al.(2019)Harutyunyan, Khachatrian, Kale, Ver~Steeg, and
+  Galstyan]{harutyunyan2019benchmark}
+H.~Harutyunyan, H.~Khachatrian, D.~C. Kale, G.~Ver~Steeg, and A.~Galstyan.
+\newblock {Multitask learning and benchmarking with clinical time series data}.
+\newblock \emph{Scientific Data}, 6\penalty0 (1), 2019.
+\newblock \doi{10.1038/s41597-019-0103-9}.
+
+\bibitem[Ioffe and Szegedy(2015)]{ioffe2015batchnorm}
+S.~Ioffe and C.~Szegedy.
+\newblock {Batch Normalization: Accelerating Deep Network Training by Reducing
+  Internal Covariate Shift}.
+\newblock In \emph{International Conference on Machine Learning}, volume~37,
+  pages 448--456. PMLR, 2015.
+\newblock URL \url{https://proceedings.mlr.press/v37/ioffe15.html}.
+
+\bibitem[Kiyasseh et~al.(2021)Kiyasseh, Zhu, and Clifton]{kiyasseh2021clocs}
+D.~Kiyasseh, T.~Zhu, and D.~A. Clifton.
+\newblock {CLOCS: Contrastive Learning of Cardiac Signals Across Space, Time,
+  and Patients}.
+\newblock In \emph{International Conference on Machine Learning}, volume 139,
+  pages 5606--5615. PMLR, 2021.
+\newblock URL \url{https://proceedings.mlr.press/v139/kiyasseh21a.html}.
+
+\bibitem[Lence et~al.(2025)Lence, Granese, Fall, Hanczar, Salem, Zucker, and
+  Prifti]{lence2025ecgrecover}
+A.~Lence, F.~Granese, A.~Fall, B.~Hanczar, J.-E. Salem, J.-D. Zucker, and
+  E.~Prifti.
+\newblock {ECGrecover: a Deep Learning Approach for Electrocardiogram Signal
+  Completion}.
+\newblock arXiv preprint arXiv:2406.16901v3, 2025.
+\newblock URL \url{https://arxiv.org/abs/2406.16901v3}.
+\newblock Preprint, version 3.
+
+\bibitem[Li et~al.(2019)Li, Chen, Hu, and Yang]{li2019variance}
+X.~Li, S.~Chen, X.~Hu, and J.~Yang.
+\newblock {Understanding the Disharmony Between Dropout and Batch Normalization
+  by Variance Shift}.
+\newblock In \emph{Proceedings of the IEEE/CVF Conference on Computer Vision
+  and Pattern Recognition}, 2019.
+\newblock URL
+  \url{https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Understanding_the_Disharmony_Between_Dropout_and_Batch_Normalization_by_Variance_CVPR_2019_paper.html}.
+
+\bibitem[Li et~al.(2018)Li, Wang, Shi, Hou, and Liu]{li2018adabn}
+Y.~Li, N.~Wang, J.~Shi, X.~Hou, and J.~Liu.
+\newblock {Adaptive Batch Normalization for practical domain adaptation}.
+\newblock \emph{Pattern Recognition}, 80:\penalty0 109--117, 2018.
+\newblock \doi{10.1016/j.patcog.2018.03.005}.
+
+\bibitem[Liu et~al.(2024)Liu, Wan, Ouyang, Shah, Bai, and Arcucci]{liu2024merl}
+C.~Liu, Z.~Wan, C.~Ouyang, A.~Shah, W.~Bai, and R.~Arcucci.
+\newblock {Zero-Shot ECG Classification with Multimodal Learning and Test-time
+  Clinical Knowledge Enhancement}.
+\newblock In \emph{International Conference on Machine Learning}, volume 235,
+  pages 31949--31963. PMLR, 2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/liu24bg.html}.
+
+\bibitem[Liu et~al.(2025)Liu, Ouyang, Wan, Wang, Bai, and
+  Arcucci]{liu2025kmerl}
+C.~Liu, C.~Ouyang, Z.~Wan, H.~Wang, W.~Bai, and R.~Arcucci.
+\newblock {Knowledge-enhanced Multimodal ECG Representation Learning with
+  Arbitrary-Lead Inputs}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2025}, pages 7298--7316. Association for Computational Linguistics,
+  2025.
+\newblock \doi{10.18653/v1/2025.findings-emnlp.385}.
+
+\bibitem[Liu et~al.(2026)Liu, Han, Zhou, and Yao]{liu2026scar}
+H.~Liu, R.~Han, L.~Zhou, and C.~Yao.
+\newblock {Semantic Compensation via Adversarial Removal for Robust Zero-Shot
+  ECG Diagnosis}.
+\newblock arXiv preprint arXiv:2604.01498v1, 2026.
+\newblock URL \url{https://arxiv.org/abs/2604.01498v1}.
+\newblock Version 1.
+
+\bibitem[McKeen et~al.(2025)McKeen, Masood, Toma, Rubin, and
+  Wang]{mckeen2025ecgfm}
+K.~McKeen, S.~Masood, A.~Toma, B.~Rubin, and B.~Wang.
+\newblock {ECG-FM: An Open Electrocardiogram Foundation Model}.
+\newblock arXiv preprint arXiv:2408.05178v2, 2025.
+\newblock URL \url{https://arxiv.org/abs/2408.05178v2}.
+\newblock Preprint, version 2.
+
+\bibitem[{MD6329 course materials}(n.d.{\natexlab{a}})]{md6329lecture02}
+{MD6329 course materials}.
+\newblock {{MD6329 Lecture 2: course-provided slides}}.
+\newblock Nanyang Technological University, course materials,
+  n.d.{\natexlab{a}}.
+\newblock URL \url{https://www.youtube.com/watch?v=Ki2h4rNHuSk}.
+\newblock PDF p.81 (video 42:44), p.89 (46:09), p.161 (1:35:06).
+
+\bibitem[{MD6329 course materials}(n.d.{\natexlab{b}})]{md6329lecture06}
+{MD6329 course materials}.
+\newblock {{MD6329 Lecture 6: course-provided slides}}.
+\newblock Nanyang Technological University, course materials,
+  n.d.{\natexlab{b}}.
+\newblock URL \url{https://www.youtube.com/watch?v=AeDzGhM1GBU}.
+\newblock PDF p.12 (video 10:33), p.16 (13:20).
+
+\bibitem[{MD6329 course materials}(n.d.{\natexlab{c}})]{md6329lecture08}
+{MD6329 course materials}.
+\newblock {{MD6329 Lecture 8: course-provided slides}}.
+\newblock Nanyang Technological University, course materials,
+  n.d.{\natexlab{c}}.
+\newblock URL \url{https://www.youtube.com/watch?v=E5X3YW451Rs}.
+\newblock PDF p.41 (video 18:39), p.49 (22:32), p.73 (29:50).
+
+\bibitem[{MD6329 course materials}(n.d.{\natexlab{d}})]{md6329lecture11}
+{MD6329 course materials}.
+\newblock {{MD6329 Lecture 11: course-provided slides}}.
+\newblock Nanyang Technological University, course materials,
+  n.d.{\natexlab{d}}.
+\newblock URL \url{https://www.youtube.com/watch?v=DDU159QXVzI}.
+\newblock PDF pp.15--16 (video 14:30--15:48), p.40 (28:55).
+
+\bibitem[Mehari and Strodthoff(2022)]{mehari2022selfsupervised}
+T.~Mehari and N.~Strodthoff.
+\newblock {Self-supervised representation learning from 12-lead ECG data}.
+\newblock \emph{Computers in Biology and Medicine}, 141:\penalty0 105114, 2022.
+\newblock \doi{10.1016/j.compbiomed.2021.105114}.
+
+\bibitem[Mishra et~al.(2026)Mishra, Adam, Makwana, Tiwari, Kandasamy, and
+  Hari]{fast2026af}
+H.~Mishra, F.~Adam, N.~Makwana, P.~Tiwari, S.~Kandasamy, and K.~V.~S. Hari.
+\newblock {A Fast and Generalizable Deep Neural Network for the Detection of
+  Atrial Fibrillation}.
+\newblock \emph{Bioengineering}, 13\penalty0 (10):\penalty0 1174, 2026.
+\newblock \doi{10.3390/bioengineering13101174}.
+
+\bibitem[Naeini et~al.(2015)Naeini, Cooper, and Hauskrecht]{naeini2015ece}
+M.~P. Naeini, G.~Cooper, and M.~Hauskrecht.
+\newblock {Obtaining Well Calibrated Probabilities Using Bayesian Binning}.
+\newblock In \emph{Proceedings of the AAAI Conference on Artificial
+  Intelligence}, volume~29, 2015.
+\newblock \doi{10.1609/aaai.v29i1.9602}.
+
+\bibitem[Neverova et~al.(2016)Neverova, Wolf, Taylor, and
+  Nebout]{neverova2016moddrop}
+N.~Neverova, C.~Wolf, G.~W. Taylor, and F.~Nebout.
+\newblock {ModDrop: Adaptive Multi-Modal Gesture Recognition}.
+\newblock \emph{IEEE Transactions on Pattern Analysis and Machine
+  Intelligence}, 38\penalty0 (8):\penalty0 1692--1706, 2016.
+\newblock \doi{10.1109/TPAMI.2015.2461544}.
+
+\bibitem[Oh et~al.(2022)Oh, Chung, Kwon, Hong, and Choi]{oh2022leadagnostic}
+J.~Oh, H.~Chung, J.-m. Kwon, D.-g. Hong, and E.~Choi.
+\newblock {Lead-agnostic Self-supervised Learning for Local and Global
+  Representations of Electrocardiogram}.
+\newblock In \emph{Conference on Health, Inference, and Learning}, volume 174,
+  pages 338--353. PMLR, 2022.
+\newblock URL \url{https://proceedings.mlr.press/v174/oh22a.html}.
+
+\bibitem[Presacan et~al.(2025)Presacan, Doroban{\c{t}}iu, Isaksen, Willi,
+  Graff, Riegler, Sridhar, Kanters, and Thambawita]{presacan2025reconstruction}
+O.~Presacan, A.~Doroban{\c{t}}iu, J.~L. Isaksen, T.~Willi, C.~Graff, M.~A.
+  Riegler, A.~R. Sridhar, J.~K. Kanters, and V.~Thambawita.
+\newblock {Evaluating the feasibility of 12-lead electrocardiogram
+  reconstruction from limited leads using deep learning}.
+\newblock \emph{Communications Medicine}, 5\penalty0 (1), 2025.
+\newblock \doi{10.1038/s43856-025-00814-w}.
+
+\bibitem[Reyna et~al.(2021)Reyna, Sadr, Perez~Alday, Gu, Shah, Robichaux, Rad,
+  Elola, Seyedi, Ansari, Ghanbari, Li, Sharma, and Clifford]{reyna2021willtwo}
+M.~A. Reyna, N.~Sadr, E.~A. Perez~Alday, A.~Gu, A.~J. Shah, C.~Robichaux, A.~B.
+  Rad, A.~Elola, S.~Seyedi, S.~Ansari, H.~Ghanbari, Q.~Li, A.~Sharma, and G.~D.
+  Clifford.
+\newblock {Will Two Do? Varying Dimensions in Electrocardiography: The
+  PhysioNet/Computing in Cardiology Challenge 2021}.
+\newblock In \emph{Computing in Cardiology}, pages 1--4, 2021.
+\newblock \doi{10.23919/CinC53138.2021.9662687}.
+
+\bibitem[Reyna et~al.(2022)Reyna, Sadr, Perez~Alday, Gu, Shah, Robichaux, Rad,
+  Elola, Seyedi, Ansari, Ghanbari, Li, Sharma, and Clifford]{reyna2022issues}
+M.~A. Reyna, N.~Sadr, E.~A. Perez~Alday, A.~Gu, A.~J. Shah, C.~Robichaux, A.~B.
+  Rad, A.~Elola, S.~Seyedi, S.~Ansari, H.~Ghanbari, Q.~Li, A.~Sharma, and G.~D.
+  Clifford.
+\newblock {Issues in the automated classification of multilead ECGs using
+  heterogeneous labels and populations}.
+\newblock \emph{Physiological Measurement}, 2022.
+\newblock \doi{10.1088/1361-6579/ac79fd}.
+
+\bibitem[Ribeiro et~al.(2020)Ribeiro, Ribeiro, Paix{\~a}o, Oliveira, Gomes,
+  Canazart, Ferreira, Andersson, Macfarlane, Meira, Sch{\"o}n, and
+  Ribeiro]{ribeiro2020diagnosis}
+A.~H. Ribeiro, M.~H. Ribeiro, G.~M.~M. Paix{\~a}o, D.~M. Oliveira, P.~R. Gomes,
+  J.~A. Canazart, M.~P.~S. Ferreira, C.~R. Andersson, P.~W. Macfarlane,
+  W.~Meira, T.~B. Sch{\"o}n, and A.~L.~P. Ribeiro.
+\newblock {Automatic diagnosis of the 12-lead ECG using a deep neural network}.
+\newblock \emph{Nature Communications}, 11\penalty0 (1), 2020.
+\newblock \doi{10.1038/s41467-020-15432-4}.
+
+\bibitem[Schneider et~al.(2020)Schneider, Rusak, Eck, Bringmann, Brendel, and
+  Bethge]{schneider2020covariate}
+S.~Schneider, E.~Rusak, L.~Eck, O.~Bringmann, W.~Brendel, and M.~Bethge.
+\newblock {Improving robustness against common corruptions by covariate shift
+  adaptation}.
+\newblock In \emph{Advances in Neural Information Processing Systems},
+  volume~33, pages 11539--11551, 2020.
+\newblock URL \url{https://arxiv.org/abs/2006.16971}.
+
+\bibitem[Strodthoff et~al.(2021)Strodthoff, Wagner, Schaeffter, and
+  Samek]{strodthoff2021benchmark}
+N.~Strodthoff, P.~Wagner, T.~Schaeffter, and W.~Samek.
+\newblock {Deep Learning for ECG Analysis: Benchmarks and Insights from
+  PTB-XL}.
+\newblock \emph{IEEE Journal of Biomedical and Health Informatics}, 25\penalty0
+  (5):\penalty0 1519--1528, 2021.
+\newblock \doi{10.1109/JBHI.2020.3022989}.
+
+\bibitem[Wagner et~al.(2020)Wagner, Strodthoff, Bousseljot, Kreiseler, Lunze,
+  Samek, and Schaeffter]{wagner2020ptbxl}
+P.~Wagner, N.~Strodthoff, R.-D. Bousseljot, D.~Kreiseler, F.~I. Lunze,
+  W.~Samek, and T.~Schaeffter.
+\newblock {PTB-XL, a large publicly available electrocardiography dataset}.
+\newblock \emph{Scientific Data}, 7\penalty0 (1), 2020.
+\newblock \doi{10.1038/s41597-020-0495-6}.
+
+\bibitem[Wagner et~al.(2022)Wagner, Strodthoff, Bousseljot, Samek, and
+  Schaeffter]{wagner2022ptbxl103}
+P.~Wagner, N.~Strodthoff, R.-D. Bousseljot, W.~Samek, and T.~Schaeffter.
+\newblock {PTB-XL, a large publicly available electrocardiography dataset
+  (version 1.0.3)}.
+\newblock \emph{PhysioNet}, 2022.
+\newblock \doi{10.13026/kfzx-aw45}.
+\newblock Version 1.0.3.
+
+\bibitem[Wang et~al.(2021)Wang, Shelhamer, Liu, Olshausen, and
+  Darrell]{wang2021tent}
+D.~Wang, E.~Shelhamer, S.~Liu, B.~Olshausen, and T.~Darrell.
+\newblock {Tent: Fully Test-time Adaptation by Entropy Minimization}.
+\newblock In \emph{International Conference on Learning Representations}, 2021.
+\newblock URL \url{https://arxiv.org/abs/2006.10726}.
+
+\bibitem[Wu and He(2018)]{wu2018groupnorm}
+Y.~Wu and K.~He.
+\newblock {Group Normalization}.
+\newblock In \emph{European Conference on Computer Vision}, pages 3--19, 2018.
+\newblock \doi{10.1007/978-3-030-01261-8_1}.
+
+\bibitem[Yi et~al.(2020)Yi, Lee, Kim, Hwang, and Yang]{yi2020zeroimputation}
+J.~Yi, J.~Lee, K.~J. Kim, S.~J. Hwang, and E.~Yang.
+\newblock {Why Not to Use Zero Imputation? Correcting Sparsity Bias in Training
+  Neural Networks}.
+\newblock In \emph{International Conference on Learning Representations}, 2020.
+\newblock URL \url{https://arxiv.org/abs/1906.00150}.
+
+\bibitem[Zhang et~al.(2025)Zhang, Zhang, Tao, Wang, Geng, Li, Zhao, Liu, Zhou,
+  and Hong]{zhang2025patchecg}
+S.~Zhang, D.~Zhang, Y.~Tao, K.~Wang, S.~Geng, J.~Li, Q.~Zhao, X.~Liu, Y.~Zhou,
+  and S.~Hong.
+\newblock {Masked Training for Robust Arrhythmia Detection from Digitalized
+  Multiple Layout ECG Images}.
+\newblock arXiv preprint arXiv:2508.09165v1, 2025.
+\newblock URL \url{https://arxiv.org/abs/2508.09165v1}.
+
+\bibitem[Zhang et~al.(2026)Zhang, Cai, Duan, and Lu]{zhang2026subsetbenchmark}
+X.~Zhang, H.~Cai, H.~Duan, and X.~Lu.
+\newblock {Systematic benchmark of reduced-lead configurations for 12-lead ECG
+  reconstruction: multi-model evaluation across all possible subsets}.
+\newblock \emph{Frontiers in Cardiovascular Medicine}, 2026.
+\newblock \doi{10.3389/fcvm.2026.1856211}.
+
+\end{thebibliography}

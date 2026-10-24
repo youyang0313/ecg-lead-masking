@@ -1,0 +1,148 @@
+{
+  "completed": "2026-10-23T16:06:51.531556+00:00",
+  "status": "complete",
+  "groups": 8,
+  "selection": "S12 validation macro-AUROC only",
+  "results": [
+    {
+      "variant": "GN_A",
+      "seed": 17,
+      "arm": "A",
+      "s12": {
+        "epoch": 20,
+        "score": 0.9173073375312546,
+        "state_sha256": "dda5797c6babf9a42bdfe77234b498dc385abd7e9761f815e417bb6982bf145c"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "GN_A",
+      "seed": 29,
+      "arm": "A",
+      "s12": {
+        "epoch": 20,
+        "score": 0.9174006605342289,
+        "state_sha256": "c9a2464120657b7c2df288f3d4d11343f38cb4db9338ec5b36fdb02512cc67dd"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "GN_A",
+      "seed": 43,
+      "arm": "A",
+      "s12": {
+        "epoch": 15,
+        "score": 0.9176423802113662,
+        "state_sha256": "4a7364dcb85e153e37fef6dd2203fc9fce99ee42897779c5dad25461fa6bd66e"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "GN_B",
+      "seed": 17,
+      "arm": "B",
+      "s12": {
+        "epoch": 33,
+        "score": 0.9190950586710148,
+        "state_sha256": "5796467ff2ba47e1d194177928fa6a35b095073c9a81a5585be0501734063040"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "GN_B",
+      "seed": 29,
+      "arm": "B",
+      "s12": {
+        "epoch": 33,
+        "score": 0.9196080593125956,
+        "state_sha256": "cc8a298d1b93b8caf8a5f7128fdb64b236ee52b9f5b46a18ada253028f94f22e"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "GN_B",
+      "seed": 43,
+      "arm": "B",
+      "s12": {
+        "epoch": 29,
+        "score": 0.9204352283361352,
+        "state_sha256": "b174001e7adb6be292a74e9f7ed63426c80fe5c1c0c123c1d43746d78bdfbbff"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "HO_B",
+      "seed": 17,
+      "arm": "B",
+      "s12": {
+        "epoch": 21,
+        "score": 0.9334070708564374,
+        "state_sha256": "1ce551b7c65ba9934cf5338abe0a89f29b2353128110a62e066461eecc804f0b"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "HO_B",
+      "seed": 29,
+      "arm": "B",
+      "s12": {
+        "epoch": 15,
+        "score": 0.9322065523632415,
+        "state_sha256": "e52bd929a9686271d5300e108d0ba77b760e53caeab1bf444a01370e80182a60"
+      },
+      "parameters": 359749
+    },
+    {
+      "variant": "HO_B",
+      "seed": 43,
+      "arm": "B",
+      "s12": {
+        "epoch": 15,
+        "score": 0.932891081206051,
+        "state_sha256": "dd795023c7bc9f1020d9d54407d93ccb2c2a5efdcb5e02676fe410ee41a11a0e"
+      },
+      "parameters": 359749
+    }
+  ],
+  "environment": {
+    "recorded_on": "2026-10-23T16:06:51.531556+00:00",
+    "python": "3.9.22 | packaged by conda-forge | (main, Apr 14 2025, 23:26:18) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "D:\\py\\Anaconda3\\envs\\fl_pytorch\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.6.0",
+    "numpy": "2.0.2",
+    "cuda_build": "12.6",
+    "cudnn": 90800,
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_total_bytes": 8585216000,
+    "deterministic_algorithms": true,
+    "cudnn_benchmark": false,
+    "tf32": false,
+    "training_precision": "float16 CUDA autocast + dynamic GradScaler; float32 parameters",
+    "evaluation_precision": "float32, autocast disabled",
+    "batch_size": 64,
+    "input_and_protocol_sha256": {
+      "protocol_v1.json": "ef961ae2972f81c918a2404bed64eff8e8da15156538dd11d358c943ff422911",
+      "lead_configurations.json": "cdb93506b1e9b152ee843394da93fd191b81db791205ef8c0ca8034fa945fca8",
+      "prepared_READY.json": "6126ef731c0a88fcb083227d2e3ac510e76af55e0892f63cc54b9fe453071215"
+    },
+    "source_sha256": {
+      "analyze_test.py": "91c53b1bee95eed59fed1bbbb86f04ad8a6c7468ad212b0658d78181ead1f3bc",
+      "checks.py": "2b75671f668c08125d04efa3acf4ea2e2846efad03ee990e9af75db725e6a3a9",
+      "evaluate_test.py": "c1858ecf34991e039564fbcc9ae7826399e4588dd64fc1e9eaa0a29a1796361f",
+      "experiment.py": "10d05a8bf0be5e56c84040d53c53e6dff150e9689b38454c56af69a10610822c",
+      "metrics.py": "0cd4d48f6fe1afc56e7f33396b35f3495624d4fcbffa555e089f1f8b3d724ce2",
+      "model.py": "9322ffbcf2ed2c425d0c6d57656b3b632434fae590706a581a769093881ec599",
+      "plot_test_results.py": "1b50f3bc93caccdc346fe77cabc1767d3508a3f3a6d17bc9ad324582a5c25d86",
+      "recover_main.py": "7ff5e077ada893f4f2b3d3d69a4cb809fccb5d539923dd72e0f75763f8290650",
+      "runtime.py": "82af9482f5244322bb76c682a2670c146911a0c914cd70776fe6879fed990b71",
+      "test_statistics.py": "ca97a8f555b2279935fb54a401886ba321767a9c8cf70c06753fd5613e57a370",
+      "verify_engineering.py": "d028038a978fa5e7686d56a20f786b71fb490b78163831075ea1086d1a0c40eb",
+      "verify_main.py": "42c3a8713b85c4d652068efdcb114948393e9312d51a1f7abae882a6fbcca7d3",
+      "verify_metrics_reference.py": "8144685bc2fb95d8b180cc7f0999f52ff75f790605f3e0b3cffd46a602e22ace",
+      "verify_test.py": "10abd62639772adad1bbff64bb66f12dab440fdd50ac3efa76773a2a2e0bcd6b"
+    },
+    "test_waveforms_used": false,
+    "test_annotations_parsed": false
+  }
+}

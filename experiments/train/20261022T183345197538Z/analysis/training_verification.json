@@ -1,0 +1,40 @@
+{
+  "checked_on": "2026-10-22T18:55:28.913528+00:00",
+  "status": "passed",
+  "runs": 6,
+  "epochs_per_run": 40,
+  "completed_epochs": 240,
+  "training_records": 17084,
+  "validation_records": 2146,
+  "finite_gradient_optimizer_steps": 64065,
+  "overflow_skipped_steps": 15,
+  "source_and_input_hashes_verified": true,
+  "checkpoint_and_optimizer_states_verified": true,
+  "fresh_initialization_and_paired_epoch_order_verified": true,
+  "all_saved_validation_metrics_recomputed": true,
+  "mask_complete_fraction_B": 0.5001156052446734,
+  "recovery_source_verified": true,
+  "discarded_attempt_optimizer_steps": 10678,
+  "discarded_attempt_overflow_skips": 2,
+  "verification_source_sha256": "42c3a8713b85c4d652068efdcb114948393e9312d51a1f7abae882a6fbcca7d3",
+  "retained_count_histograms": {
+    "A": {
+      "12": 2050080
+    },
+    "B": {
+      "1": 93281,
+      "2": 93180,
+      "3": 93629,
+      "4": 93208,
+      "5": 93504,
+      "6": 92647,
+      "7": 93189,
+      "8": 93001,
+      "9": 93199,
+      "10": 93164,
+      "11": 92801,
+      "12": 1025277
+    }
+  },
+  "test_data_used": false
+}

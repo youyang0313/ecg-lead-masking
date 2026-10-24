@@ -1,0 +1,192 @@
+{
+  "completed_on": "2026-10-22T18:09:19.122075+00:00",
+  "status": "preprocessing_complete_no_models",
+  "dataset": "PTB-XL 1.0.3",
+  "input_sha256": {
+    "data_review\\metadata\\ptbxl_database.csv": "7600de9c1b27d181d850b3c6038a35d7c3ddb6bb33b702e3a20252a6859d216b",
+    "data_review\\metadata\\scp_statements.csv": "ad05b0b1fcae83bb1230755ad9cfc7c96f303feddc08a4a9ad5bdc9ca63bac8f",
+    "report\\protocol_v1.json": "ef961ae2972f81c918a2404bed64eff8e8da15156538dd11d358c943ff422911",
+    "report\\lead_configurations.json": "cdb93506b1e9b152ee843394da93fd191b81db791205ef8c0ca8034fa945fca8"
+  },
+  "raw_files_hash_verified": 38460,
+  "metadata_exclusions": {
+    "train": 334,
+    "validation": 37
+  },
+  "waveform_exclusions": 0,
+  "splits": {
+    "train": {
+      "records": 17084,
+      "patients": 14823,
+      "label_positive_counts": {
+        "NORM": 7596,
+        "MI": 4379,
+        "STTC": 4186,
+        "CD": 3907,
+        "HYP": 2119
+      },
+      "mean": [
+        -4.769161769357044e-10,
+        -2.2743132824897842e-10,
+        -3.9310834983669427e-10,
+        -6.818977274754405e-11,
+        1.4754280113952624e-11,
+        1.272709498233982e-10,
+        1.368638431477155e-10,
+        -1.873147270452323e-10,
+        1.4974449716644745e-10,
+        -3.6806691153608933e-10,
+        -4.2110575649622726e-11,
+        4.508215076535742e-12
+      ],
+      "population_std": [
+        0.9999999999754597,
+        0.9999999996844973,
+        1.0000000000518874,
+        1.0000000000026665,
+        1.000000000077609,
+        0.9999999999243354,
+        1.000000000146204,
+        0.9999999996147702,
+        1.0000000001143339,
+        0.9999999999822193,
+        1.0000000001031082,
+        1.0000000080116114
+      ],
+      "max_absolute_standardized_value": 76.06233215332031
+    },
+    "validation": {
+      "records": 2146,
+      "patients": 1917,
+      "label_positive_counts": {
+        "NORM": 955,
+        "MI": 540,
+        "STTC": 528,
+        "CD": 495,
+        "HYP": 268
+      },
+      "mean": [
+        0.0035896984522189395,
+        0.005463548482932103,
+        0.0018478722992597914,
+        -0.00520424073595844,
+        0.0009447501403770421,
+        0.00419408793318761,
+        0.00026755629058077516,
+        0.0007428470219332671,
+        0.0015426242400382495,
+        -0.014300551575480007,
+        0.0008057775764630565,
+        0.006329890090119946
+      ],
+      "population_std": [
+        0.9415004371242859,
+        1.0217179399242575,
+        0.9724927517017738,
+        0.9855073114013215,
+        0.9349206850313355,
+        1.0152207111808893,
+        0.95091421161794,
+        0.9940194514385847,
+        0.9923269457341003,
+        1.2448027956699097,
+        0.9924595658035146,
+        0.8932710608986631
+      ],
+      "max_absolute_standardized_value": 36.92273712158203
+    }
+  },
+  "constant_lead_record_counts": {
+    "train": {
+      "V5": 1
+    },
+    "validation": {}
+  },
+  "constant_lead_policy": "recorded, not excluded solely for this flag",
+  "native_lead_orders": {
+    "I / II / III / AVR / AVL / AVF / V1 / V2 / V3 / V4 / V5 / V6": 19230
+  },
+  "mask_invariant_checks": 96150,
+  "no_extra_filtering": true,
+  "normalization_fitted_on": "train_only",
+  "test_waveforms_read": false,
+  "test_diagnostic_codes_parsed": false,
+  "models_built": false,
+  "models_trained": false,
+  "environment": {
+    "python": "3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]",
+    "executable": "D:\\py\\Anaconda3\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "packages": {
+      "numpy": "1.26.4",
+      "wfdb": "4.1.2",
+      "scipy": "1.13.1",
+      "pandas": "1.3.4",
+      "requests": "2.26.0",
+      "soundfile": "0.12.1",
+      "matplotlib": "3.4.3"
+    },
+    "wfdb_location": "D:\\AAAurora\\NTUDL\\ECGProject\\.runtime\\data-site-packages\\wfdb\\__init__.py",
+    "wfdb_source": "https://pypi.org/project/wfdb/4.1.2/",
+    "model_libraries_imported": false
+  },
+  "pipeline_source_sha256": {
+    "data_common.py": "3b9d7ca393993ba769248908476be8045addb3b4550f30256347074892f8d473",
+    "prepare_development.py": "4e489031880a1b121109115854a1beb70d2987145cc0f44c1dee472d9c601798",
+    "preprocess_development.py": "40c7cdece5284c5f43790caebfdc51d6ee285e3ea443a90d172963c367e6cd2f",
+    "test_preprocessing.py": "c846a602b1e2ad0c100f6720fc176b1f5400cf4e3bad4bb958a0af0e664209e0"
+  },
+  "outputs": [
+    {
+      "file": "train.signals.npy",
+      "bytes": 820032128,
+      "sha256": "4d976e48a1123d667bb5ebe8f80ad0ea7cee64ae9bed501b9ab5e481844746b1"
+    },
+    {
+      "file": "train.labels.npy",
+      "bytes": 85548,
+      "sha256": "a9ee48da2f16423cd68946bb5bf183961bb1075defca2dc0ec861a82934ba939"
+    },
+    {
+      "file": "train.records.json",
+      "bytes": 3270072,
+      "sha256": "8162339b56fb114350e19da0ab501cf568fd7612fca86b8054f72e32f4ce7add"
+    },
+    {
+      "file": "validation.signals.npy",
+      "bytes": 103008128,
+      "sha256": "a57afe84240dbb5469d692ef72bfe4f44d0427f7080f51975ebdb5f768022010"
+    },
+    {
+      "file": "validation.labels.npy",
+      "bytes": 10858,
+      "sha256": "bb815194cdc9a0dd868e1bd96ebfa8c18b72c7c14aec510b8a43ce52229c695a"
+    },
+    {
+      "file": "validation.records.json",
+      "bytes": 421372,
+      "sha256": "fcccd4ee8cef95e0ff74d78f5696357efb3a5ff7e6555703b18bc6fe8738fd91"
+    },
+    {
+      "file": "scaler.json",
+      "bytes": 2054,
+      "sha256": "e1a86e2a598244c8a497643e2137ff0d0a5296e648fe40de5ba50aac3430202c"
+    },
+    {
+      "file": "scaler_training_ecg_ids.json",
+      "bytes": 162386,
+      "sha256": "795d15ac055385f9541197c0a5626cb93dc2dd9af99f64054aae27e5a1e25269"
+    },
+    {
+      "file": "waveform_exclusions.json",
+      "bytes": 2,
+      "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "file": "record_checks.json",
+      "bytes": 1577939,
+      "sha256": "85300b0bcc12f46eaa763239240ba11271fbd0246c8bacf6b5bff932c33448fa"
+    }
+  ],
+  "elapsed_seconds": 81.5
+}

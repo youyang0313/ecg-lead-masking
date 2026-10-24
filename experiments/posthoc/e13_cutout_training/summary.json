@@ -1,0 +1,78 @@
+{
+  "completed": "2026-10-24T02:15:24.286326+00:00",
+  "status": "complete",
+  "selection": "S12 validation macro-AUROC only",
+  "results": [
+    {
+      "variant": "TC",
+      "seed": 17,
+      "initial_state_sha256": "714b9110a1acb2b77bdcd6c4c98a8c41c083c7ba9f8c2f6546d93f93e88f2caa",
+      "s12": {
+        "epoch": 17,
+        "score": 0.9322755961776578,
+        "state_sha256": "56f16f8fa7b534bf3248f8a9712a7be7738511db5fd3fc634b4e96a2dce9111b"
+      }
+    },
+    {
+      "variant": "TC",
+      "seed": 29,
+      "initial_state_sha256": "d3faecbb6487a238040fe500fe2eb5257cbed5c80809cd36ec7eb56d95e8c979",
+      "s12": {
+        "epoch": 11,
+        "score": 0.9307164030834253,
+        "state_sha256": "edff97f6f1bcc2f0d9fcdecdf88b18dc697a0263ce4b4eed4f648a8c1fc84f27"
+      }
+    },
+    {
+      "variant": "TC",
+      "seed": 43,
+      "initial_state_sha256": "db13941fca36ab95672ab2dd2ea1bf794ce300d06a9aacc67e03ce29d0c8344d",
+      "s12": {
+        "epoch": 10,
+        "score": 0.9329134261015971,
+        "state_sha256": "9ecc12113ac4c2fdaded6d49bf7fad51e74096c47413345b01099276a2cc20c4"
+      }
+    }
+  ],
+  "environment": {
+    "recorded_on": "2026-10-24T02:15:24.286326+00:00",
+    "python": "3.9.22 | packaged by conda-forge | (main, Apr 14 2025, 23:26:18) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "D:\\py\\Anaconda3\\envs\\fl_pytorch\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.6.0",
+    "numpy": "2.0.2",
+    "cuda_build": "12.6",
+    "cudnn": 90800,
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_total_bytes": 8585216000,
+    "deterministic_algorithms": true,
+    "cudnn_benchmark": false,
+    "tf32": false,
+    "training_precision": "float16 CUDA autocast + dynamic GradScaler; float32 parameters",
+    "evaluation_precision": "float32, autocast disabled",
+    "batch_size": 64,
+    "input_and_protocol_sha256": {
+      "protocol_v1.json": "ef961ae2972f81c918a2404bed64eff8e8da15156538dd11d358c943ff422911",
+      "lead_configurations.json": "cdb93506b1e9b152ee843394da93fd191b81db791205ef8c0ca8034fa945fca8",
+      "prepared_READY.json": "6126ef731c0a88fcb083227d2e3ac510e76af55e0892f63cc54b9fe453071215"
+    },
+    "source_sha256": {
+      "analyze_test.py": "91c53b1bee95eed59fed1bbbb86f04ad8a6c7468ad212b0658d78181ead1f3bc",
+      "checks.py": "2b75671f668c08125d04efa3acf4ea2e2846efad03ee990e9af75db725e6a3a9",
+      "evaluate_test.py": "c1858ecf34991e039564fbcc9ae7826399e4588dd64fc1e9eaa0a29a1796361f",
+      "experiment.py": "10d05a8bf0be5e56c84040d53c53e6dff150e9689b38454c56af69a10610822c",
+      "metrics.py": "0cd4d48f6fe1afc56e7f33396b35f3495624d4fcbffa555e089f1f8b3d724ce2",
+      "model.py": "9322ffbcf2ed2c425d0c6d57656b3b632434fae590706a581a769093881ec599",
+      "plot_test_results.py": "1b50f3bc93caccdc346fe77cabc1767d3508a3f3a6d17bc9ad324582a5c25d86",
+      "recover_main.py": "7ff5e077ada893f4f2b3d3d69a4cb809fccb5d539923dd72e0f75763f8290650",
+      "runtime.py": "82af9482f5244322bb76c682a2670c146911a0c914cd70776fe6879fed990b71",
+      "test_statistics.py": "ca97a8f555b2279935fb54a401886ba321767a9c8cf70c06753fd5613e57a370",
+      "verify_engineering.py": "d028038a978fa5e7686d56a20f786b71fb490b78163831075ea1086d1a0c40eb",
+      "verify_main.py": "42c3a8713b85c4d652068efdcb114948393e9312d51a1f7abae882a6fbcca7d3",
+      "verify_metrics_reference.py": "8144685bc2fb95d8b180cc7f0999f52ff75f790605f3e0b3cffd46a602e22ace",
+      "verify_test.py": "10abd62639772adad1bbff64bb66f12dab440fdd50ac3efa76773a2a2e0bcd6b"
+    },
+    "test_waveforms_used": false,
+    "test_annotations_parsed": false
+  }
+}

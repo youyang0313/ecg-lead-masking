@@ -1,0 +1,11 @@
+{
+  "checked_on": "2026-10-22T18:09:26.714941+00:00",
+  "prepared_hashes_verified": 10,
+  "source_recomputed_records": 40,
+  "patient_overlap": 0,
+  "full_label_alignment_checked_records": 19230,
+  "eligible_excluded_partition_checked": true,
+  "pipeline_source_hashes_verified": 4,
+  "training_ids_match_scaler": true,
+  "no_model_training": true
+}

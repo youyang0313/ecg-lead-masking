@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "current_and_archived_source_matches_run": true,
+  "trainable_weights_updated_and_checkpoint_predictions_exact": true,
+  "paired_initialization_and_recording_order_identical": true,
+  "repeat_run_predictions_exact": true,
+  "finite_gradient_optimizer_steps": 64,
+  "overflow_skipped_steps": 0,
+  "peak_allocated_MiB": 157.6484375,
+  "train_epoch_seconds_range": [
+    0.17332590000000003,
+    0.7244818000000004
+  ],
+  "formal_experiments_completed": 0,
+  "test_data_used": false,
+  "run_directory": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\smoke\\20261022T182413887103Z"
+}

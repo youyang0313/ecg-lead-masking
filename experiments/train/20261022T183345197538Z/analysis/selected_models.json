@@ -1,0 +1,77 @@
+{
+  "fixed_on": "2026-10-22T18:55:28.917537+00:00",
+  "scope": "Validation-selected models fixed before test diagnostic annotations or waveforms are used; local record, not external preregistration",
+  "protocol_sha256": "ef961ae2972f81c918a2404bed64eff8e8da15156538dd11d358c943ff422911",
+  "configuration_sha256": "cdb93506b1e9b152ee843394da93fd191b81db791205ef8c0ca8034fa945fca8",
+  "architecture_source_sha256": "9322ffbcf2ed2c425d0c6d57656b3b632434fae590706a581a769093881ec599",
+  "scaler_path": "D:\\AAAurora\\NTUDL\\ECGProject\\data\\ptbxl_1_0_3\\prepared\\scaler.json",
+  "scaler_sha256": "e1a86e2a598244c8a497643e2137ff0d0a5296e648fe40de5ba50aac3430202c",
+  "classes": [
+    "NORM",
+    "MI",
+    "STTC",
+    "CD",
+    "HYP"
+  ],
+  "expected_test_fold": 10,
+  "test_eligibility_not_yet_computed": true,
+  "input_configurations": [
+    "S12",
+    "S6",
+    "S4",
+    "S3",
+    "S2"
+  ],
+  "configuration_specific_finetuning": false,
+  "seed_prediction_ensemble": false,
+  "checkpoints": [
+    {
+      "seed": 17,
+      "arm": "A",
+      "selected_epoch": 3,
+      "checkpoint_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_17_A\\best.pt",
+      "checkpoint_sha256": "5bcda4b6c3ddd689d0d43bfb3a348c1f42758cf7670ae8480d38ca60fd8947bd",
+      "selected_state_sha256": "732901b05137c10e83cd74907419db9f3f80e30d81881407fe9f0e64db752e5e"
+    },
+    {
+      "seed": 17,
+      "arm": "B",
+      "selected_epoch": 25,
+      "checkpoint_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_17_B\\best.pt",
+      "checkpoint_sha256": "31c7317db37aad2214ea5fdee7ed6380f2206b5230eed74e161acb82a406316a",
+      "selected_state_sha256": "83bac81f922ad39ae60f8f1d98f6978ad64f86f2293c33651659d6e8f1eb16b9"
+    },
+    {
+      "seed": 29,
+      "arm": "A",
+      "selected_epoch": 7,
+      "checkpoint_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_29_A\\best.pt",
+      "checkpoint_sha256": "09fe7625617db90640307535c05003d36d4ffb1d879109034725241e8f38850f",
+      "selected_state_sha256": "c147e960b95693916ab0fdb9c9b85d20fd55af5204c72320f1d683750854ceac"
+    },
+    {
+      "seed": 29,
+      "arm": "B",
+      "selected_epoch": 23,
+      "checkpoint_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_29_B\\best.pt",
+      "checkpoint_sha256": "68d2f029d61e97f086417b1cd5ddb5ab11d3db2df7448f225978b84ffc69ca8b",
+      "selected_state_sha256": "64f34fbd867b72ad3015a2cb70f5a7cf90334f00ee1d4c5f9017fadfdf4674cd"
+    },
+    {
+      "seed": 43,
+      "arm": "A",
+      "selected_epoch": 5,
+      "checkpoint_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_43_A_retry\\best.pt",
+      "checkpoint_sha256": "936317ae97832aaa2f01c5a07bcfb09b525ddec268d0d8fda20cf6cebd565eb4",
+      "selected_state_sha256": "9ec0ef64d1e562d28ca16666b73d49df449f66d71e7180cf04deb31b955ab3e9"
+    },
+    {
+      "seed": 43,
+      "arm": "B",
+      "selected_epoch": 23,
+      "checkpoint_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\train\\20261022T183345197538Z\\seed_43_B\\best.pt",
+      "checkpoint_sha256": "339c8f63f65292a8c08aac27aadb347d44c8fd05853fd44cd71c4c9eff92279a",
+      "selected_state_sha256": "0956eed7abc82c959b93a061191b33c453495521744d9c42086a26fbf7b261f3"
+    }
+  ]
+}

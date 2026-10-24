@@ -1,0 +1,19 @@
+{
+  "summary_path": "D:\\AAAurora\\NTUDL\\ECGProject\\experiments\\test\\20261022T202402963049Z\\analysis\\test_summary.json",
+  "summary_sha256": "33b0687b57a08442f0055461bb3aef5daea6bc60e2b21f24ac6c9162453bb706",
+  "generator_sha256": "1b50f3bc93caccdc346fe77cabc1767d3508a3f3a6d17bc9ad324582a5c25d86",
+  "files": [
+    {
+      "file": "independent_test_results.png",
+      "sha256": "2479284e1bd7a0eda6b83bd1350aed8bbce2a07aaac0d380749776206bf1b356"
+    },
+    {
+      "file": "independent_test_results.pdf",
+      "sha256": "a79df4d63655d6fc28ae2cc66378bba337f6531064f41fca0b1886874b4edc92"
+    },
+    {
+      "file": "independent_test_results.svg",
+      "sha256": "ca1c167a6a92e2717ebb368d214a403d13e84cdafe0785fd01bbfcaa5f5182da"
+    }
+  ]
+}

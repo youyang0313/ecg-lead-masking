@@ -1,0 +1,32 @@
+\documentclass{article}
+\PassOptionsToPackage{numbers,sort&compress}{natbib}
+\usepackage[preprint]{neurips_2026}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath,amsfonts,booktabs,graphicx,array}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\usepackage{microtype}
+\usepackage{placeins}
+\usepackage{pdfpages}
+\usepackage[hidelinks]{hyperref}
+\usepackage{url}
+\urlstyle{same}
+\hypersetup{pdftitle={Maintaining ECG Classification under Missing Leads with Supervised Lead Masking},pdfauthor={Wang Youyang},pdfsubject={MD6329 course project report}}
+\emergencystretch=2em
+\title{Maintaining ECG Classification under Missing Leads\\with Supervised Lead Masking}
+\author{Wang Youyang\\Student ID: G2606821F\\Nanyang Technological University\\MD6329: Deep Learning for Healthcare}
+\begin{document}
+\includepdf[pages=1,pagecommand={\thispagestyle{empty}}]{cover_page.pdf}
+\setcounter{page}{1}
+\maketitle
+\begin{abstract}
+A remote ECG interpretation service may receive 12-lead, 6-lead and 2-lead recordings, and a classifier trained only on complete leads degrades when it receives a subset. We evaluate supervised random whole-lead masking, an existing intervention, under matched conditions. On PTB-XL version 1.0.3, model A is trained on complete inputs and model B on a 50/50 mixture of complete and randomly masked inputs, with the same network, patient-separated splits, training budget and checkpoint rule, and three paired seeds are evaluated on five diagnostic superclasses. On 2,158 held-out recordings from 1,877 patients, mean macro-AUROC over four reduced-lead configurations rises from 0.6908 to 0.8882, a prespecified paired gain of +0.1974 (95\% patient-bootstrap interval [0.1882, 0.2067]); under complete-input-only selection the arms differ by +0.001 [$-$0.001, 0.003] on complete input. Exploratory analyses compare this gain with stronger baselines. A two-step test-time repair of zero-filled A (deriving missing limb leads from the available ones, then re-estimating BatchNorm statistics) recovers most of the gap: B leads by +0.017 to +0.030 on the four configurations with similar calibration, and models trained for each configuration exceed B by about 0.02. Across 207 lead subsets, the repair matches B when at least two limb leads remain (+0.002), and B leads by +0.071 with fewer than two limb leads and by +0.110 with a single lead. A time-cutout control removing the same amount of information gains nothing. Masked training transfers to a limb-only lead family withheld from training, provided unavailable leads are detected and zeroed. Its value is one fixed model for any lead combination, clearly ahead of test-time repair when fewer than two limb leads remain; for a fixed, known configuration, a dedicated model performs best.
+\end{abstract}
+\input{body}
+\begingroup
+\interlinepenalty=10000
+\bibliographystyle{abbrvnat}
+\bibliography{references}
+\endgroup
+\input{appendix}
+\end{document}

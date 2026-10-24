@@ -1,0 +1,168 @@
+{
+  "completed": "2026-10-24T04:27:39.615271+00:00",
+  "status": "complete",
+  "selection": "validation macro-AUROC of the model's own configuration",
+  "results": [
+    {
+      "target": "S6",
+      "seed": 17,
+      "initial_state_sha256": "714b9110a1acb2b77bdcd6c4c98a8c41c083c7ba9f8c2f6546d93f93e88f2caa",
+      "selected": {
+        "epoch": 13,
+        "score": 0.9030827672348825,
+        "state_sha256": "e097476c50f598179720a69493d9a87eb4a71c49f15f22e5802ef758e11d350b"
+      }
+    },
+    {
+      "target": "S6",
+      "seed": 29,
+      "initial_state_sha256": "d3faecbb6487a238040fe500fe2eb5257cbed5c80809cd36ec7eb56d95e8c979",
+      "selected": {
+        "epoch": 10,
+        "score": 0.9044742141868243,
+        "state_sha256": "725ce6a7d3effbabafbef32c3c3af5e87d205ba228a8ac7f55e3257ead372927"
+      }
+    },
+    {
+      "target": "S6",
+      "seed": 43,
+      "initial_state_sha256": "db13941fca36ab95672ab2dd2ea1bf794ce300d06a9aacc67e03ce29d0c8344d",
+      "selected": {
+        "epoch": 10,
+        "score": 0.9047666786463784,
+        "state_sha256": "14063babf3c8062f936d2f60b624e99ae82a823ec368e9de0487b35b7ee9a43b"
+      }
+    },
+    {
+      "target": "S4",
+      "seed": 17,
+      "initial_state_sha256": "714b9110a1acb2b77bdcd6c4c98a8c41c083c7ba9f8c2f6546d93f93e88f2caa",
+      "selected": {
+        "epoch": 9,
+        "score": 0.9164893819911801,
+        "state_sha256": "bc8027d5ab45000568615890cd6317f5fc45472c245679a260626e04540e1b7b"
+      }
+    },
+    {
+      "target": "S4",
+      "seed": 29,
+      "initial_state_sha256": "d3faecbb6487a238040fe500fe2eb5257cbed5c80809cd36ec7eb56d95e8c979",
+      "selected": {
+        "epoch": 13,
+        "score": 0.917294994812989,
+        "state_sha256": "b345a71a096242b8b5ec73f3a64fedbb0bfb885467fc8726d4af266dc7b3ab3e"
+      }
+    },
+    {
+      "target": "S4",
+      "seed": 43,
+      "initial_state_sha256": "db13941fca36ab95672ab2dd2ea1bf794ce300d06a9aacc67e03ce29d0c8344d",
+      "selected": {
+        "epoch": 10,
+        "score": 0.9168695521843345,
+        "state_sha256": "28b5bfbd3b30d829db705db996a48afd75e23945165dcaddcb5c3125c0fc5fdd"
+      }
+    },
+    {
+      "target": "S3",
+      "seed": 17,
+      "initial_state_sha256": "714b9110a1acb2b77bdcd6c4c98a8c41c083c7ba9f8c2f6546d93f93e88f2caa",
+      "selected": {
+        "epoch": 12,
+        "score": 0.9156902546287846,
+        "state_sha256": "a290608db4ec0feee2b63b22cc7c33dc222b7d7b5844579b4554c916e65baca2"
+      }
+    },
+    {
+      "target": "S3",
+      "seed": 29,
+      "initial_state_sha256": "d3faecbb6487a238040fe500fe2eb5257cbed5c80809cd36ec7eb56d95e8c979",
+      "selected": {
+        "epoch": 12,
+        "score": 0.9151490311640226,
+        "state_sha256": "95a13a93d69a4e099014541a07e582455bc7341066616267de4015bfb3cbcab2"
+      }
+    },
+    {
+      "target": "S3",
+      "seed": 43,
+      "initial_state_sha256": "db13941fca36ab95672ab2dd2ea1bf794ce300d06a9aacc67e03ce29d0c8344d",
+      "selected": {
+        "epoch": 10,
+        "score": 0.9167192372415569,
+        "state_sha256": "ed2ee3a775b83b2ba7120c622f82f6fe5c9b09079e43961f709281b51d547c84"
+      }
+    },
+    {
+      "target": "S2",
+      "seed": 17,
+      "initial_state_sha256": "714b9110a1acb2b77bdcd6c4c98a8c41c083c7ba9f8c2f6546d93f93e88f2caa",
+      "selected": {
+        "epoch": 16,
+        "score": 0.9028729952373945,
+        "state_sha256": "67675db0d7636240ac8d0d5fd3f829ec2bcafd98101dafbcc03194248f7649e9"
+      }
+    },
+    {
+      "target": "S2",
+      "seed": 29,
+      "initial_state_sha256": "d3faecbb6487a238040fe500fe2eb5257cbed5c80809cd36ec7eb56d95e8c979",
+      "selected": {
+        "epoch": 13,
+        "score": 0.9022222662772246,
+        "state_sha256": "63d6d7ef8449fc1c96337179299c871f1c1e3bb81765055ab32f3cec590424a2"
+      }
+    },
+    {
+      "target": "S2",
+      "seed": 43,
+      "initial_state_sha256": "db13941fca36ab95672ab2dd2ea1bf794ce300d06a9aacc67e03ce29d0c8344d",
+      "selected": {
+        "epoch": 10,
+        "score": 0.9034894763027953,
+        "state_sha256": "86a16dfd19cec4afdaf8bd1363badb30e981403cacbe5debd10728f2806a1840"
+      }
+    }
+  ],
+  "environment": {
+    "recorded_on": "2026-10-24T04:27:39.615271+00:00",
+    "python": "3.9.22 | packaged by conda-forge | (main, Apr 14 2025, 23:26:18) [MSC v.1929 64 bit (AMD64)]",
+    "executable": "D:\\py\\Anaconda3\\envs\\fl_pytorch\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "torch": "2.6.0",
+    "numpy": "2.0.2",
+    "cuda_build": "12.6",
+    "cudnn": 90800,
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_total_bytes": 8585216000,
+    "deterministic_algorithms": true,
+    "cudnn_benchmark": false,
+    "tf32": false,
+    "training_precision": "float16 CUDA autocast + dynamic GradScaler; float32 parameters",
+    "evaluation_precision": "float32, autocast disabled",
+    "batch_size": 64,
+    "input_and_protocol_sha256": {
+      "protocol_v1.json": "ef961ae2972f81c918a2404bed64eff8e8da15156538dd11d358c943ff422911",
+      "lead_configurations.json": "cdb93506b1e9b152ee843394da93fd191b81db791205ef8c0ca8034fa945fca8",
+      "prepared_READY.json": "6126ef731c0a88fcb083227d2e3ac510e76af55e0892f63cc54b9fe453071215"
+    },
+    "source_sha256": {
+      "analyze_test.py": "91c53b1bee95eed59fed1bbbb86f04ad8a6c7468ad212b0658d78181ead1f3bc",
+      "checks.py": "2b75671f668c08125d04efa3acf4ea2e2846efad03ee990e9af75db725e6a3a9",
+      "evaluate_test.py": "c1858ecf34991e039564fbcc9ae7826399e4588dd64fc1e9eaa0a29a1796361f",
+      "experiment.py": "10d05a8bf0be5e56c84040d53c53e6dff150e9689b38454c56af69a10610822c",
+      "metrics.py": "0cd4d48f6fe1afc56e7f33396b35f3495624d4fcbffa555e089f1f8b3d724ce2",
+      "model.py": "9322ffbcf2ed2c425d0c6d57656b3b632434fae590706a581a769093881ec599",
+      "plot_test_results.py": "1b50f3bc93caccdc346fe77cabc1767d3508a3f3a6d17bc9ad324582a5c25d86",
+      "recover_main.py": "7ff5e077ada893f4f2b3d3d69a4cb809fccb5d539923dd72e0f75763f8290650",
+      "runtime.py": "82af9482f5244322bb76c682a2670c146911a0c914cd70776fe6879fed990b71",
+      "test_statistics.py": "ca97a8f555b2279935fb54a401886ba321767a9c8cf70c06753fd5613e57a370",
+      "verify_engineering.py": "d028038a978fa5e7686d56a20f786b71fb490b78163831075ea1086d1a0c40eb",
+      "verify_main.py": "42c3a8713b85c4d652068efdcb114948393e9312d51a1f7abae882a6fbcca7d3",
+      "verify_metrics_reference.py": "8144685bc2fb95d8b180cc7f0999f52ff75f790605f3e0b3cffd46a602e22ace",
+      "verify_test.py": "10abd62639772adad1bbff64bb66f12dab440fdd50ac3efa76773a2a2e0bcd6b"
+    },
+    "test_waveforms_used": false,
+    "test_annotations_parsed": false
+  }
+}

@@ -1,0 +1,2029 @@
+{
+  "completed_on": "2026-10-22T17:55:24.336597+00:00",
+  "records_checked": 100,
+  "exact_matches": 100,
+  "values_compared": 1200000,
+  "comparison": "physical mV, canonical lead order, float32 inputs",
+  "environment": {
+    "python": "3.9.7 (default, Sep 16 2021, 16:59:28) [MSC v.1916 64 bit (AMD64)]",
+    "executable": "D:\\py\\Anaconda3\\python.exe",
+    "platform": "Windows-10-10.0.26200-SP0",
+    "packages": {
+      "numpy": "1.26.4",
+      "wfdb": "4.1.2",
+      "scipy": "1.13.1",
+      "pandas": "1.3.4",
+      "requests": "2.26.0",
+      "soundfile": "0.12.1",
+      "matplotlib": "3.4.3"
+    },
+    "wfdb_location": "D:\\AAAurora\\NTUDL\\ECGProject\\.runtime\\data-site-packages\\wfdb\\__init__.py",
+    "wfdb_source": "https://pypi.org/project/wfdb/4.1.2/",
+    "model_libraries_imported": false
+  },
+  "checks": [
+    {
+      "ecg_id": 12065,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 12773,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15612,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 2829,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15435,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 13286,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 6391,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 8580,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 6258,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 3351,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 642,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15280,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 11549,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 8396,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15446,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 13961,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 2529,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 366,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 20261,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 18579,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 8693,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 18828,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 21712,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 7673,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 5748,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 5259,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 5179,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 8465,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 16018,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 1696,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 16751,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 10937,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 7799,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 8611,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 12983,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 16486,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 20350,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 2236,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 16345,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 4046,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15790,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 20485,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 17900,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 3139,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 3087,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 16258,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 852,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15781,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 12343,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 10109,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 20205,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 12611,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 16756,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 11251,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15068,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 10683,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 21731,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 21529,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 17831,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 20790,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 2668,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 18842,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 18414,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 21038,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 551,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 4605,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 14521,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 1211,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 1032,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 12887,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 7981,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15676,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 3175,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15999,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 13885,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 4111,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 20556,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 2479,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 19830,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 14120,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 1581,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 13430,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 9972,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 14895,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 2006,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 804,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15445,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 4340,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 1076,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 7115,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 7934,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 12497,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 3354,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 16305,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 4939,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 4193,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 21599,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 11365,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 7028,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    },
+    {
+      "ecg_id": 15604,
+      "exact_float32_match": true,
+      "max_absolute_difference_mV": 0.0,
+      "native_leads": [
+        "I",
+        "II",
+        "III",
+        "AVR",
+        "AVL",
+        "AVF",
+        "V1",
+        "V2",
+        "V3",
+        "V4",
+        "V5",
+        "V6"
+      ],
+      "constant_leads": []
+    }
+  ],
+  "standard_reader_documentation": "https://wfdb.readthedocs.io/en/v4.1.2/io.html",
+  "test_waveforms_read": false,
+  "models_trained": false
+}

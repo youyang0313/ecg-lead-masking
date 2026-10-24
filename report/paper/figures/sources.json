@@ -1,0 +1,38 @@
+{
+  "summary_sha256": "33b0687b57a08442f0055461bb3aef5daea6bc60e2b21f24ac6c9162453bb706",
+  "training_example_ecg_id": 12065,
+  "training_example_fold": 4,
+  "example_selection": "First metadata-selected pilot record; selected before waveform inspection.",
+  "example_channels_displayed": [
+    "I",
+    "II",
+    "V2",
+    "V1",
+    "V5",
+    "aVR"
+  ],
+  "actual_source_shape": [
+    12,
+    1000
+  ],
+  "normalization": "Full eligible TRAIN-only scaler, not pilot scaler.",
+  "generator_sha256": "8c0485ab4fed3720040f3c4ce5172e9f3226d2101f13411c4894d6e854d9028f",
+  "files": [
+    {
+      "file": "test_discrimination.pdf",
+      "sha256": "b9d1a9ee97c3661cf1560da20902f766609fb31496f376bc5299b07aaa4667b3"
+    },
+    {
+      "file": "test_discrimination.png",
+      "sha256": "62fb99d4f5325b496ae142f0a375bdf044a9219d801313eb0cf068183e67f054"
+    },
+    {
+      "file": "input_example.pdf",
+      "sha256": "9cf7fdddcafd208b1c412df2fccb4d728324eb20b387efa1f06342c1527c39c2"
+    },
+    {
+      "file": "input_example.png",
+      "sha256": "0602e389bc36b5ead6635c9a03f81386192d35c28a533efc36d1fec22b7f8ea0"
+    }
+  ]
+}

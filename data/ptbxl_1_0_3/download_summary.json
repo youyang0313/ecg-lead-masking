@@ -1,0 +1,11 @@
+{
+  "completed_on": "2026-10-22T18:01:46.475179+00:00",
+  "total_files": 38460,
+  "counts": {
+    "archived": 38460
+  },
+  "official_project_url": "https://physionet.org/content/ptb-xl/1.0.3/",
+  "official_s3_prefix": "https://physionet-open.s3.amazonaws.com/ptb-xl/1.0.3/",
+  "test_waveforms_downloaded": false,
+  "elapsed_seconds": 496.9
+}

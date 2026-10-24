@@ -1,0 +1,1440 @@
+﻿{"stage": "training", "arm": "A", "seed": 17, "epoch": 1, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 1, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 1, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 1, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 1, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 1, "protocol": 0.7826627262287726, "s12": 0.8972088238748082}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 2, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 2, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 2, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 2, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 2, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 2, "protocol": 0.79410417990984, "s12": 0.9165640107353461}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 3, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 3, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 3, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 3, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 3, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 3, "protocol": 0.8104273059069579, "s12": 0.9193060066129781}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 4, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 4, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 4, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 4, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 4, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 4, "protocol": 0.8002545975117417, "s12": 0.9235224023756148}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 5, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 5, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 5, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 5, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 5, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 5, "protocol": 0.8013237531618906, "s12": 0.9269283809243991}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 6, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 6, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 6, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 6, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 6, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 6, "protocol": 0.8097117144598514, "s12": 0.9239972223777135}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 7, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 7, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 7, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 7, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 7, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 7, "protocol": 0.7924055128898994, "s12": 0.9245995198212246}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 8, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 8, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 8, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 8, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 8, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 8, "protocol": 0.7972244118866629, "s12": 0.9276178616856153}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 9, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 9, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 9, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 9, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 9, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 9, "protocol": 0.7935649085620128, "s12": 0.9312064028832481}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 10, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 10, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 10, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 10, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 10, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 10, "protocol": 0.7905479238505383, "s12": 0.9279425699371131}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 11, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 11, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 11, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 11, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 11, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 11, "protocol": 0.7860030874924889, "s12": 0.9318494052653715}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 12, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 12, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 12, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 12, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 12, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 12, "protocol": 0.7906302116912265, "s12": 0.9294468361180954}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 13, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 13, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 13, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 13, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 13, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 13, "protocol": 0.806992886551239, "s12": 0.9310315497006526}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 14, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 14, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 14, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 14, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 14, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 14, "protocol": 0.7897352943362744, "s12": 0.9299712842353987}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 15, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 15, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 15, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 15, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 15, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 15, "protocol": 0.7847435940386487, "s12": 0.927613562288319}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 16, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 16, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 16, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 16, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 16, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 16, "protocol": 0.7818259858852858, "s12": 0.9279690164085764}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 17, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 17, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 17, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 17, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 17, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 17, "protocol": 0.7692467044945943, "s12": 0.9281767288570908}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 18, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 18, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 18, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 18, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 18, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 18, "protocol": 0.7686185947550811, "s12": 0.9284305909268495}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 19, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 19, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 19, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 19, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 19, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 19, "protocol": 0.7661184061046203, "s12": 0.9240055469209059}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 20, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 20, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 20, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 20, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 20, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 20, "protocol": 0.7479779209259505, "s12": 0.9204813126985634}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 21, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 21, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 21, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 21, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 21, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 21, "protocol": 0.7607726908906234, "s12": 0.9228314551047445}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 22, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 22, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 22, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 22, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 22, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 22, "protocol": 0.7634995808840618, "s12": 0.9236189230789853}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 23, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 23, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 23, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 23, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 23, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 23, "protocol": 0.7601921754214543, "s12": 0.920636150845413}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 24, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 24, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 24, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 24, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 24, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 24, "protocol": 0.7494691964213874, "s12": 0.918353522074329}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 25, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 25, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 25, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 25, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 25, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 25, "protocol": 0.7490896488943457, "s12": 0.9153945835179783}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 26, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 26, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 26, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 26, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 26, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 26, "protocol": 0.7475010866481729, "s12": 0.9149979608267349}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 27, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 27, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 27, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 27, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 27, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 27, "protocol": 0.7477226558700294, "s12": 0.9137463579397898}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 28, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 28, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 28, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 28, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 28, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 28, "protocol": 0.7518289225344283, "s12": 0.9139524747158095}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 29, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 29, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 29, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 29, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 29, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 29, "protocol": 0.7406282861107043, "s12": 0.9110432665389773}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 30, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 30, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 30, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 30, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 30, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 30, "protocol": 0.7411074532848707, "s12": 0.908215281757624}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 31, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 31, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 31, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 31, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 31, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 31, "protocol": 0.7399138436220494, "s12": 0.9105029271396876}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 32, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 32, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 32, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 32, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 32, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 32, "protocol": 0.7428939790612035, "s12": 0.9088933715403039}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 33, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 33, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 33, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 33, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 33, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 33, "protocol": 0.7427984779495123, "s12": 0.911419964986566}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 34, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 34, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 34, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 34, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 34, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 34, "protocol": 0.7422066225605087, "s12": 0.9089048406419378}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 35, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 35, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 35, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 35, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 35, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 35, "protocol": 0.7400742957614951, "s12": 0.9079206390666492}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 36, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 36, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 36, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 36, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 36, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 36, "protocol": 0.7380472772148586, "s12": 0.9085542940771513}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 37, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 37, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 37, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 37, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 37, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 37, "protocol": 0.7394674481671943, "s12": 0.9088516768541088}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 38, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 38, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 38, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 38, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 38, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 38, "protocol": 0.7404498296097339, "s12": 0.9091407232628164}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 39, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 39, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 39, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 39, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 39, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 39, "protocol": 0.7401974238877119, "s12": 0.9094293014004531}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 40, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 40, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 40, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 40, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 17, "epoch": 40, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 17, "epoch": 40, "protocol": 0.7396180507704876, "s12": 0.9094044171123994}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 1, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 1, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 1, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 1, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 1, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 1, "protocol": 0.8591501827394947, "s12": 0.888789670812853}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 2, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 2, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 2, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 2, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 2, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 2, "protocol": 0.872533131898995, "s12": 0.8985684222801169}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 3, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 3, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 3, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 3, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 3, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 3, "protocol": 0.8861244616236211, "s12": 0.9138062772057444}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 4, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 4, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 4, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 4, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 4, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 4, "protocol": 0.8962379607581904, "s12": 0.9228642380475565}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 5, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 5, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 5, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 5, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 5, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 5, "protocol": 0.895962168348576, "s12": 0.9228036382885104}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 6, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 6, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 6, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 6, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 6, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 6, "protocol": 0.8974469596558757, "s12": 0.924086566019036}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 7, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 7, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 7, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 7, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 7, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 7, "protocol": 0.8982039105086952, "s12": 0.9220613587605528}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 8, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 8, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 8, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 8, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 8, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 8, "protocol": 0.9002108757036268, "s12": 0.9255644384633135}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 9, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 9, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 9, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 9, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 9, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 9, "protocol": 0.9045123654916501, "s12": 0.9267478210929504}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 10, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 10, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 10, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 10, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 10, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 10, "protocol": 0.8997928727987533, "s12": 0.9253187268121165}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 11, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 11, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 11, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 11, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 11, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 11, "protocol": 0.9039131417836918, "s12": 0.9290965289767215}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 12, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 12, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 12, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 12, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 12, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 12, "protocol": 0.9056230375091064, "s12": 0.9278451377711677}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 13, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 13, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 13, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 13, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 13, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 13, "protocol": 0.9029774819039363, "s12": 0.9300241905549267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 14, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 14, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 14, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 14, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 14, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 14, "protocol": 0.9057581270175381, "s12": 0.9276033469469013}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 15, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 15, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 15, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 15, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 15, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 15, "protocol": 0.9083255078795659, "s12": 0.9319472802199158}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 16, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 16, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 16, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 16, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 16, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 16, "protocol": 0.9070915613105922, "s12": 0.9288384371114755}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 17, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 17, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 17, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 17, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 17, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 17, "protocol": 0.9090942117448297, "s12": 0.933707302244269}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 18, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 18, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 18, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 18, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 18, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 18, "protocol": 0.9086949707158434, "s12": 0.9322672015840828}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 19, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 19, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 19, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 19, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 19, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 19, "protocol": 0.9058076944872219, "s12": 0.930655129552664}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 20, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 20, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 20, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 20, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 20, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 20, "protocol": 0.9075498290067462, "s12": 0.9306706490017238}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 21, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 21, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 21, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 21, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 21, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 21, "protocol": 0.9081226837134297, "s12": 0.9323054479282342}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 22, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 22, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 22, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 22, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 22, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 22, "protocol": 0.9072091397204439, "s12": 0.9311454242564379}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 23, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 23, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 23, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 23, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 23, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 23, "protocol": 0.9082845591172186, "s12": 0.9296077864176346}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 24, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 24, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 24, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 24, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 24, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 24, "protocol": 0.9097726917380292, "s12": 0.9309654425489245}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 25, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 25, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 25, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 25, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 25, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 25, "protocol": 0.9097908533038396, "s12": 0.9318879549309482}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 26, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 26, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 26, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 26, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 26, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 26, "protocol": 0.9097409703592774, "s12": 0.9323581759939567}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 27, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 27, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 27, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 27, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 27, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 27, "protocol": 0.9091917223546602, "s12": 0.9319020665940456}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 28, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 28, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 28, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 28, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 28, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 28, "protocol": 0.9084457993557367, "s12": 0.9305575447344733}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 29, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 29, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 29, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 29, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 29, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 29, "protocol": 0.9083451028785116, "s12": 0.93038756719595}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 30, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 30, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 30, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 30, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 30, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 30, "protocol": 0.9080629828876601, "s12": 0.9299559209732114}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 31, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 31, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 31, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 31, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 31, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 31, "protocol": 0.9089420782494105, "s12": 0.9308158106400783}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 32, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 32, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 32, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 32, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 32, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 32, "protocol": 0.9068785579905034, "s12": 0.9285604868353736}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 33, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 33, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 33, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 33, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 33, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 33, "protocol": 0.9072252919135638, "s12": 0.929228509995262}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 34, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 34, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 34, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 34, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 34, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 34, "protocol": 0.90753664197907, "s12": 0.9288939976307745}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 35, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 35, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 35, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 35, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 35, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 35, "protocol": 0.9065239232886757, "s12": 0.9275295679426236}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 36, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 36, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 36, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 36, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 36, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 36, "protocol": 0.9041907459075337, "s12": 0.926014727235076}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 37, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 37, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 37, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 37, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 37, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 37, "protocol": 0.9071171994849445, "s12": 0.9288158177561397}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 38, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 38, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 38, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 38, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 38, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 38, "protocol": 0.9078208254740722, "s12": 0.929027789195971}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 39, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 39, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 39, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 39, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 39, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 39, "protocol": 0.9075757818458138, "s12": 0.9288159913315509}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 40, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 40, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 40, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 40, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 17, "epoch": 40, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 17, "epoch": 40, "protocol": 0.9071376486077952, "s12": 0.9286247363086624}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 1, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 1, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 1, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 1, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 1, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 1, "protocol": 0.7798714893684879, "s12": 0.9026837560208918}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 2, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 2, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 2, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 2, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 2, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 2, "protocol": 0.784303253854195, "s12": 0.9167427865593369}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 3, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 3, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 3, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 3, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 3, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 3, "protocol": 0.770323988678189, "s12": 0.9217638606715053}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 4, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 4, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 4, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 4, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 4, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 4, "protocol": 0.7718809503744457, "s12": 0.9263492985112917}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 5, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 5, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 5, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 5, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 5, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 5, "protocol": 0.7809669474434706, "s12": 0.9289059000510826}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 6, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 6, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 6, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 6, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 6, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 6, "protocol": 0.7864133169192765, "s12": 0.9282680855368486}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 7, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 7, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 7, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 7, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 7, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 7, "protocol": 0.7873333554919603, "s12": 0.9312982051272677}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 8, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 8, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 8, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 8, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 8, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 8, "protocol": 0.7745037711150036, "s12": 0.9293970005137527}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 9, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 9, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 9, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 9, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 9, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 9, "protocol": 0.7730788304925007, "s12": 0.9287484432268276}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 10, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 10, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 10, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 10, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 10, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 10, "protocol": 0.7818708555415507, "s12": 0.9281393528226684}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 11, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 11, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 11, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 11, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 11, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 11, "protocol": 0.7847864089148892, "s12": 0.9327852406204278}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 12, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 12, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 12, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 12, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 12, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 12, "protocol": 0.7757687744912167, "s12": 0.9301744695025708}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 13, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 13, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 13, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 13, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 13, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 13, "protocol": 0.7724073351457212, "s12": 0.9311001216020578}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 14, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 14, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 14, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 14, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 14, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 14, "protocol": 0.7804725604030391, "s12": 0.9306001669480229}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 15, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 15, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 15, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 15, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 15, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 15, "protocol": 0.7782765191830754, "s12": 0.9281980368033242}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 16, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 16, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 16, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 16, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 16, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 16, "protocol": 0.7620724654664589, "s12": 0.9293132603921108}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 17, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 17, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 17, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 17, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 17, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 17, "protocol": 0.7615121734032383, "s12": 0.9236068153675175}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 18, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 18, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 18, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 18, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 18, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 18, "protocol": 0.7586842245583321, "s12": 0.9253876143967996}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 19, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 19, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 19, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 19, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 19, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 19, "protocol": 0.7648165107290449, "s12": 0.9291855225702033}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 20, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 20, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 20, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 20, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 20, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 20, "protocol": 0.7505738016809369, "s12": 0.9270634797102112}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 21, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 21, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 21, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 21, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 21, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 21, "protocol": 0.7567539396061049, "s12": 0.923718685191903}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 22, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 22, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 22, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 22, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 22, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 22, "protocol": 0.7523618157619225, "s12": 0.9227212298073507}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 23, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 23, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 23, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 23, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 23, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 23, "protocol": 0.7555069120569045, "s12": 0.919206432134871}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 24, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 24, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 24, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 24, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 24, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 24, "protocol": 0.7480402549677336, "s12": 0.9208074307291149}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 25, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 25, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 25, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 25, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 25, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 25, "protocol": 0.7405589974599602, "s12": 0.916250232961298}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 26, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 26, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 26, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 26, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 26, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 26, "protocol": 0.7443985312913716, "s12": 0.9150119320628185}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 27, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 27, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 27, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 27, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 27, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 27, "protocol": 0.7446861293889355, "s12": 0.9123488211808082}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 28, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 28, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 28, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 28, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 28, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 28, "protocol": 0.7378126493216762, "s12": 0.9143259434286092}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 29, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 29, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 29, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 29, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 29, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 29, "protocol": 0.7376004586270862, "s12": 0.913407270797237}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 30, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 30, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 30, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 30, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 30, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 30, "protocol": 0.7443153832239353, "s12": 0.9137502594405555}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 31, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 31, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 31, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 31, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 31, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 31, "protocol": 0.739121760540146, "s12": 0.9133105413538523}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 32, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 32, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 32, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 32, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 32, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 32, "protocol": 0.733002581404536, "s12": 0.9129271917610353}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 33, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 33, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 33, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 33, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 33, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 33, "protocol": 0.7346382057286658, "s12": 0.9104710713205708}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 34, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 34, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 34, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 34, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 34, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 34, "protocol": 0.7345590318878307, "s12": 0.9113873936847524}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 35, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 35, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 35, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 35, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 35, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 35, "protocol": 0.73312585011254, "s12": 0.9101684046555624}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 36, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 36, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 36, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 36, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 36, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 36, "protocol": 0.7326549629959609, "s12": 0.9092823184286345}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 37, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 37, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 37, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 37, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 37, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 37, "protocol": 0.735518659533903, "s12": 0.9109953908597312}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 38, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 38, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 38, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 38, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 38, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 38, "protocol": 0.7336669553235228, "s12": 0.9108098118787111}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 39, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 39, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 39, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 39, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 39, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 39, "protocol": 0.7348589513236529, "s12": 0.9114283872838385}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 40, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 40, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 40, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 40, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 29, "epoch": 40, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 29, "epoch": 40, "protocol": 0.7355882768666941, "s12": 0.9107900155169972}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 1, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 1, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 1, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 1, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 1, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 1, "protocol": 0.8635064426280721, "s12": 0.8957895366365207}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 2, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 2, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 2, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 2, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 2, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 2, "protocol": 0.876852483132774, "s12": 0.9028750247035762}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 3, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 3, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 3, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 3, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 3, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 3, "protocol": 0.8799047319423913, "s12": 0.9078693611423428}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 4, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 4, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 4, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 4, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 4, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 4, "protocol": 0.8949647853959266, "s12": 0.9200535129768209}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 5, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 5, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 5, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 5, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 5, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 5, "protocol": 0.8975918272537412, "s12": 0.921469290561574}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 6, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 6, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 6, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 6, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 6, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 6, "protocol": 0.8956843909519359, "s12": 0.9232494830447873}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 7, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 7, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 7, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 7, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 7, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 7, "protocol": 0.8964447051780084, "s12": 0.9247362939701226}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 8, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 8, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 8, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 8, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 8, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 8, "protocol": 0.9017614713125047, "s12": 0.9269949084771951}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 9, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 9, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 9, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 9, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 9, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 9, "protocol": 0.8956019140756681, "s12": 0.9226869351238716}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 10, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 10, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 10, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 10, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 10, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 10, "protocol": 0.9005153219713934, "s12": 0.9239668178481395}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 11, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 11, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 11, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 11, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 11, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 11, "protocol": 0.9061638670686586, "s12": 0.9303154550410173}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 12, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 12, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 12, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 12, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 12, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 12, "protocol": 0.9092141182219672, "s12": 0.9304092448012644}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 13, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 13, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 13, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 13, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 13, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 13, "protocol": 0.9073850116358403, "s12": 0.9316465454167242}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 14, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 14, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 14, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 14, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 14, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 14, "protocol": 0.9089704680840476, "s12": 0.9330114061603618}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 15, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 15, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 15, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 15, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 15, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 15, "protocol": 0.9060301899772868, "s12": 0.9294919290039892}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 16, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 16, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 16, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 16, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 16, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 16, "protocol": 0.9051529243745093, "s12": 0.927267857049879}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 17, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 17, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 17, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 17, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 17, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 17, "protocol": 0.9068733697587407, "s12": 0.9295446443475835}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 18, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 18, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 18, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 18, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 18, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 18, "protocol": 0.9077221107703445, "s12": 0.9315088926981316}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 19, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 19, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 19, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 19, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 19, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 19, "protocol": 0.9070614047492133, "s12": 0.9301306450733285}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 20, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 20, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 20, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 20, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 20, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 20, "protocol": 0.909137700099753, "s12": 0.9313524813472114}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 21, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 21, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 21, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 21, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 21, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 21, "protocol": 0.9064685342409313, "s12": 0.930798031128589}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 22, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 22, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 22, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 22, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 22, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 22, "protocol": 0.908679061115211, "s12": 0.9313883966028443}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 23, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 23, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 23, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 23, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 23, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 23, "protocol": 0.9124497762167558, "s12": 0.9315717051181405}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 24, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 24, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 24, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 24, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 24, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 24, "protocol": 0.9094531401947669, "s12": 0.9313163931509554}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 25, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 25, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 25, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 25, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 25, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 25, "protocol": 0.9092073759339788, "s12": 0.9308358274640046}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 26, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 26, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 26, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 26, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 26, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 26, "protocol": 0.9059553763363433, "s12": 0.928560964011019}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 27, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 27, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 27, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 27, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 27, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 27, "protocol": 0.9107208578764613, "s12": 0.9311089869198177}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 28, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 28, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 28, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 28, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 28, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 28, "protocol": 0.9091296531182741, "s12": 0.930430459407896}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 29, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 29, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 29, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 29, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 29, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 29, "protocol": 0.9086033432929644, "s12": 0.9286646864048868}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 30, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 30, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 30, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 30, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 30, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 30, "protocol": 0.9094012074618715, "s12": 0.9302061922812268}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 31, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 31, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 31, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 31, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 31, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 31, "protocol": 0.9090608219553914, "s12": 0.9302208728156923}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 32, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 32, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 32, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 32, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 32, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 32, "protocol": 0.9086084033957483, "s12": 0.9294975133137893}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 33, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 33, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 33, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 33, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 33, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 33, "protocol": 0.908045577168619, "s12": 0.928810069354524}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 34, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 34, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 34, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 34, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 34, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 34, "protocol": 0.9079233228523936, "s12": 0.9286588750284815}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 35, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 35, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 35, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 35, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 35, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 35, "protocol": 0.908455427462851, "s12": 0.9292666216949261}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 36, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 36, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 36, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 36, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 36, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 36, "protocol": 0.9062529219807622, "s12": 0.9284318021236307}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 37, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 37, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 37, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 37, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 37, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 37, "protocol": 0.9083198617422685, "s12": 0.9289747544004727}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 38, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 38, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 38, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 38, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 38, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 38, "protocol": 0.908517411232242, "s12": 0.92938335173226}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 39, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 39, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 39, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 39, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 39, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 39, "protocol": 0.9082594897916039, "s12": 0.9289439417203711}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 40, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 40, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 40, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 40, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 29, "epoch": 40, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 29, "epoch": 40, "protocol": 0.908200994637316, "s12": 0.9289069388163174}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 1, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 1, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 1, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 1, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 1, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 1, "protocol": 0.7992878649890527, "s12": 0.9007213484003838}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 2, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 2, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 2, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 2, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 2, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 2, "protocol": 0.8057507844190923, "s12": 0.9150433355957539}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 3, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 3, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 3, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 3, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 3, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 3, "protocol": 0.7961557031202361, "s12": 0.9195372361480227}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 4, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 4, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 4, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 4, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 4, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 4, "protocol": 0.8031302926495306, "s12": 0.9252348723081745}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 5, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 5, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 5, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 5, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 5, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 5, "protocol": 0.8188734443975343, "s12": 0.9242658707417231}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 6, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 6, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 6, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 6, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 6, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 6, "protocol": 0.8069575382845909, "s12": 0.9270181225777204}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 7, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 7, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 7, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 7, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 7, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 7, "protocol": 0.8172365355398024, "s12": 0.9262629848268483}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 8, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 8, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 8, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 8, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 8, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 8, "protocol": 0.8076140330528349, "s12": 0.9311275290130885}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 9, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 9, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 9, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 9, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 9, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 9, "protocol": 0.8071315525241747, "s12": 0.927569920600854}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 10, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 10, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 10, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 10, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 10, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 10, "protocol": 0.8163007120170604, "s12": 0.9329907482066119}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 11, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 11, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 11, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 11, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 11, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 11, "protocol": 0.8025442124053733, "s12": 0.9296098040079421}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 12, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 12, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 12, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 12, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 12, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 12, "protocol": 0.8012982274865048, "s12": 0.9308591396586848}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 13, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 13, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 13, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 13, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 13, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 13, "protocol": 0.8017259922586853, "s12": 0.9318858454316512}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 14, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 14, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 14, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 14, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 14, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 14, "protocol": 0.8009034226559666, "s12": 0.9311069642124098}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 15, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 15, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 15, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 15, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 15, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 15, "protocol": 0.7985125507188684, "s12": 0.9306006378405917}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 16, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 16, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 16, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 16, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 16, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 16, "protocol": 0.8015300395929946, "s12": 0.9291425218157618}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 17, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 17, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 17, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 17, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 17, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 17, "protocol": 0.7933203413137334, "s12": 0.925453296623132}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 18, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 18, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 18, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 18, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 18, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 18, "protocol": 0.7842478300365807, "s12": 0.9272512437135717}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 19, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 19, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 19, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 19, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 19, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 19, "protocol": 0.7846299498437052, "s12": 0.9290850387907259}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 20, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 20, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 20, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 20, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 20, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 20, "protocol": 0.7891113340522209, "s12": 0.9234531669818491}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 21, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 21, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 21, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 21, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 21, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 21, "protocol": 0.7814499944723324, "s12": 0.924647450577532}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 22, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 22, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 22, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 22, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 22, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 22, "protocol": 0.7733679018666453, "s12": 0.9249055338592077}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 23, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 23, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 23, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 23, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 23, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 23, "protocol": 0.7777367634518018, "s12": 0.9186093373824816}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 24, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 24, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 24, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 24, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 24, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 24, "protocol": 0.7709474861119415, "s12": 0.9163482676314292}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 25, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 25, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 25, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 25, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 25, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 25, "protocol": 0.7781866498488101, "s12": 0.9187870746620099}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 26, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 26, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 26, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 26, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 26, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 26, "protocol": 0.7694754142719727, "s12": 0.9153679842643665}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 27, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 27, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 27, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 27, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 27, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 27, "protocol": 0.7649309885501578, "s12": 0.9122469249597703}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 28, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 28, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 28, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 28, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 28, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 28, "protocol": 0.7634761095272993, "s12": 0.9124212250664161}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 29, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 29, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 29, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 29, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 29, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 29, "protocol": 0.768963336882648, "s12": 0.9127886402572083}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 30, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 30, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 30, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 30, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 30, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 30, "protocol": 0.7643283806128729, "s12": 0.9101967867671756}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 31, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 31, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 31, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 31, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 31, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 31, "protocol": 0.758104475857442, "s12": 0.9085332445309093}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 32, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 32, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 32, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 32, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 32, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 32, "protocol": 0.7628517314024772, "s12": 0.9113229794985657}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 33, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 33, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 33, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 33, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 33, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 33, "protocol": 0.7652942939915778, "s12": 0.9116563778445675}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 34, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 34, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 34, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 34, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 34, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 34, "protocol": 0.7583899034185735, "s12": 0.9062870388047978}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 35, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 35, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 35, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 35, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 35, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 35, "protocol": 0.7627011216977051, "s12": 0.9092695557098273}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 36, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 36, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 36, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 36, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 36, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 36, "protocol": 0.7635160086370321, "s12": 0.9114772571955216}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 37, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 37, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 37, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 37, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 37, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 37, "protocol": 0.7550685143957151, "s12": 0.9052733892703693}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 38, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 38, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 38, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 38, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 38, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 38, "protocol": 0.7626787876921746, "s12": 0.9093281497980467}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 39, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 39, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 39, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 39, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 39, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 39, "protocol": 0.7598610540169416, "s12": 0.9102286229527128}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 40, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 40, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 40, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 40, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "A", "seed": 43, "epoch": 40, "batch": 250, "total_batches": 267}
+{"arm": "A", "seed": 43, "epoch": 40, "protocol": 0.7619736025613805, "s12": 0.9097903976530594}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 1, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 1, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 1, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 1, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 1, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 1, "protocol": 0.8595946202848475, "s12": 0.8912106450168841}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 2, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 2, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 2, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 2, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 2, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 2, "protocol": 0.8822827066358179, "s12": 0.9126368223980877}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 3, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 3, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 3, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 3, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 3, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 3, "protocol": 0.8876061202972656, "s12": 0.9156115932421262}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 4, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 4, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 4, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 4, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 4, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 4, "protocol": 0.8938000671945406, "s12": 0.9192119581489646}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 5, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 5, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 5, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 5, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 5, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 5, "protocol": 0.8950710886006933, "s12": 0.9225206422806238}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 6, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 6, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 6, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 6, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 6, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 6, "protocol": 0.8970415388774822, "s12": 0.9247750544051169}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 7, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 7, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 7, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 7, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 7, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 7, "protocol": 0.8991564765399775, "s12": 0.9262804948124149}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 8, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 8, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 8, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 8, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 8, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 8, "protocol": 0.9015942780635817, "s12": 0.9268611299677391}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 9, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 9, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 9, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 9, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 9, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 9, "protocol": 0.9007529097441918, "s12": 0.9243226408794543}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 10, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 10, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 10, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 10, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 10, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 10, "protocol": 0.9020014084068487, "s12": 0.926836529247781}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 11, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 11, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 11, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 11, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 11, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 11, "protocol": 0.9034383447368669, "s12": 0.9260004380459067}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 12, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 12, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 12, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 12, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 12, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 12, "protocol": 0.9035418784519642, "s12": 0.926480387969017}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 13, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 13, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 13, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 13, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 13, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 13, "protocol": 0.9052751906096247, "s12": 0.9281088508416138}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 14, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 14, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 14, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 14, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 14, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 14, "protocol": 0.90218877523142, "s12": 0.9274760912400926}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 15, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 15, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 15, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 15, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 15, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 15, "protocol": 0.9084379443309173, "s12": 0.9331972248639195}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 16, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 16, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 16, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 16, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 16, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 16, "protocol": 0.90461428144897, "s12": 0.9295083285958116}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 17, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 17, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 17, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 17, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 17, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 17, "protocol": 0.9050284405531123, "s12": 0.9311618252943689}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 18, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 18, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 18, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 18, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 18, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 18, "protocol": 0.9081803774533462, "s12": 0.930599793627783}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 19, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 19, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 19, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 19, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 19, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 19, "protocol": 0.9087504858534978, "s12": 0.9325523445796338}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 20, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 20, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 20, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 20, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 20, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 20, "protocol": 0.9087277275826533, "s12": 0.931936552306239}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 21, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 21, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 21, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 21, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 21, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 21, "protocol": 0.9080186959741607, "s12": 0.9318141441153399}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 22, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 22, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 22, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 22, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 22, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 22, "protocol": 0.9108810711788362, "s12": 0.9337099366754043}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 23, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 23, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 23, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 23, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 23, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 23, "protocol": 0.9127772378722875, "s12": 0.9348700328407237}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 24, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 24, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 24, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 24, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 24, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 24, "protocol": 0.9088165575778103, "s12": 0.9323816155446615}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 25, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 25, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 25, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 25, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 25, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 25, "protocol": 0.9109777031537936, "s12": 0.9328720812456341}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 26, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 26, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 26, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 26, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 26, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 26, "protocol": 0.909393119433993, "s12": 0.9325084034216943}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 27, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 27, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 27, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 27, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 27, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 27, "protocol": 0.9080114231370882, "s12": 0.9332255314932262}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 28, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 28, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 28, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 28, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 28, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 28, "protocol": 0.9103728549578787, "s12": 0.9339620680772625}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 29, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 29, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 29, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 29, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 29, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 29, "protocol": 0.9087775945297755, "s12": 0.9328882428969045}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 30, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 30, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 30, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 30, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 30, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 30, "protocol": 0.9103954545755719, "s12": 0.9327610285811894}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 31, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 31, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 31, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 31, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 31, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 31, "protocol": 0.9093397200901578, "s12": 0.9320716546092939}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 32, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 32, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 32, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 32, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 32, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 32, "protocol": 0.9080943332940599, "s12": 0.9321125340725951}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 33, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 33, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 33, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 33, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 33, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 33, "protocol": 0.9085828186819519, "s12": 0.9315801648669098}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 34, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 34, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 34, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 34, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 34, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 34, "protocol": 0.9085098643471259, "s12": 0.9315723717385612}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 35, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 35, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 35, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 35, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 35, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 35, "protocol": 0.9086750346350501, "s12": 0.9313293785478564}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 36, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 36, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 36, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 36, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 36, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 36, "protocol": 0.9090662516265133, "s12": 0.9321679506376656}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 37, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 37, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 37, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 37, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 37, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 37, "protocol": 0.9079984289107347, "s12": 0.9310579610360186}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 38, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 38, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 38, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 38, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 38, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 38, "protocol": 0.9083301386341921, "s12": 0.9313832640873697}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 39, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 39, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 39, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 39, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 39, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 39, "protocol": 0.9063370026407561, "s12": 0.9289931865335175}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 40, "batch": 50, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 40, "batch": 100, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 40, "batch": 150, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 40, "batch": 200, "total_batches": 267}
+{"stage": "training", "arm": "B", "seed": 43, "epoch": 40, "batch": 250, "total_batches": 267}
+{"arm": "B", "seed": 43, "epoch": 40, "protocol": 0.9083693479912297, "s12": 0.9312221488485362}
